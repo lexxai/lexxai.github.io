@@ -1,4 +1,4 @@
 ---
 layout: home
-title: Lexxai's Blog copy
+title: Маємо те, що маємо. Усе що відбувається - на краще
 ---
