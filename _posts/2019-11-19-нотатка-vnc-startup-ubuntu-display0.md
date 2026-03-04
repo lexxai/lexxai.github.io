@@ -75,4 +75,4 @@ sudo apt install slick-greeter
   
 
 * <https://serverfault.com/questions/848078/x11vnc-on-ubuntu-16-04-gnome-with-systemd>
-* [https://lexxai.blogspot.com/2016/06/ubuntu-1604-x11vnc-startup.html](https://lexxai.github.io/2016/06/ubuntu-1604-x11vnc-startup.html)
+* <https://lexxai.blogspot.com/2016/06/ubuntu-1604-x11vnc-startup.html>

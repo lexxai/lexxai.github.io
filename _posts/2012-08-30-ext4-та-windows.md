@@ -6,7 +6,7 @@ tags: []
 blogger_orig_link: https://lexxai.blogspot.com/2012/08/ext4-windows.html
 ---
 
-Роутер [TP-LINK 1043](https://lexxai.github.io/search/label/TP-Link%201043) з [OpenWRT](https://lexxai.github.io/search/label/openwrt) використовує файлову систему [Ext4](https://lexxai.github.io/search/label/ext4) для використання як мережеве сховище.  
+Роутер [TP-LINK 1043](http://lexxai.blogspot.com/search/label/TP-Link%201043) з [OpenWRT](http://lexxai.blogspot.com/search/label/openwrt) використовує файлову систему [Ext4](http://lexxai.blogspot.com/search/label/ext4) для використання як мережеве сховище.  
 Але якщо є потреба підключити накопичувач до комп'ютера то потрібно мати змогу використовувати його.  
   
 Використав [Ext2Fsd Project](http://www.ext2fsd.com/) Open source ext3/4 file system driver for Windows (2K/XP/VISTA/WIN7).  

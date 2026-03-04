@@ -28,7 +28,7 @@ blogger_orig_link: https://lexxai.blogspot.com/2020/03/433-thomas-twin-tt-aquafi
 
 #### Дистанційне керування
 
-Я [придбав пульт керування з двома каналами](https://lexxai.github.io/2020/03/433.html) які можуть замикати і розмикати електронне реле натисканням клавішам "А" і "B" на пульті керування.  
+Я [придбав пульт керування з двома каналами](https://lexxai.blogspot.com/2020/03/433.html) які можуть замикати і розмикати електронне реле натисканням клавішам "А" і "B" на пульті керування.  
 
 [![](/assets/images/blog/0b88a74b565863e7-521077b86694cbf0.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdur5_VTuS_123axeroL4FmhPJV_n3Pp4R-ATlnz5x5e6Z_QloaKLMvYdIKXZ43wvrnajA1ytfE4Z1cQzKGC6RnZbyMQg_FtO6qIIu6bobYC2ATMy1Bw0zDDvyOjHgr1fhprR2Ef88gBAq/s1600/photo_2020-03-04_02-16-40.jpg)  
 *пульт на 433МГц два канали*

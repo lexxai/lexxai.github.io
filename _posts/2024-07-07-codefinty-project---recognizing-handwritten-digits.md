@@ -6,7 +6,7 @@ tags: []
 blogger_orig_link: https://lexxai.blogspot.com/2024/07/codefinty-recognizing-handwritten-digits.html
 ---
 
-#### Postgraduate of [completed track - Python. Preparation for Data Science. Consists of 9 courses.](https://lexxai.github.io/2024/06/codefinity-successfully-completed-track.html)
+#### Postgraduate of [completed track - Python. Preparation for Data Science. Consists of 9 courses.](https://lexxai.blogspot.com/2024/06/codefinity-successfully-completed-track.html)
 
 * [Recognizing Handwritten Digits](https://codefinity.com/ua/courses/projects/442f33bc-9116-4f2a-a04a-c9c5a6e6dc03).   
   In

@@ -196,5 +196,5 @@ DENY_ALL           VLAN100_ACL        2  N/A              N/A
 За матеріалами:
 
 * sonic-notebook:
-  [https://lexxai.blogspot.com/2024/04/sonic-notebook.html](https://lexxai.github.io/2024/04/sonic-notebook.html)
+  <https://lexxai.blogspot.com/2024/04/sonic-notebook.html>
 * [Understanding Stateful vs Stateless Firewalls](https://www.whizlabs.com/labs/understanding-stateful-vs-stateless-firewalls/)

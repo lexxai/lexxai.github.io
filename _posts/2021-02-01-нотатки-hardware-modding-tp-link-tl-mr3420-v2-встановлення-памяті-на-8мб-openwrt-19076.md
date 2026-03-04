@@ -221,7 +221,7 @@ zlib - 1.2.11-3
 [![](/assets/images/blog/f69c8d0a3617db30-174dc196ffe6fdef.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPi78YkP3Js79Ep_EMWW0Lj8g3F0ow3KkAXgCqFtKDe-PPNHUMm2OewACdDFyThNc3onOWKZe_Y0HaTtFUVBTX4nMjGZ63otz3uRCa9hUYeFRLkKjdwPYcqCmgPCF2LoRd8om2O-Q71Ej7/s862/flash-3420-B05.PNG)  
 *Про розробника*
 
-11. Власний образ для 8МБ створюється на основі : "[Маємо те, що маємо. Усе що відбувається - на краще: Hardware modding TP-Link TL-WR841N v9 4M to 8M Flash and compile custom OpenWrt](https://lexxai.github.io/2019/07/hardware-modding-tp-link-tl-wr841n-v9.html)"
+11. Власний образ для 8МБ створюється на основі : "[Маємо те, що маємо. Усе що відбувається - на краще: Hardware modding TP-Link TL-WR841N v9 4M to 8M Flash and compile custom OpenWrt](https://lexxai.blogspot.com/2019/07/hardware-modding-tp-link-tl-wr841n-v9.html)"
 
 ```
 git clone https://git.openwrt.org/openwrt/openwrt.git/

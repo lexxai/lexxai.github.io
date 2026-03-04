@@ -137,7 +137,7 @@ Depends: kernel (= 2.6.32.27-1), kmod-ipt-core, kmod-textsearch
 opkg info kmod-ipt-core  
 Depends: kernel (= 2.6.32.27-1)  
   
-Тому слід бути уважним щодо використовного вашого ядра операційної системи, у моєму випадку потрібні скомпільовані версії для  2.6.32.28-1, тому я їх створював за [цією процедурою](https://lexxai.github.io/2011/10/dantes-openwrt-kernel-263228-tp-link-tl.html).  
+Тому слід бути уважним щодо використовного вашого ядра операційної системи, у моєму випадку потрібні скомпільовані версії для  2.6.32.28-1, тому я їх створював за [цією процедурою](http://lexxai.blogspot.com/2011/10/dantes-openwrt-kernel-263228-tp-link-tl.html).  
   
   
 opkg install iptables-mod-filter  

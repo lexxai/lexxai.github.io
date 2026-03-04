@@ -52,4 +52,4 @@ blogger_orig_link: https://lexxai.blogspot.com/2020/05/genius-bluetooth.html
 [![](/assets/images/blog/563d213f3e89d621-f71b89672b539cbb.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihyphenhyphenrE6Q1n5Q7Q7DUbLI3UmfS7NMu8ETzXHC_ylh3tinA8U-JdDPTL7uCJ-0zBtC0SeoTuwEC3-74BaambCXDfvyl5TtVFf11Fm5aoPDqkc-XFj8qyS1wHHcM34iDH-Un6Fjb6MKT7gUbN6/s1600/a1.jpg)  
 *Відновленні Аудіоколонки  SP-G16, з зовнішнім модулем Bluetooth K330.*
 
-Як подальший етап відновлення був етап додавання можливості програвання через Bluetooth. Так я додав зовнішній модуль [USB Bluetooth K330](https://lexxai.github.io/2020/05/bluetooth-kn330.html). Цей модуль може працювати у трьох режимах. Перемикач RX-TX перемикає режим прийом-передача. Два модулі можуть організувати простий аудіо подовжувач.
+Як подальший етап відновлення був етап додавання можливості програвання через Bluetooth. Так я додав зовнішній модуль [USB Bluetooth K330](https://lexxai.blogspot.com/2020/05/bluetooth-kn330.html). Цей модуль може працювати у трьох режимах. Перемикач RX-TX перемикає режим прийом-передача. Два модулі можуть організувати простий аудіо подовжувач.

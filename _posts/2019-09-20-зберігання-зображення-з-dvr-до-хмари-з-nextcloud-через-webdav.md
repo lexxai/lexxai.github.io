@@ -195,7 +195,7 @@ touch  /mnt/dav/.notmounted
 
 #### Отримання зображень з реєстратора
 
-У кожного [він може бути свій](https://lexxai.github.io/2018/12/avtech-dvr-hiden-commands.html) URL для завантаження. Так для отримання JPEG зображень з реєстратора я використовую протокол http.  
+У кожного [він може бути свій](https://lexxai.blogspot.com/2018/12/avtech-dvr-hiden-commands.html) URL для завантаження. Так для отримання JPEG зображень з реєстратора я використовую протокол http.  
 
 ```
 http://security.url/cgi-bin/guest/Video.cgi?media=JPEG&resolution=4CIF
@@ -386,7 +386,7 @@ crontab -e
   
 
 * [Монтування хмарного диска по WebDav | Erinome Lane](http://tt.erinome.net/2012/11/360)
-* [AVTECH DVR HIDDEN COMMANDS](https://lexxai.github.io/2018/12/avtech-dvr-hiden-commands.html)
+* [AVTECH DVR HIDDEN COMMANDS](https://lexxai.blogspot.com/2018/12/avtech-dvr-hiden-commands.html)
 
   
 [Scripts on github.com](https://github.com/lexxai/storing-DVR-images-to-remote-storage)

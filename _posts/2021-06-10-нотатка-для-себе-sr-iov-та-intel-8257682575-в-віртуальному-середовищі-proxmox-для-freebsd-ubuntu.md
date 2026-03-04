@@ -67,7 +67,7 @@ FreeBSD не може проініціювати 82576 Virtual Adapter:
 ### 10GB FreeBSD VM
 
 Тестування
-[10Gb адаптера Intel X710](https://lexxai.github.io/2021/05/sr-iov-vlan-linux-proxmox.html), у VM FreeBSD13 успішно ввімкнулася без маніпуляцій з mac:
+[10Gb адаптера Intel X710](https://lexxai.blogspot.com/2021/05/sr-iov-vlan-linux-proxmox.html), у VM FreeBSD13 успішно ввімкнулася без маніпуляцій з mac:
 
 ### 
 

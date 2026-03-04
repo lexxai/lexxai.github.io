@@ -8,7 +8,7 @@ blogger_orig_link: https://lexxai.blogspot.com/2017/09/watchdog2-windows-hyper-v
 
 Оновлення сторожового апаратного таймера  Windows Hyper-V Server 2016 не реалізовано базово.  
 Тому потрібне додаткове програмне забезпечення на кшталт "Enterprise Managment".  
-Після [реалізації під FreeBSD (pfSense)](https://lexxai.github.io/2017/09/watchdog2-pfsense-ipmi.html)  вирішив зробити те саме і у Windows Hyper-V Server 2016.  
+Після [реалізації під FreeBSD (pfSense)](https://lexxai.blogspot.com/2017/09/watchdog2-pfsense-ipmi.html)  вирішив зробити те саме і у Windows Hyper-V Server 2016.  
 Так як сервер не має графічного інтерфейсу, все [робиться віддалено через PowerShell](https://www.howtogeek.com/117192/how-to-run-powershell-commands-on-remote-computers/).  
 
 ```
