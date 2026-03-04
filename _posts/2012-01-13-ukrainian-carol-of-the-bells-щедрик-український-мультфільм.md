@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Ukrainian carol of the bells. Щедрик. Український мультфільм"
+date: 2012-01-13 18:01:00 +0000
+tags: []
+blogger_orig_link: https://lexxai.blogspot.com/2012/01/ukrainian-carol-of-bells.html
+---
+
+Щедрик. Український мультфільм. 2010 р. (повна версія)  
+  
+Різдвяний "Щедрик"  
+Наспівав і записав Олег Скрипка  
+Зліпив і зняв Степан Коваль
