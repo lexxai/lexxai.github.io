@@ -14,9 +14,7 @@ blogger_orig_link: https://lexxai.blogspot.com/2025/06/docker-port-is-busy-on-wi
 
 But nothing is using the port, it’s likely because Windows has excluded the port dynamically, especially after Docker was previously using it.
 
-[![](/assets/images/blog/4709027e7f19d38e-302ff603aa6750f2.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOD9ulowu3N-_a57zqvG9Xd7_LzXl5bw7kWSsij9SDXCHDhbFXhrqLpgCTPJD4TisjGiIn3kr4ZnfmZuBXLbzPfx7YNXkxeuql9BbzqvnNTKQtLsX4brJtreSTXQbMdniHG9x00nJsqZB7J3dsIWOpyM8Q-RKz4wCSUOPU6PX_1wc-ZuVN3aHW_SW9EbWK/s2048/doker_busy_port.png)
-
-(HTTP code 500) server error - ports are not available
+[![](/assets/images/blog/4709027e7f19d38e-302ff603aa6750f2.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOD9ulowu3N-_a57zqvG9Xd7_LzXl5bw7kWSsij9SDXCHDhbFXhrqLpgCTPJD4TisjGiIn3kr4ZnfmZuBXLbzPfx7YNXkxeuql9BbzqvnNTKQtLsX4brJtreSTXQbMdniHG9x00nJsqZB7J3dsIWOpyM8Q-RKz4wCSUOPU6PX_1wc-ZuVN3aHW_SW9EbWK/s2048/doker_busy_port.png) *(HTTP code 500) server error - ports are not available*
 
 #### 1. Verify Nothing Is Listening on the Port
 

@@ -6,9 +6,7 @@ tags: []
 blogger_orig_link: https://lexxai.blogspot.com/2026/02/ollama-deproxy-ollama.html
 ---
 
-[![](/assets/images/blog/5407e647a6bbf4da-382eaa1ca0d7ddde.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWx_eS9agZ_zK8fMztc_ny0utU6bQbsF0Liq8wH1lGHpP5GUfeHKCk2gDkwhCWTaJgOfOXGSMr7ye-g2GZ5eMmJrkr9QILfqBNXIi-jWlRDZXJFYd3pmt_VC8puW5Df-4u72QE-fXngy3kwstWD4Rd6D2uENUxgi0iAjzJGNEfMByuAZOkc0adNFBJSBPZ/s1024/ollama-deproxy.png)
-
-Ollama DeProxy
+[![](/assets/images/blog/5407e647a6bbf4da-382eaa1ca0d7ddde.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWx_eS9agZ_zK8fMztc_ny0utU6bQbsF0Liq8wH1lGHpP5GUfeHKCk2gDkwhCWTaJgOfOXGSMr7ye-g2GZ5eMmJrkr9QILfqBNXIi-jWlRDZXJFYd3pmt_VC8puW5Df-4u72QE-fXngy3kwstWD4Rd6D2uENUxgi0iAjzJGNEfMByuAZOkc0adNFBJSBPZ/s1024/ollama-deproxy.png) *Ollama DeProxy*
 
 Я маю віддалений сервер із GPU, на якому запущена Ollama.
 
@@ -67,13 +65,15 @@ ssh remote@server -L 11434:localhost:11434
 <https://github.com/lexxai/ollama-deproxy>  
   
 
-### Приклади використання: Docker container Ollama DeProxy
+### Приклади використання:
 
-### VS Code + Continue + Ollama DeProxy VS Code + Copilot GitHub (Old version) + Ollama DeProxy
+[![](/assets/images/blog/a84001fe810b3e04-85765c91b2a6b9c7.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4oDdZJ87OI0gMvKw3onyi0yLWFr6AZc04NbX8P5dxgDS4CKhQ_cf3L3fH84oSvW2fsBml7jZK_PTCexI0pnX514ouylZcMh7H2FnqRV2t5ENp_NmqBZPMur-bR_ss1ieqJQw2TfkTMOlWn11rtZ1_A-IyWO7SdpV7-U9TUbuE4RBnfm4Gj93jGOy0jRWg/s1837/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-02-25%20173628.png) *Docker container Ollama DeProxy*
 
-[![](/assets/images/blog/536964798ab06d95-2ee020613f9dad9c.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLdl8Lte8XIQTdbwtduu5FhWhFSdmzPtperOquDj3qAwtrDhjW10MKFQavHvk_hA6tfNBIXYfJPi57Hmd_8t_CaQpV-JPNF7s39J2lB5WF9NeszZUsYfyV8KMV-fvP5WHZ4mYGN-nUc4rcPGfX25gIhlzgbcWU9AGLl57ubFKDJqcmkQHGHZAzd1yN2kJN/s1915/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-02-28%20140322.png)
+[![](/assets/images/blog/43365cb74653e6c9-9052af3a16636e07.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiZbRMugT6pORi5fe733spJ0gbvs6FdMAMPbnxMyj8INJ-Z2zEWGBC21CpsruocHBsq9P_yEHHgS042rC-ZdX8FZB39IpgQO7c3J-QTawWrWw3nFLi7ZLjz-x-f_uBzFlXDeM0Y71e2eUF6N4lylYo3IO2mkLPXkGHd8e6CCXn1js3uU12o-IHqmdT2YIg/s1919/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-02-25%20173507.png) *VS Code + Continue + Ollama DeProxy*
 
-VS Code + Copilot GitHub (0.37.9) + Ollama DeProxy (CORRECT\_NUMBERED\_MODEL\_NAMES=True)
+[![](/assets/images/blog/2407ff4104a8caea-d33ef03cc0af9c6d.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo1GjkMyRMlsgtC3tPciXqIp6zuL9Jx0M6UoqcfOsYkb_bBhQHXrhQ35xSJ0WnVwagp6lvQnkWsEqPAlmQdMwTkN7xxWA0CJD-zcLdGqGlJCxaKADv1NlJvALhFOXovWOuoJJmck1RXpiLy-OHgc-sVSlq_nrfCDR6fV7P7yKVVA78oNHXSo8rfOj8owPZ/s1919/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-02-27%20143139.png) *VS Code + Copilot GitHub (Old version) + Ollama DeProxy*
+
+[![](/assets/images/blog/536964798ab06d95-2ee020613f9dad9c.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLdl8Lte8XIQTdbwtduu5FhWhFSdmzPtperOquDj3qAwtrDhjW10MKFQavHvk_hA6tfNBIXYfJPi57Hmd_8t_CaQpV-JPNF7s39J2lB5WF9NeszZUsYfyV8KMV-fvP5WHZ4mYGN-nUc4rcPGfX25gIhlzgbcWU9AGLl57ubFKDJqcmkQHGHZAzd1yN2kJN/s1915/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-02-28%20140322.png) *VS Code + Copilot GitHub (0.37.9) + Ollama DeProxy (CORRECT\_NUMBERED\_MODEL\_NAMES=True)*
 
   
 

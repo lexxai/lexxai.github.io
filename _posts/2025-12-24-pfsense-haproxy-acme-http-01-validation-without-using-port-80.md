@@ -69,9 +69,7 @@ http://example.com/.well-known/acme-challenge/<token>
 
 #### Рішення: HAProxy як проксі для ACME standalone
 
-[![](/assets/images/blog/759f6d129138fadf-7f77514a5c5b6691.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0QrfM-FdXlB9lTMF8C42PNDZyZtWz9UA_j-yyGntFzXaHGrw8CjpzzFd4aIBQP-RLDZI8u4EqeezmgFrtnNWbkphWMV-iCUqPJanuqRZ9unpXrLfcXeFjWyyeIBE9Y5YIvphGuFdM6L-n4zJVkyz7Sgx7FDXji8rtvRI1v54AD8lhdvEz5ZLDxNTDb7J4/s2376/Services%20Acme%20Certificate%20options%20Edit.png)
-
-Services Acme Certificate options
+[![](/assets/images/blog/759f6d129138fadf-7f77514a5c5b6691.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0QrfM-FdXlB9lTMF8C42PNDZyZtWz9UA_j-yyGntFzXaHGrw8CjpzzFd4aIBQP-RLDZI8u4EqeezmgFrtnNWbkphWMV-iCUqPJanuqRZ9unpXrLfcXeFjWyyeIBE9Y5YIvphGuFdM6L-n4zJVkyz7Sgx7FDXji8rtvRI1v54AD8lhdvEz5ZLDxNTDb7J4/s2376/Services%20Acme%20Certificate%20options%20Edit.png) *Services Acme Certificate options*
 
 #### 
 
@@ -111,17 +109,13 @@ Let’s Encrypt нічого не знає про порт 81 — для ньо�
 
 ### Налаштування HAProxy
 
-[![](/assets/images/blog/48d14daca40a5aa6-03cb6682cf1c7088.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUndhr6E4zatVvODJ15PY7SyG7N92caCcx-AZA6oELFIsuNxmdQ-PF3QJO3z6SQoM-a3UisZWcCDjcMUy5MaT_zB-CRQcyVSeCm0bKZFecPi8ByMNVeQwBT8i_chcOSNZAL4MFIT3nBSil_m9lCrld6S10DZn-iPGL7Ds-5yfjOTnomf579ujcsOEGBpBu/s2596/Services%20HAProxy%20Backend%20Edit.png)
-
-Services HAProxy Backend Edit
+[![](/assets/images/blog/48d14daca40a5aa6-03cb6682cf1c7088.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUndhr6E4zatVvODJ15PY7SyG7N92caCcx-AZA6oELFIsuNxmdQ-PF3QJO3z6SQoM-a3UisZWcCDjcMUy5MaT_zB-CRQcyVSeCm0bKZFecPi8ByMNVeQwBT8i_chcOSNZAL4MFIT3nBSil_m9lCrld6S10DZn-iPGL7Ds-5yfjOTnomf579ujcsOEGBpBu/s2596/Services%20HAProxy%20Backend%20Edit.png) *Services HAProxy Backend Edit*
 
 #### 
 
 ### Backend для ACME
 
-[![](/assets/images/blog/9dbc87865c5de20c-9e1da7dde2a5d51f.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeyBjhAx-oKYmYqNVK4YscvR9Cwde2XJ0jrbyLf4BfEdoxDmeEVCOWHXxaunuD5Hlfx19VUw9cUBFvUMYA5DeUqZ0bc-8sW2XfZZ-JNA4koDLkiq17FRv_28kcbvPvbkAJsknMvbvhmV9YIFFgG361jokaQ_acw8GIgHTMFEGRzdOCNJYvZ-oiduUNZ2C-/s4392/Services%20HAProxy%20Frontend%20Edit.png)
-
-Services HAProxy Frontend Edit
+[![](/assets/images/blog/9dbc87865c5de20c-9e1da7dde2a5d51f.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeyBjhAx-oKYmYqNVK4YscvR9Cwde2XJ0jrbyLf4BfEdoxDmeEVCOWHXxaunuD5Hlfx19VUw9cUBFvUMYA5DeUqZ0bc-8sW2XfZZ-JNA4koDLkiq17FRv_28kcbvPvbkAJsknMvbvhmV9YIFFgG361jokaQ_acw8GIgHTMFEGRzdOCNJYvZ-oiduUNZ2C-/s4392/Services%20HAProxy%20Frontend%20Edit.png) *Services HAProxy Frontend Edit*
 
 Створюємо окремий backend, наприклад **local\_acme**:   
 
