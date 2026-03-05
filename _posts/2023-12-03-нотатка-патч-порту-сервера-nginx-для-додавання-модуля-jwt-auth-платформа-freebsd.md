@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка: патч порту сервера NGINX для додавання модуля JWT AUTH. Платформа FreeBSD."
 date: 2023-12-03 08:04:00 +0000
-tags: []
+tags: ["authentication", "FreeBSD", "jwt", "nginx", "ports", "security", "server", "unix"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/12/nginx-jwt-auth-freebsd.html
 ---
 

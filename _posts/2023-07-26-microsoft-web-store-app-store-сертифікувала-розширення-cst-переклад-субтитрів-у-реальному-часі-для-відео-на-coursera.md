@@ -2,7 +2,7 @@
 layout: post
 title: "Microsoft Web Store (App Store) сертифікувала розширення \"CST\" (Переклад субтитрів у реальному часі для відео на Coursera)"
 date: 2023-07-26 18:24:00 +0000
-tags: []
+tags: ["addon", "Coursera", "CST", "extension", "microsoft", "subtitle", "translation", "webstore"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/07/microsoft-web-store-app-store-cst.html
 ---
 

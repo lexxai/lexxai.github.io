@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка: IPMI Watchdog timer, скидання та встановлення через ipmitool"
 date: 2023-04-04 20:05:00 +0000
-tags: []
+tags: ["bmc", "hp", "HP ProLiant", "iLO 4", "IPMI", "ipmitool", "linux", "server", "ubuntu", "watchdog"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/04/ipmi-watchdog-timer-ipmitool.html
 ---
 

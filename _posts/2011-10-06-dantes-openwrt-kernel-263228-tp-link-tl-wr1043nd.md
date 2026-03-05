@@ -2,7 +2,7 @@
 layout: post
 title: "DANtes OpenWRT kernel 2.6.32.28 (TP-LINK TL-WR1043ND)"
 date: 2011-10-06 10:55:00 +0000
-tags: []
+tags: ["Atheros", "firmware", "kernel", "linux", "openwrt", "RS232", "TP-Link 1043", "Wi-Fi", "Wireless"]
 blogger_orig_link: https://lexxai.blogspot.com/2011/10/dantes-openwrt-kernel-263228-tp-link-tl.html
 ---
 

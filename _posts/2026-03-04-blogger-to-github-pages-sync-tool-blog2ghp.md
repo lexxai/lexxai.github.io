@@ -2,7 +2,7 @@
 layout: post
 title: "Blogger to GitHub Pages Sync Tool (blog2ghp)"
 date: 2026-03-04 18:10:00 +0000
-tags: []
+tags: ["GitHub", "GitHub Actons", "multithread", "python", "sync"]
 blogger_orig_link: https://lexxai.blogspot.com/2026/03/blogger-to-github-pages-sync-tool.html
 ---
 
@@ -155,5 +155,5 @@ Pages Build
 #### Посилання
 
 * [GitHub repository - BLOG2GHP](https://github.com/lexxai/BLOG2GHP)
-* [Маємо те, що маємо. Усе що відбувається - на краще](https://lexxai.blogspot.com/)
+* [Маємо те, що маємо. Усе що відбувається - на краще](/)
 * <https://lexxai.github.io/>

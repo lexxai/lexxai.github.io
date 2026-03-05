@@ -2,7 +2,7 @@
 layout: post
 title: "SKYPE-DUOS - Два \"Скайпи\" одночасно ?"
 date: 2013-07-22 20:49:00 +0000
-tags: []
+tags: ["skype"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/07/skype-duos.html
 ---
 

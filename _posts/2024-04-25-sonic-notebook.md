@@ -2,7 +2,7 @@
 layout: post
 title: "SONiC Notebook"
 date: 2024-04-25 00:10:00 +0000
-tags: []
+tags: ["hardware", "network", "Open Source", "sonic", "switch"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/04/sonic-notebook.html
 ---
 

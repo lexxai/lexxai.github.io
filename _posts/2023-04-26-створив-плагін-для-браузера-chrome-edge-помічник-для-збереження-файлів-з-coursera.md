@@ -2,7 +2,7 @@
 layout: post
 title: "Створив плагін для браузера Chrome, Edge: Помічник для збереження файлів з Coursera"
 date: 2023-04-26 14:55:00 +0000
-tags: []
+tags: ["chrome", "Coursera", "CSA", "edge", "extension", "google", "plugin"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/04/chrome-edge-oursera.html
 ---
 

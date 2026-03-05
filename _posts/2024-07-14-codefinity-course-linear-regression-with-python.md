@@ -2,7 +2,7 @@
 layout: post
 title: "Codefinity. Course Linear Regression with Python."
 date: 2024-07-14 16:23:00 +0000
-tags: []
+tags: ["Codefinity", "matplotlib", "NumPy", "python", "statsmodels"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/07/codefinity-course-linear-regression.html
 ---
 

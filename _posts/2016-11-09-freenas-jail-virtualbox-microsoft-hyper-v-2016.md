@@ -2,7 +2,7 @@
 layout: post
 title: "FreeNAS  + Jail : VirtualBox : Microsoft Hyper-V 2016"
 date: 2016-11-09 22:06:00 +0000
-tags: []
+tags: ["administration", "FreeBSD", "FreeNAS", "Hyper-V", "VirtualBox", "Virtualization"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/11/freenas-jail-virtualbox-microsoft-hyper.html
 ---
 

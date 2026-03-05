@@ -2,7 +2,7 @@
 layout: post
 title: "Підключення даних моніторінгу mbmon у FreeBSD до CACTI."
 date: 2012-08-24 11:06:00 +0000
-tags: []
+tags: ["CACTI", "Fan", "FreeBSD", "mbmon", "php", "script", "Temperature", "template", "Voltage"]
 blogger_orig_link: https://lexxai.blogspot.com/2012/08/mbmon-freebsd-cacti.html
 ---
 

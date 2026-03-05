@@ -2,7 +2,7 @@
 layout: post
 title: "PF firewall log alarm"
 date: 2014-02-25 21:17:00 +0000
-tags: []
+tags: ["firewall", "FreeBSD", "pf", "security"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/02/pf-firewall-log-alarm.html
 ---
 

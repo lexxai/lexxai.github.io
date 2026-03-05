@@ -2,7 +2,7 @@
 layout: post
 title: "Amavis та SpamAssassin і помилки при використанні"
 date: 2012-07-11 19:37:00 +0000
-tags: []
+tags: ["amavis", "linux", "mail"]
 blogger_orig_link: https://lexxai.blogspot.com/2012/07/amavis-spamassassin.html
 ---
 

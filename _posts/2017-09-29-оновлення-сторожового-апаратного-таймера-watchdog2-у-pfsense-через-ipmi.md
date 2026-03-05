@@ -2,7 +2,7 @@
 layout: post
 title: "Оновлення сторожового апаратного таймера Watchdog2 у pfSense через IPMI"
 date: 2017-09-29 21:54:00 +0000
-tags: []
+tags: ["IPMI", "ipmitool", "pfSense", "watchdog", "Watchdog2", "watchdogd"]
 blogger_orig_link: https://lexxai.blogspot.com/2017/09/watchdog2-pfsense-ipmi.html
 ---
 

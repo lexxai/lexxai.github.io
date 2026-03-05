@@ -2,7 +2,7 @@
 layout: post
 title: "Blocking ip by list of numbered dns names"
 date: 2016-07-14 15:36:00 +0000
-tags: []
+tags: ["administration", "email", "firewall", "security", "shell", "spam"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/07/blocking-ip-by-list-of-numbered-dns.html
 ---
 

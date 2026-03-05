@@ -2,7 +2,7 @@
 layout: post
 title: "Я закінчив проходження онлайн курсу \"Google Cloud Fundamentals: Core Infrastructure\""
 date: 2023-06-01 05:58:00 +0000
-tags: []
+tags: ["badge", "Core Infrastructure", "education", "google", "Google Cloud"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/06/google-cloud-fundamentals-core.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Disk & Proxmox"
 date: 2019-06-05 21:04:00 +0000
-tags: []
+tags: ["convert", "disk", "Hyper-V", "Proxmox", "VirtualBox", "Virtualization"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/06/disk-proxmox.html
 ---
 

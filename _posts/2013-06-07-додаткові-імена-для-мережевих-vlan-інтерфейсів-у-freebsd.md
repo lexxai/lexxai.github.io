@@ -2,7 +2,7 @@
 layout: post
 title: "Додаткові імена для мережевих VLAN інтерфейсів у FreeBSD"
 date: 2013-06-07 20:49:00 +0000
-tags: []
+tags: ["FreeBSD", "VLAN"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/06/vlan-freebsd.html
 ---
 

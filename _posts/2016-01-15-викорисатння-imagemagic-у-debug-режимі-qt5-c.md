@@ -2,7 +2,7 @@
 layout: post
 title: "Викорисатння ImageMagic у debug режимі. Qt5, C++."
 date: 2016-01-15 22:57:00 +0000
-tags: []
+tags: ["C++", "ImageMagic", "programming", "Qt", "програмування"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/01/imagemagic-debug.html
 ---
 

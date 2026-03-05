@@ -2,7 +2,7 @@
 layout: post
 title: "Сертифікат : Google IT Automation with Python Specialization - Automating Real-World Tasks with Python - Completed on Sep 1, 2023"
 date: 2023-09-01 23:23:00 +0000
-tags: []
+tags: ["chrome", "Coursera", "DevOps", "Git", "google", "IT", "plugin", "Prometheus", "python", "security", "support", "навчання"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/09/google-it-automation-with-python.html
 ---
 

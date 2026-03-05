@@ -2,7 +2,7 @@
 layout: post
 title: "Аналог команди tail та інших у MS Windows."
 date: 2014-10-31 01:54:00 +0000
-tags: []
+tags: ["software", "windows"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/10/tail-ms-windows.html
 ---
 

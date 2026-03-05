@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка: Python, logger,  модулі та спільні logging Handlers"
 date: 2023-09-26 00:53:00 +0000
-tags: []
+tags: ["Handlers", "logger", "logging", "python"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/09/python-logger-logging-handlers.html
 ---
 

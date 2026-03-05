@@ -2,7 +2,7 @@
 layout: post
 title: "FreeBSD. Mosquitto. Mosquitto-Auth-Plugin. LDAP"
 date: 2019-08-01 00:44:00 +0000
-tags: []
+tags: ["FreeBSD", "LDAP", "Mosquitto", "Mosquitto-Auth-Plugin", "OpenLDAP"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/08/freebsd-mosquitto-mosquitto-auth-plugin.html
 ---
 

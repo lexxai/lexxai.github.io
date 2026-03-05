@@ -2,7 +2,7 @@
 layout: post
 title: "Сертифікат : Google IT Automation with Python Specialization - Using Python to Interact with the Operating System - Completed on Aug 15, 2023"
 date: 2023-08-15 08:03:00 +0000
-tags: []
+tags: ["chrome", "Coursera", "DevOps", "google", "IT", "plugin", "Prometheus", "python", "security", "support", "навчання"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/08/google-it-automation-with-python.html
 ---
 

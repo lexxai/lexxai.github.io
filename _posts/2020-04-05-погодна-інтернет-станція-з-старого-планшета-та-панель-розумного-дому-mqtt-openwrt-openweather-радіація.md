@@ -2,7 +2,7 @@
 layout: post
 title: "Погодна інтернет станція з старого планшета та панель розумного дому MQTT + OpenWRT + OpenWeather + Радіація"
 date: 2020-04-05 19:38:00 +0000
-tags: []
+tags: ["Android", "Mosquitto", "MQTT", "MQTT Dash", "OpenWeather", "openwrt"]
 blogger_orig_link: https://lexxai.blogspot.com/2020/04/mqtt-openwrt-openweather.html
 ---
 

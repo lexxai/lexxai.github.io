@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка для себе:  Обмеження доступу до WiFi корпоративгої мережі зі спілним сервером FreeRadius"
 date: 2020-09-11 01:40:00 +0000
-tags: []
+tags: ["access", "certificate", "eap", "FreeRadius", "open-wrt", "pfSense", "security", "self signed certificate", "VLAN", "wifi", "Wireless"]
 blogger_orig_link: https://lexxai.blogspot.com/2020/09/wifi-freeradius.html
 ---
 

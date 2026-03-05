@@ -2,7 +2,7 @@
 layout: post
 title: "Визначення серійного номера HDD з консолі для ESET Endpoint Security"
 date: 2016-01-26 20:25:00 +0000
-tags: []
+tags: ["adimistration", "antivirus", "ESET", "hdd", "serial number", "адміністрування"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/01/detect-serial-number-hdd-cli.html
 ---
 

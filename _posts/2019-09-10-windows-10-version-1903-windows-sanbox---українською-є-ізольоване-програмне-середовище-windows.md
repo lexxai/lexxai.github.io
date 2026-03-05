@@ -2,7 +2,7 @@
 layout: post
 title: "Windows 10, version 1903, Windows Sanbox - Українською є \"Ізольоване програмне середовище Windows\"."
 date: 2019-09-10 19:11:00 +0000
-tags: []
+tags: ["Sandbox", "Virtualization", "windows 10"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/09/windows-10-version-1903-sanbox.html
 ---
 

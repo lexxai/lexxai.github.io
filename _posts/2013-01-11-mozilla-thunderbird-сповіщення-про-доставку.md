@@ -2,7 +2,7 @@
 layout: post
 title: "Mozilla Thunderbird : сповіщення про доставку"
 date: 2013-01-11 20:57:00 +0000
-tags: []
+tags: ["email", "extension", "Mozilla Thunderbird"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/01/mozilla-thunderbird.html
 ---
 

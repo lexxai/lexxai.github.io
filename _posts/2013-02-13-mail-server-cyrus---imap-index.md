@@ -2,7 +2,7 @@
 layout: post
 title: "mail server Cyrus - imap index"
 date: 2013-02-13 22:52:00 +0000
-tags: []
+tags: ["cyrus", "imap", "mail"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/02/mail-server-cyrus-imap-index.html
 ---
 

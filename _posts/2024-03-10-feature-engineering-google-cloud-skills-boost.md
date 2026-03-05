@@ -2,7 +2,7 @@
 layout: post
 title: "Feature Engineering | Google Cloud Skills Boost"
 date: 2024-03-10 00:17:00 +0000
-tags: []
+tags: ["AI", "datascience", "google", "Google Cloud", "MachineLearning", "ML"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/03/feature-engineering-google-cloud-skills.html
 ---
 

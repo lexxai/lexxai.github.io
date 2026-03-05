@@ -2,7 +2,7 @@
 layout: post
 title: "TrueCrypt Header test (TCHead)"
 date: 2014-02-25 18:59:00 +0000
-tags: []
+tags: ["security", "truecript"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/02/truecrypt-header-test-tchead.html
 ---
 

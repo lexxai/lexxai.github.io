@@ -2,7 +2,7 @@
 layout: post
 title: "синхронізація сховища даних між ОС Windows та роутера з OpenWRT (Linux), rsync vs samba"
 date: 2012-08-30 20:41:00 +0000
-tags: []
+tags: ["ar71xx", "ext4", "linux", "open-wrt", "openwrt", "rsync", "samba", "TP-Link 1043", "windows"]
 blogger_orig_link: https://lexxai.blogspot.com/2012/08/windows-openwrt-linux-rsync.html
 ---
 

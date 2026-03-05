@@ -2,7 +2,7 @@
 layout: post
 title: "Using Apache Spark with Python, emphasizing its role compared to Celery"
 date: 2024-11-08 16:45:00 +0000
-tags: []
+tags: ["ApacheSpark", "bigdata", "celery", "datascience", "DistributedComputing", "MachineLearning", "python"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/11/using-apache-spark-with-python.html
 ---
 

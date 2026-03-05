@@ -2,7 +2,7 @@
 layout: post
 title: "Free DNS he.net + Free SSL Certificates Let's Encrypt"
 date: 2023-03-04 20:02:00 +0000
-tags: []
+tags: ["certbot", "certificate", "dovecot", "email", "he.net", "letsencrypt.org", "posfix", "security"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/03/free-dns-henet-free-ssl-certificates.html
 ---
 

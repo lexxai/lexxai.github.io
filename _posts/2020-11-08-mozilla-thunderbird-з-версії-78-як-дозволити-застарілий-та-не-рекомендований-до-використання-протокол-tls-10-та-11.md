@@ -2,7 +2,7 @@
 layout: post
 title: "Mozilla Thunderbird з версії 78 : Як дозволити застарілий та не рекомендований до використання протокол TLS 1.0 та 1.1"
 date: 2020-11-08 21:03:00 +0000
-tags: []
+tags: ["administration", "email", "mail", "Mozilla Thunderbird", "security", "server", "TLS"]
 blogger_orig_link: https://lexxai.blogspot.com/2020/11/mozilla-thunderbird-78-tls-10-11.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Початок з kaggle - intro-to-machine-learning"
 date: 2024-02-06 14:24:00 +0000
-tags: []
+tags: ["datascience", "kaggle", "python"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/02/kaggle-intro-to-machine-learning.html
 ---
 

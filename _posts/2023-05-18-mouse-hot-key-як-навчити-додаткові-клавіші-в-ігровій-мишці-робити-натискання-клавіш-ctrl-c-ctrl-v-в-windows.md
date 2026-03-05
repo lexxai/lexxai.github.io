@@ -2,7 +2,7 @@
 layout: post
 title: "Mouse Hot Key. Як навчити додаткові клавіші в ігровій \"мишці\" робити натискання клавіш Ctrl-C, Ctrl-V в Windows."
 date: 2023-05-18 04:34:00 +0000
-tags: []
+tags: ["action", "AutoHotkey", "mouse"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/05/ctrl-c-ctrl-v-windows.html
 ---
 

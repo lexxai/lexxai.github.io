@@ -2,7 +2,7 @@
 layout: post
 title: "Codefinity. Project - Clustering Demystified"
 date: 2024-07-21 18:38:00 +0000
-tags: []
+tags: ["Codefinity", "kmeans", "Pandas", "python", "scaler", "sklearn"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/07/codefinity-project-clustering.html
 ---
 

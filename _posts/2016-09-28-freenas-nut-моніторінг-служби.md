@@ -2,7 +2,7 @@
 layout: post
 title: "FreeNAS NUT моніторінг служби"
 date: 2016-09-28 18:50:00 +0000
-tags: []
+tags: ["FreeBSD", "FreeNAS", "NUT", "ups"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/09/freenas-nut.html
 ---
 

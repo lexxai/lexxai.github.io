@@ -2,7 +2,7 @@
 layout: post
 title: "Script for change interface bridge members to be private"
 date: 2019-05-24 00:19:00 +0000
-tags: []
+tags: ["ethernet", "FreeBSD", "FreeNAS", "network", "security"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/05/script-for-change-interface-bridge.html
 ---
 

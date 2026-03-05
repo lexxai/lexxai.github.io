@@ -2,7 +2,7 @@
 layout: post
 title: "Одноразові паролі (OTP) та сервер Apache (mod_authn_otp)"
 date: 2012-12-19 21:30:00 +0000
-tags: []
+tags: ["aladdin", "apache", "HMAC", "HOTP", "mobile-otp", "mod_authn_otp", "One Time Password", "otp", "RFC 4226", "security", "token"]
 blogger_orig_link: https://lexxai.blogspot.com/2012/12/otp-apache-modauthnotp.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Сертифікат : Google IT Automation with Python Specialization - Crash Course on Python - Completed on July 19, 2023"
 date: 2023-07-19 20:20:00 +0000
-tags: []
+tags: ["chrome", "Coursera", "DevOps", "google", "IT", "plugin", "Prometheus", "python", "security", "support", "навчання"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/07/google-it-automation-with-python.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Використання Google Cloud IoT MQTT  з консольного BASH сценарію та Mosquitto"
 date: 2021-01-17 21:54:00 +0000
-tags: []
+tags: ["cloud", "Google Cloud", "internet", "IOT", "Mosquitto", "MQTT", "script", "shell"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/01/google-cloud-iot-mqtt-bash-mosquitto.html
 ---
 

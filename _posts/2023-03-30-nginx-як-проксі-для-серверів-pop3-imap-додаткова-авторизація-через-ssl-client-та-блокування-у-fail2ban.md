@@ -2,7 +2,7 @@
 layout: post
 title: "nginx як проксі для серверів pop3, imap. Додаткова авторизація через ssl client, та блокування у fail2ban."
 date: 2023-03-30 04:44:00 +0000
-tags: []
+tags: ["certificate", "email", "fail2ban", "firewall", "FreeBSD", "imap", "ipv4", "ipv6", "mail", "nginx", "openssl", "pf", "pop3", "proxy", "security", "server", "sha", "SSL", "TLS", "unix"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/03/nginx-proxy-pop3-imap-ssl-client-fail2ban.html
 ---
 

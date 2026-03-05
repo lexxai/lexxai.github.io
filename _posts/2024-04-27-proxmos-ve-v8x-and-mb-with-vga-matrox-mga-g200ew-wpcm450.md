@@ -2,7 +2,7 @@
 layout: post
 title: "Proxmos VE v.8.X and MB with VGA Matrox MGA G200eW WPCM450"
 date: 2024-04-27 23:02:00 +0000
-tags: []
+tags: ["console", "grub", "linux", "Proxmox"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/04/proxmos-8-and-mb-with-vga-matrox-mga.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Reliable Google Cloud Infrastructure: Design and Process COMPLETION BADGE"
 date: 2023-07-07 13:34:00 +0000
-tags: []
+tags: ["badge", "DevOps", "google", "Google Cloud", "skill"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/07/reliable-google-cloud-infrastructure.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "FastAPI Dependency Injection: 21 Examples Using Depends() with AI Answers"
 date: 2024-10-18 23:32:00 +0000
-tags: []
+tags: ["AI", "async", "Depends", "docker", "fastapi", "patterns", "postgress", "python", "redis", "singleton", "SQL", "sqlalchemy"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/10/fastapi-dependency-injection-21.html
 ---
 

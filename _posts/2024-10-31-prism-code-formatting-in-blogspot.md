@@ -2,7 +2,7 @@
 layout: post
 title: "Prism. Code formatting in blogspot."
 date: 2024-10-31 15:33:00 +0000
-tags: []
+tags: ["blogspot", "Prism", "python"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/10/prism-code-formating-in-blogspot.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Як захистити себе від спамерів шо атакують поштовий сервер Postfix - Fail2ban, Policyd2"
 date: 2012-10-10 20:05:00 +0000
-tags: []
+tags: ["fail2ban", "pfctl", "policyd2", "postfix", "postgesql", "tcpdrop"]
 blogger_orig_link: https://lexxai.blogspot.com/2012/10/postfix-fail2ban.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Openmeeting, встановлення, налаштування SSL"
 date: 2013-03-09 18:33:00 +0000
-tags: []
+tags: ["internet", "multimedia", "net", "Openmmeting", "SSL"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/03/openmeeting-ssl.html
 ---
 

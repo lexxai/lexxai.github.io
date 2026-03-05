@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка для себе. FreeBSD, UPS, NUT."
 date: 2018-03-14 23:07:00 +0000
-tags: []
+tags: ["Cyber Power Systems", "FreeBSD", "NUT", "ups", "ДБЖ"]
 blogger_orig_link: https://lexxai.blogspot.com/2018/03/freebsd-ups-nut.html
 ---
 

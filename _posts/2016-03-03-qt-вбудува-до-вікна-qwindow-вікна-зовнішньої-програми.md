@@ -2,7 +2,7 @@
 layout: post
 title: "Qt. Вбудува до вікна QWindow вікна зовнішньої програми."
 date: 2016-03-03 23:20:00 +0000
-tags: []
+tags: ["C++", "embedded window", "MPV", "programming", "Qt"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/03/qt-qwindow.html
 ---
 

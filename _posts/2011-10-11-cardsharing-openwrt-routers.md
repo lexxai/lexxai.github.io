@@ -2,7 +2,7 @@
 layout: post
 title: "cardsharing & openwrt routers"
 date: 2011-10-11 23:39:00 +0000
-tags: []
+tags: ["ar71xx", "Atheros", "firmware", "kernel", "mpcs", "openwrt", "oscam", "package", "router", "RS232", "TP-Link 1043"]
 blogger_orig_link: https://lexxai.blogspot.com/2011/10/cardsharing-openwrt.html
 ---
 

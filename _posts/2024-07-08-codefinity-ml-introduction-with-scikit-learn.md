@@ -2,7 +2,7 @@
 layout: post
 title: "Codefinity. ML Introduction with scikit-learn."
 date: 2024-07-08 01:20:00 +0000
-tags: []
+tags: ["Codefinity", "data science", "datascience", "knn", "ML", "NumPy", "Pandas", "python", "sklearn"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/07/codefinity-ml-introduction-with-scikit.html
 ---
 

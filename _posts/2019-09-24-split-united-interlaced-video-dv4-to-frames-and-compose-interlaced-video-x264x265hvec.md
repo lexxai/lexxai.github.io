@@ -2,7 +2,7 @@
 layout: post
 title: "Split united interlaced video (.dv4) to frames and compose interlaced video x264,x265(hvec)"
 date: 2019-09-24 00:48:00 +0000
-tags: []
+tags: ["DVR", "ffmpeg", "HEVC", "multimedia", "security", "x265", "безпека"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/09/split-united-interlaced-video-to-frames.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Оновлення ключів SSL KeyStore (JAVA)"
 date: 2015-03-02 23:24:00 +0000
-tags: []
+tags: ["internet", "openssl", "SSL"]
 blogger_orig_link: https://lexxai.blogspot.com/2015/03/ssl-keystore-java.html
 ---
 

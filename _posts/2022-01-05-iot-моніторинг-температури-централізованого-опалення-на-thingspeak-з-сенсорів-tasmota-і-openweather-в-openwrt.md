@@ -2,7 +2,7 @@
 layout: post
 title: "IoT. Моніторинг температури централізованого опалення на ThingSpeak з сенсорів Tasmota і OpenWeather в OpenWRT"
 date: 2022-01-05 03:23:00 +0000
-tags: []
+tags: ["IOT", "Monitoring", "MQTT", "open-wrt", "OpenWeather", "openwrt", "script", "shell", "TASMOTA", "thingspeak"]
 blogger_orig_link: https://lexxai.blogspot.com/2022/01/iot-thingspeak-tasmota-openweather.html
 ---
 

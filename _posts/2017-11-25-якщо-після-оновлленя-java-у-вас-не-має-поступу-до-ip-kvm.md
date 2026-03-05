@@ -2,7 +2,7 @@
 layout: post
 title: "Якщо після оновлленя Java у Вас не має поступу до ip-KVM"
 date: 2017-11-25 22:43:00 +0000
-tags: []
+tags: ["ip-kvm", "java", "security"]
 blogger_orig_link: https://lexxai.blogspot.com/2017/11/java-ip-kvm.html
 ---
 

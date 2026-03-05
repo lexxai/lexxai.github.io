@@ -2,7 +2,7 @@
 layout: post
 title: "Google Web Store - plugin \"Періодичне програмне натискання кнопки HTML/Periodic software click of HTML button\""
 date: 2022-12-03 00:56:00 +0000
-tags: []
+tags: ["chrome", "GitHub", "google", "plugin"]
 blogger_orig_link: https://lexxai.blogspot.com/2022/12/google-web-store-plugin-htmlperiodic.html
 ---
 

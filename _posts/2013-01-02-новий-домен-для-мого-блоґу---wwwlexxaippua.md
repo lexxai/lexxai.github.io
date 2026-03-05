@@ -6,4 +6,4 @@ tags: []
 blogger_orig_link: https://lexxai.blogspot.com/2013/01/wwwlexxaippua.html
 ---
 
-З'явилася можливість зареєструвати собі доменне ім'я, і тепер альтернативним іменем до [lexxai.blogspot.com](http://lexxai.blogspot.com/) стало - [www.lexxai.pp.ua](http://www.lexxai.pp.ua/).
+З'явилася можливість зареєструвати собі доменне ім'я, і тепер альтернативним іменем до [lexxai.blogspot.com](/) стало - [www.lexxai.pp.ua](http://www.lexxai.pp.ua/).

@@ -2,7 +2,7 @@
 layout: post
 title: "Secure Temporary File Upload Service. PHP. NextCloud. WebDAV. Upload files form."
 date: 2024-11-02 22:39:00 +0000
-tags: []
+tags: ["curl", "nextcloud", "php", "webdav"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/11/secure-temporary-file-upload-service.html
 ---
 

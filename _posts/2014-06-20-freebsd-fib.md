@@ -2,7 +2,7 @@
 layout: post
 title: "FreeBSD , FIB"
 date: 2014-06-20 20:11:00 +0000
-tags: []
+tags: ["ethernet", "FIB", "FreeBSD", "network", "script"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/06/freebsd-fib.html
 ---
 

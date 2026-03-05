@@ -2,13 +2,13 @@
 layout: post
 title: "Оновлення сторожового апаратного таймера Watchdog2 у Windows Hyper-V Server 2016 через IPMI"
 date: 2017-09-29 23:49:00 +0000
-tags: []
+tags: ["Hyper-V", "IPMI", "ipmiutil", "watchdog"]
 blogger_orig_link: https://lexxai.blogspot.com/2017/09/watchdog2-windows-hyper-v-server-2016.html
 ---
 
 Оновлення сторожового апаратного таймера  Windows Hyper-V Server 2016 не реалізовано базово.  
 Тому потрібне додаткове програмне забезпечення на кшталт "Enterprise Managment".  
-Після [реалізації під FreeBSD (pfSense)](https://lexxai.blogspot.com/2017/09/watchdog2-pfsense-ipmi.html)  вирішив зробити те саме і у Windows Hyper-V Server 2016.  
+Після [реалізації під FreeBSD (pfSense)](/2017-09-29-оновлення-сторожового-апаратного-таймера-watchdog2-у-pfsense-через-ipmi.md)  вирішив зробити те саме і у Windows Hyper-V Server 2016.  
 Так як сервер не має графічного інтерфейсу, все [робиться віддалено через PowerShell](https://www.howtogeek.com/117192/how-to-run-powershell-commands-on-remote-computers/).  
 
 ```

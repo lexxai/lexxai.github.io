@@ -2,7 +2,7 @@
 layout: post
 title: "Ініціалізація модуля OTP у токені \"Aladdin eToken NG-OTP\" за допомогою SDK"
 date: 2012-12-20 22:59:00 +0000
-tags: []
+tags: ["HOTP", "initOTP", "mobile-otp", "mod_authn_otp", "One Time Password", "otp", "php", "RADIUS", "RFC 4226", "SDK", "security", "token"]
 blogger_orig_link: https://lexxai.blogspot.com/2012/12/otp-aladdin-etoken-ng-otp-sdk.html
 ---
 

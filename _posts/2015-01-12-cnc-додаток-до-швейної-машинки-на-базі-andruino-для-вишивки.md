@@ -2,7 +2,7 @@
 layout: post
 title: "CNC додаток до швейної машинки на базі Andruino для вишивки.﻿"
 date: 2015-01-12 00:16:00 +0000
-tags: []
+tags: ["Andruino", "cnc", "microcontroller", "електроніка", "мікроконтролер"]
 blogger_orig_link: https://lexxai.blogspot.com/2015/01/cnc-andruino.html
 ---
 

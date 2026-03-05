@@ -2,7 +2,7 @@
 layout: post
 title: "Скрипт для показу значень температури та вологості Bluetooth BLE термометра Xiaomi"
 date: 2022-11-28 01:01:00 +0000
-tags: []
+tags: ["Bluetooth", "firmware", "humidity", "python", "script", "Temperature", "Xiaomi"]
 blogger_orig_link: https://lexxai.blogspot.com/2022/11/bluetooth-ble-xiaomi.html
 ---
 

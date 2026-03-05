@@ -2,7 +2,7 @@
 layout: post
 title: "Script for detect changing UID of SAMBA user"
 date: 2019-03-15 00:38:00 +0000
-tags: []
+tags: ["FreeBSD", "FreeNAS", "samba", "script", "shell", "unix"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/03/script-for-detect-changing-uid-of-samba.html
 ---
 

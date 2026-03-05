@@ -2,7 +2,7 @@
 layout: post
 title: "Mozilla Thunderbird : Blinking Alert : нові листи прийшли !!!"
 date: 2013-01-11 22:02:00 +0000
-tags: []
+tags: ["email", "extension", "Mozilla Thunderbird"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/01/mozilla-thunderbird-blinking-alert.html
 ---
 

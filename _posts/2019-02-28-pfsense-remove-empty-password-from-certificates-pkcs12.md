@@ -2,7 +2,7 @@
 layout: post
 title: "pfSense remove empty password from certificates pkcs12"
 date: 2019-02-28 00:08:00 +0000
-tags: []
+tags: ["certificate", "FreeBSD", "openssl", "pfsence", "pkcs12"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/02/pfsense-remove-empty-password-from.html
 ---
 

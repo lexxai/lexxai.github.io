@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка: збільшення диску iscsi, TrueNAS, zfs, ubuntu"
 date: 2023-09-04 22:40:00 +0000
-tags: []
+tags: ["iscsi", "parted", "TrueNAS", "ubuntu", "ZFS"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/09/iscsi-truenas-zfs-ubuntu.html
 ---
 

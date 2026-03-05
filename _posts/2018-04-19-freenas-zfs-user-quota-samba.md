@@ -2,7 +2,7 @@
 layout: post
 title: "FreeNAS, ZFS, User Quota, Samba"
 date: 2018-04-19 00:26:00 +0000
-tags: []
+tags: ["administration", "FreeNAS", "network", "QOUTA", "samba", "ZFS"]
 blogger_orig_link: https://lexxai.blogspot.com/2018/04/freenas-zfs-user-quota-samba.html
 ---
 

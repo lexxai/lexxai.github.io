@@ -2,7 +2,7 @@
 layout: post
 title: "Ось і закінчилася наша перша частина навчання в #GoIT з курсу #Python #Developer - Python Core 15"
 date: 2023-08-11 18:03:00 +0000
-tags: []
+tags: ["GoIT", "python"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/08/goit-python-developer-python-core-15.html
 ---
 

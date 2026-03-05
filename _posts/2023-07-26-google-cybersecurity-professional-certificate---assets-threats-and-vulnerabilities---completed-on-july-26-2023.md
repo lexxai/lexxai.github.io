@@ -2,7 +2,7 @@
 layout: post
 title: "Google Cybersecurity Professional Certificate - Assets, Threats, and Vulnerabilities - Completed on July 26, 2023"
 date: 2023-07-26 16:23:00 +0000
-tags: []
+tags: ["bash", "chrome", "cli", "Coursera", "firewall", "google", "IT", "linux", "network", "plugin", "Prometheus", "security", "SQL", "support", "навчання"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/07/google-cybersecurity-professional_26.html
 ---
 

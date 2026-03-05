@@ -2,7 +2,7 @@
 layout: post
 title: "eToken PKSC11 створення та використання ключів у Ubuntu"
 date: 2016-06-15 21:45:00 +0000
-tags: []
+tags: ["aladdin", "authentication", "linux", "pkcs11", "security", "smart card", "token", "ubuntu"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/06/etoken-pksc11-ubuntu.html
 ---
 

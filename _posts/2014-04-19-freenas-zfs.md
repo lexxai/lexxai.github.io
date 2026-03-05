@@ -2,7 +2,7 @@
 layout: post
 title: "FreeNAS, ZFS"
 date: 2014-04-19 20:36:00 +0000
-tags: []
+tags: ["FreeNAS", "ZFS"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/04/freenas-zfs.html
 ---
 

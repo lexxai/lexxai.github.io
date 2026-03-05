@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка. Оновлення запису DNS для DHCP CLIENT FreeBSD з використанням nsupdate"
 date: 2022-02-03 00:32:00 +0000
-tags: []
+tags: ["adimistration", "dhcp", "dns", "FreeBSD", "nsupdate", "script"]
 blogger_orig_link: https://lexxai.blogspot.com/2022/02/dns-dhcp-client-freebsd-nsupdate.html
 ---
 

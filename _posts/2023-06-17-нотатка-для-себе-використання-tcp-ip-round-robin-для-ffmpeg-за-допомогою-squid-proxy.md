@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка для себе. Використання TCP IP round robin для ffmpeg за допомогою SQUID Proxy"
 date: 2023-06-17 15:38:00 +0000
-tags: []
+tags: ["ffmpeg", "internet", "network", "pfSense", "security", "shell", "squid"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/06/tcp-ip-round-robin-ffmpeg-squid-proxy.html
 ---
 

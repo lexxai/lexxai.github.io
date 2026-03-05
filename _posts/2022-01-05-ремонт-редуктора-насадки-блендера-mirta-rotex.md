@@ -2,7 +2,7 @@
 layout: post
 title: "Ремонт редуктора насадки блендера Mirta, Rotex"
 date: 2022-01-05 21:57:00 +0000
-tags: []
+tags: ["3D друк", "Mirta", "Rotex", "блендер", "побутова техніка", "ремонт", "шестерня"]
 blogger_orig_link: https://lexxai.blogspot.com/2022/01/mirta-rotex.html
 ---
 

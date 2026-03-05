@@ -2,7 +2,7 @@
 layout: post
 title: "Mount SMB FreeBSD, монтування мережевих тек віндовс"
 date: 2013-04-02 11:07:00 +0000
-tags: []
+tags: ["FreeBSD", "samba"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/04/mount-smb-freebsd.html
 ---
 

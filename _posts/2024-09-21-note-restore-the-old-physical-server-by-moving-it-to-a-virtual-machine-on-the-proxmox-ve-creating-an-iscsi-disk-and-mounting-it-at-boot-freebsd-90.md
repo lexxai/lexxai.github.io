@@ -2,7 +2,7 @@
 layout: post
 title: "Note. Restore the old physical server by moving it to a virtual machine on the Proxmox VE. Creating an iSCSI disk and mounting it at boot. FreeBSD 9.0."
 date: 2024-09-21 16:41:00 +0000
-tags: []
+tags: ["configuration", "ethernet", "FreeBSD", "Intel", "interfaces", "internet", "iscsi", "linux", "NAS", "network", "Proxmox", "TrueNAS", "Virtualization", "VM"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/09/note-restore-old-physical-server-by.html
 ---
 

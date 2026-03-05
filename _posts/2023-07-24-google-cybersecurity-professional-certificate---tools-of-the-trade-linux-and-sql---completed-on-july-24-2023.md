@@ -2,7 +2,7 @@
 layout: post
 title: "Google Cybersecurity Professional Certificate - Tools of the Trade: Linux and SQL - Completed on July 24, 2023"
 date: 2023-07-24 17:44:00 +0000
-tags: []
+tags: ["bash", "chrome", "cli", "Coursera", "firewall", "google", "IT", "linux", "network", "plugin", "Prometheus", "security", "SQL", "support", "навчання"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/07/google-cybersecurity-professional_35.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Резервне копіювання у FreeBSD. Backup, mounting, rsync"
 date: 2013-05-23 19:57:00 +0000
-tags: []
+tags: ["backup", "FreeBSD", "mount", "rsync"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/05/freebsd-backup-mounting-rsync.html
 ---
 

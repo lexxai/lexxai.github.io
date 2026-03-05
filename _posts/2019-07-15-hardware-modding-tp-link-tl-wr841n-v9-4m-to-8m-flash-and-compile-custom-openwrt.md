@@ -2,7 +2,7 @@
 layout: post
 title: "Hardware modding TP-Link TL-WR841N v9 4M to 8M Flash and compile custom OpenWrt"
 date: 2019-07-15 23:15:00 +0000
-tags: []
+tags: ["build", "firmware", "flash", "hardware", "modding", "openwrt", "TL-WR841N", "tp-link"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/07/hardware-modding-tp-link-tl-wr841n-v9.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка. Монтування дисків NFS, ZFS поверх iSCSI. FreeBSD rc.d."
 date: 2023-05-12 23:17:00 +0000
-tags: []
+tags: ["FreeBSD", "FreeNAS", "iscsi", "mount", "NAS", "network", "nfs", "script", "storage", "TrueNAS", "ZFS", "zfspool"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/05/nfs-zfs-iscsi-freebsd-rcd.html
 ---
 

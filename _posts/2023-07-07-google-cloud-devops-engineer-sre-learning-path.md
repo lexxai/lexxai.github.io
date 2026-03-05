@@ -2,7 +2,7 @@
 layout: post
 title: "Google Cloud: DevOps Engineer, SRE Learning Path"
 date: 2023-07-07 13:43:00 +0000
-tags: []
+tags: ["DevOps", "google", "Google Cloud", "skill"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/07/google-cloud-devops-engineer-sre.html
 ---
 

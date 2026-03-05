@@ -2,7 +2,7 @@
 layout: post
 title: "PHP-FPM doesn't write to error log"
 date: 2013-06-12 23:29:00 +0000
-tags: []
+tags: ["nginx", "php"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/06/php-fpm-doesnt-write-to-error-log.html
 ---
 

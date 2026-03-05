@@ -2,7 +2,7 @@
 layout: post
 title: "Модифікація кнопки для дзвінка на кнопку з датчиком руху та індикацією стану розумного будинку  на базі SONOFF/ESP/Tasmota"
 date: 2022-01-09 22:41:00 +0000
-tags: []
+tags: ["button", "ESP", "motion", "PIR", "sensor", "TASMOTA", "датчик", "розумний дім"]
 blogger_orig_link: https://lexxai.blogspot.com/2022/01/sonoffesptasmota.html
 ---
 

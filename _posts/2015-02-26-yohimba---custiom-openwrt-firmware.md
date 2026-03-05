@@ -2,7 +2,7 @@
 layout: post
 title: "Yohimba - custiom OpenWrt firmware"
 date: 2015-02-26 09:27:00 +0000
-tags: []
+tags: ["firmware", "openwrt"]
 blogger_orig_link: https://lexxai.blogspot.com/2015/02/yohimba-custiom-openwrt-firmware.html
 ---
 

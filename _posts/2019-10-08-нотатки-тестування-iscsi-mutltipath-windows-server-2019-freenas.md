@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатки. Тестування iSCSI Mutltipath. Windows Server 2019, FreeNAS"
 date: 2019-10-08 21:32:00 +0000
-tags: []
+tags: ["FreeNAS", "iscsi", "multipath", "windows server", "ZFS"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/10/iscsi-mutltipath-windows-server-2019.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Optimizing Performance: Python Speed Test for Digit Search in Strings"
 date: 2024-11-23 17:53:00 +0000
-tags: []
+tags: ["optimize", "python", "speed", "string", "test"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/11/optimizing-performance-python-speed.html
 ---
 

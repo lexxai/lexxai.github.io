@@ -2,7 +2,7 @@
 layout: post
 title: "Nginx, Session, memcached, FreeBSD, memcachedb"
 date: 2013-06-13 22:50:00 +0000
-tags: []
+tags: ["FreeBSD", "nginx", "php", "session"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/06/ngnix-session-memcached-freebsd.html
 ---
 

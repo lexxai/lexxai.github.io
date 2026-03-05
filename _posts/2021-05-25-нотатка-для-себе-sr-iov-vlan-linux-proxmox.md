@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка для себе. SR-IOV VLAN Linux Proxmox"
 date: 2021-05-25 00:10:00 +0000
-tags: []
+tags: ["ethernet", "linux", "network", "Proxmox", "SR-IOV", "VLAN"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/05/sr-iov-vlan-linux-proxmox.html
 ---
 

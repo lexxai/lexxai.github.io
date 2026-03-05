@@ -2,7 +2,7 @@
 layout: post
 title: "Torrent-TV player"
 date: 2013-03-07 18:05:00 +0000
-tags: []
+tags: ["player", "torrent", "tv"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/03/torrent-tv-player.html
 ---
 

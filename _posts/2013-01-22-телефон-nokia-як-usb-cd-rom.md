@@ -2,7 +2,7 @@
 layout: post
 title: "Телефон Nokia як USB CD-ROM"
 date: 2013-01-22 23:34:00 +0000
-tags: []
+tags: ["usb storage"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/01/nokia-usb-cd-rom.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Програвання Video у HTML, використання треків."
 date: 2013-06-01 16:18:00 +0000
-tags: []
+tags: ["Audio", "html", "html5", "track", "video"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/06/video-html.html
 ---
 

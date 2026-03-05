@@ -2,7 +2,7 @@
 layout: post
 title: "Компіляція mpv player для OS Windows у VM OS OpenSUSE"
 date: 2015-12-08 20:32:00 +0000
-tags: []
+tags: ["buld", "linux", "MPV", "OpenSUSE", "windows"]
 blogger_orig_link: https://lexxai.blogspot.com/2015/12/mpv-player-os-windows-vm-os-opensuse.html
 ---
 

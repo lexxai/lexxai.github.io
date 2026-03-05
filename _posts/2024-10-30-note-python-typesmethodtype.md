@@ -2,7 +2,7 @@
 layout: post
 title: "Note. Python. types.MethodType"
 date: 2024-10-30 14:51:00 +0000
-tags: []
+tags: ["python"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/10/note-python-typesmethodtype.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка. Перетворення RAID контролера на звичайний контролер дисків HBA (Host Bus Adapter)"
 date: 2019-11-25 19:53:00 +0000
-tags: []
+tags: ["firmware", "hardware", "LSI", "raid"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/11/raid-hba-host-bus-adapter.html
 ---
 

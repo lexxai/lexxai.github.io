@@ -2,7 +2,7 @@
 layout: post
 title: "explorer.exe /separate"
 date: 2012-08-20 16:31:00 +0000
-tags: []
+tags: ["explorer", "windows xp"]
 blogger_orig_link: https://lexxai.blogspot.com/2012/08/explorerexe-separate.html
 ---
 

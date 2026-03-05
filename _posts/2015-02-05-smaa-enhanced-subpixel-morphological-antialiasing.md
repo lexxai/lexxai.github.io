@@ -2,7 +2,7 @@
 layout: post
 title: "SMAA: Enhanced Subpixel Morphological Antialiasing"
 date: 2015-02-05 19:21:00 +0000
-tags: []
+tags: ["graphics", "OpenGL", "programming", "графіка", "програмування"]
 blogger_orig_link: https://lexxai.blogspot.com/2015/02/smaa-enhanced-subpixel-morphological.html
 ---
 

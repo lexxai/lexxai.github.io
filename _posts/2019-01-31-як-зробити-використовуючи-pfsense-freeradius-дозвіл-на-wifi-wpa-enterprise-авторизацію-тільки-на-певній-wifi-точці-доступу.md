@@ -2,7 +2,7 @@
 layout: post
 title: "Як зробити використовуючи pfSense, FreeRadius, дозвіл на WiFi WPA-Enterprise авторизацію тільки на певній WiFi точці доступу"
 date: 2019-01-31 22:58:00 +0000
-tags: []
+tags: ["FreeBSD", "FreeRadius", "pfSense", "security", "wifi", "WPA-Enterprise"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/02/pfsense-freeradius-wifi-wpa-enterprise.html
 ---
 

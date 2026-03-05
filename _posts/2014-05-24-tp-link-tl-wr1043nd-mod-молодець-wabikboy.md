@@ -2,7 +2,7 @@
 layout: post
 title: "TP-Link TL-WR1043ND MOD. Молодець wabikboy."
 date: 2014-05-24 12:25:00 +0000
-tags: []
+tags: ["hdd", "internet", "multimedia", "open-wrt", "openwrt", "router", "TP-Link 1043", "usb audio", "usb ethernet", "usb storage", "Wi-Fi", "трансляція"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/05/tp-link-tl-wr1043nd-mod.html
 ---
 

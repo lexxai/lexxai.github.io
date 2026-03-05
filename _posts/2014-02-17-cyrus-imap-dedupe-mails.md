@@ -2,7 +2,7 @@
 layout: post
 title: "Cyrus IMAP dedupe mails"
 date: 2014-02-17 20:03:00 +0000
-tags: []
+tags: ["cyrus", "FreeBSD", "script"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/02/cyrus-imap-dedupe-mails.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Підключення до консолі віртуальних машин Hyper-V  через RDP"
 date: 2020-10-22 16:31:00 +0000
-tags: []
+tags: ["adimistration", "Hyper-V", "network", "RDP", "Virtualization", "windows"]
 blogger_orig_link: https://lexxai.blogspot.com/2020/10/hyper-v-rdp.html
 ---
 

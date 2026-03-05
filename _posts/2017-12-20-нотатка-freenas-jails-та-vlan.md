@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка. FreeNAS. Jails та VLAN"
 date: 2017-12-20 23:25:00 +0000
-tags: []
+tags: ["FreeNAS", "jail", "VLAN"]
 blogger_orig_link: https://lexxai.blogspot.com/2017/12/freenas-jails-vlan.html
 ---
 

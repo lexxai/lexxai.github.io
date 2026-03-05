@@ -2,7 +2,7 @@
 layout: post
 title: "Performance Comparison of Python Function Implementations for Equivalent Output"
 date: 2024-11-13 21:47:00 +0000
-tags: []
+tags: ["optimiz", "python"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/11/performance-comparison-of-five-python.html
 ---
 

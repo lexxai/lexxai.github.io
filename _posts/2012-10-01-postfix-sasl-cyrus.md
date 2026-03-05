@@ -2,7 +2,7 @@
 layout: post
 title: "Postfix SASL cyrus"
 date: 2012-10-01 19:27:00 +0000
-tags: []
+tags: ["cyrus", "postfix", "sasl"]
 blogger_orig_link: https://lexxai.blogspot.com/2012/10/postfix-sasl-cyrus.html
 ---
 

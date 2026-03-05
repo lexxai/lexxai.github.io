@@ -2,7 +2,7 @@
 layout: post
 title: "Задача для зображень \"grey to rgb\" у моделі #keras"
 date: 2024-03-07 15:43:00 +0000
-tags: []
+tags: ["image", "keras", "TensorFlow", "tf"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/03/grey-to-rgb-keras.html
 ---
 

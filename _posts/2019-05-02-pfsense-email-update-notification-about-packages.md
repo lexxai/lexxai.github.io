@@ -2,7 +2,7 @@
 layout: post
 title: "pfSense email update notification about packages"
 date: 2019-05-02 21:20:00 +0000
-tags: []
+tags: ["email", "firewall", "pfsence", "security"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/05/pfsense-email-update-notification-about.html
 ---
 

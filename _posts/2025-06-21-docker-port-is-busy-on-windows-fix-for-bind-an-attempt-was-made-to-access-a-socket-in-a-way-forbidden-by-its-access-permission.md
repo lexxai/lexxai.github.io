@@ -2,7 +2,7 @@
 layout: post
 title: "Docker Port Is Busy on Windows? Fix for: bind: An attempt was made to access a socket in a way forbidden by its access permission."
 date: 2025-06-21 19:27:00 +0000
-tags: []
+tags: ["administration", "docker", "network", "permission", "ports", "security", "socket", "windows"]
 blogger_orig_link: https://lexxai.blogspot.com/2025/06/docker-port-is-busy-on-windows-fix-for.html
 ---
 

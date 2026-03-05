@@ -2,7 +2,7 @@
 layout: post
 title: "Як завантажити до VMware player - FreeBSD 9.1 з USB флешки."
 date: 2013-01-03 23:00:00 +0000
-tags: []
+tags: ["boot", "FreeBSD", "usb storage", "VMware player"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/01/vmware-player-freebsd-91-usb.html
 ---
 

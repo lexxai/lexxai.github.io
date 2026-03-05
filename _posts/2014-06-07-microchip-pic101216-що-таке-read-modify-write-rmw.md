@@ -2,7 +2,7 @@
 layout: post
 title: "Microchip PIC10/12/16. Що таке read-modify-write (RMW)?"
 date: 2014-06-07 15:07:00 +0000
-tags: []
+tags: ["microchip", "microcontroller", "pic", "read-modify-write", "RMW"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/06/microchip-pic101216-read-modify-write.html
 ---
 

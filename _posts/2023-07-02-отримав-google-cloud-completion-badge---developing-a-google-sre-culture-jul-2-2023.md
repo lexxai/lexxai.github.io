@@ -2,7 +2,7 @@
 layout: post
 title: "Отримав:  Google Cloud COMPLETION BADGE - Developing a Google SRE Culture Jul 2, 2023"
 date: 2023-07-02 22:22:00 +0000
-tags: []
+tags: ["certificate", "COMPLETION BADGE", "DevOps", "google", "Google Cloud", "SRE"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/07/google-cloud-completion-badge.html
 ---
 

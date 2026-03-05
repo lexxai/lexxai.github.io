@@ -2,7 +2,7 @@
 layout: post
 title: "SIMILE Timeline - коректування формату виводу для тексту підпису у події"
 date: 2012-12-31 20:20:00 +0000
-tags: []
+tags: ["AJAX", "custom", "events", "JavaScript", "SIMILE Timeline"]
 blogger_orig_link: https://lexxai.blogspot.com/2012/12/simile-timeline.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "The Days Go By / Минають дні, минають ночі"
 date: 2019-01-23 01:26:00 +0000
-tags: []
+tags: ["Шевченко Т.Г."]
 blogger_orig_link: https://lexxai.blogspot.com/2019/01/the-days-go-by.html
 ---
 

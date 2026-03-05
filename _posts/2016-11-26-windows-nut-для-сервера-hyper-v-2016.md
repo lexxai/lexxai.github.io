@@ -2,7 +2,7 @@
 layout: post
 title: "Windows NUT для сервера Hyper-V 2016"
 date: 2016-11-26 01:53:00 +0000
-tags: []
+tags: ["administration", "Hyper-V", "NUT", "Virtualization", "windows"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/11/windows-nut-hyper-v-2016.html
 ---
 

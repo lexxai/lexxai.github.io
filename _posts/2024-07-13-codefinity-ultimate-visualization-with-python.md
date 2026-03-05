@@ -2,7 +2,7 @@
 layout: post
 title: "Codefinity. Ultimate Visualization with Python"
 date: 2024-07-13 16:50:00 +0000
-tags: []
+tags: ["Codefinity", "confusion_matrix", "matplotlib", "python", "seaborn"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/07/codefinity-ultimate-visualization-with.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "UPSMON Plus for Windows (PowerCom) - Українською"
 date: 2014-11-03 01:04:00 +0000
-tags: []
+tags: ["power", "translation", "ups", "мова", "український"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/11/upsmon-plus-for-windows-powercom-ukrainian.html
 ---
 

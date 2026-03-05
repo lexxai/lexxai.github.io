@@ -2,7 +2,7 @@
 layout: post
 title: "Завершив курс Convolutional Neural Networks in TensorFlow (DeepLearning.AI TensorFlow Developer)"
 date: 2023-07-15 02:38:00 +0000
-tags: []
+tags: ["Artificial Intelligence", "certificate", "Computer Vision", "Coursera", "Deep Learning", "DeepLearning.AI", "google", "Machine Learning", "ML", "TensorFlow"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/07/convolutional-neural-networks-in.html
 ---
 

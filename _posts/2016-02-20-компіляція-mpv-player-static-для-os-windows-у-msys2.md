@@ -2,7 +2,7 @@
 layout: post
 title: "Компіляція mpv player (static) для OS Windows у MSYS2"
 date: 2016-02-20 00:29:00 +0000
-tags: []
+tags: ["ffmpeg", "mingw", "MPV", "msys", "msys2", "programming", "staic build"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/02/mpv-player-static-os-windows-msys2.html
 ---
 

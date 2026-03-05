@@ -2,7 +2,7 @@
 layout: post
 title: "Comparator Voltage Reference CVREF (PIC16F631/677/685/687/689/690)"
 date: 2014-06-11 11:28:00 +0000
-tags: []
+tags: ["microchip", "microcontroller", "pic"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/06/comparator-voltage-reference-cvref.html
 ---
 

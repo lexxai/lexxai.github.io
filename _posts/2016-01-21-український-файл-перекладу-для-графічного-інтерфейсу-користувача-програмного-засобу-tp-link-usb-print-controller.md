@@ -2,7 +2,7 @@
 layout: post
 title: "Український файл перекладу для графічного інтерфейсу користувача програмного засобу \"TP-LINK USB Print Controller\""
 date: 2016-01-21 01:16:00 +0000
-tags: []
+tags: ["GUI", "TP-Link 1043", "translation", "переклад"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/01/tp-link-usb-print-controller.html
 ---
 

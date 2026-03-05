@@ -2,7 +2,7 @@
 layout: post
 title: "Implement Load Balancing on Compute Engine Skill Badge | Google Cloud Skills Boost | Credly"
 date: 2024-04-04 14:45:00 +0000
-tags: []
+tags: ["AI", "datascience", "google", "Google Cloud", "MachineLearning", "ML"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/04/implement-load-balancing-on-compute.html
 ---
 

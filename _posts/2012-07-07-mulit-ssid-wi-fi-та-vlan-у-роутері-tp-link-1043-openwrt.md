@@ -2,7 +2,7 @@
 layout: post
 title: "Mulit-SSID Wi-Fi та VLAN у роутері TP-Link 1043 (OpenWRT)"
 date: 2012-07-07 21:06:00 +0000
-tags: []
+tags: ["Mulit-SSID", "router", "script", "security", "tagged", "tcpdump", "untagged", "VLAN", "Wireless"]
 blogger_orig_link: https://lexxai.blogspot.com/2012/07/vlan-tp-link-1043.html
 ---
 

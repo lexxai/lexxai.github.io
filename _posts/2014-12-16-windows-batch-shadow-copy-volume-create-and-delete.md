@@ -2,7 +2,7 @@
 layout: post
 title: "Windows batch Shadow Copy Volume, create and delete."
 date: 2014-12-16 00:47:00 +0000
-tags: []
+tags: ["batch", "shell", "windows"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/12/windows-batch-shadow-create-and-delete.html
 ---
 

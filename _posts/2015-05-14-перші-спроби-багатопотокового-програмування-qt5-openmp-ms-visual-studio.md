@@ -2,7 +2,7 @@
 layout: post
 title: "Перші спроби багатопотокового програмування Qt5 + OpenMP +MS  Visual Studio"
 date: 2015-05-14 19:23:00 +0000
-tags: []
+tags: ["C++", "cpu", "multithread", "OpenMP", "programming", "Qt", "багатопотоковість", "програмування", "процесор"]
 blogger_orig_link: https://lexxai.blogspot.com/2015/05/qt5-openmp-ms-visual-studio.html
 ---
 

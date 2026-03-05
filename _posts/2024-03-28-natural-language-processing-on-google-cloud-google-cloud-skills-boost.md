@@ -2,7 +2,7 @@
 layout: post
 title: "Natural Language Processing on Google Cloud | Google Cloud Skills Boost"
 date: 2024-03-28 01:40:00 +0000
-tags: []
+tags: ["AI", "datascience", "google", "Google Cloud", "MachineLearning", "ML"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/03/natural-language-processing-on-google.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "7 покоління процесорів Intel та вбудоване відео Intel HD Graphics 7gen і драйвер для Windows 7"
 date: 2017-11-12 14:16:00 +0000
-tags: []
+tags: ["hardware", "Intel HD Graphics 7gen", "windows"]
 blogger_orig_link: https://lexxai.blogspot.com/2017/11/7-intel-intel-hd-graphics-7gen-windows-7.html
 ---
 

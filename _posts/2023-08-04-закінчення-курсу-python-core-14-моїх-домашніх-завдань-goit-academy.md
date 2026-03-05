@@ -2,7 +2,7 @@
 layout: post
 title: "Закінчення курсу Python Core. 14 моїх домашніх завдань.  GoIT academy"
 date: 2023-08-04 16:23:00 +0000
-tags: []
+tags: ["GoIT", "python"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/08/blog-post.html
 ---
 

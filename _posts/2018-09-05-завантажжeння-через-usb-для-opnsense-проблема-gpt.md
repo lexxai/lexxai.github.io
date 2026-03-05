@@ -2,7 +2,7 @@
 layout: post
 title: "Завантажжeння через USB для OPNsense проблема GPT"
 date: 2018-09-05 10:07:00 +0000
-tags: []
+tags: ["boot", "FreeBSD", "gpart", "gpt", "opnsense", "usb", "VMware player"]
 blogger_orig_link: https://lexxai.blogspot.com/2018/09/e-usb-opnsense-gpt.html
 ---
 

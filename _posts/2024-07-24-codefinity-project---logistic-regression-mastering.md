@@ -2,7 +2,7 @@
 layout: post
 title: "Codefinity. Project - Logistic Regression Mastering"
 date: 2024-07-24 12:37:00 +0000
-tags: []
+tags: ["Codefinity", "datascience", "LogisticRegression", "Pandas", "python", "sklearn"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/07/codefinity-project-logistic-regression.html
 ---
 

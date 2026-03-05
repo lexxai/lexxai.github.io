@@ -2,7 +2,7 @@
 layout: post
 title: "Introduction to AI and Machine Learning on Google Cloud | Google Cloud Skills Boost"
 date: 2024-02-18 13:18:00 +0000
-tags: []
+tags: ["AI", "datascience", "google", "Google Cloud", "MachineLearning", "ML"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/02/introduction-to-ai-and-machine-learning.html
 ---
 

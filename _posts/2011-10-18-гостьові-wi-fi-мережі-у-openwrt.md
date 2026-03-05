@@ -2,7 +2,7 @@
 layout: post
 title: "Гостьові Wi-FI мережі у OpenWRT"
 date: 2011-10-18 14:12:00 +0000
-tags: []
+tags: ["guest", "interfaces", "iptables", "linux", "openwrt", "Triolan Social", "WAN", "Wi-Fi"]
 blogger_orig_link: https://lexxai.blogspot.com/2011/10/openwrt.html
 ---
 

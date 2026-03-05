@@ -2,7 +2,7 @@
 layout: post
 title: "Creating Private V3 Onion Services"
 date: 2019-05-02 23:02:00 +0000
-tags: []
+tags: ["Onion", "privacy", "security", "tor"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/05/creating-private-v3-onion-services.html
 ---
 

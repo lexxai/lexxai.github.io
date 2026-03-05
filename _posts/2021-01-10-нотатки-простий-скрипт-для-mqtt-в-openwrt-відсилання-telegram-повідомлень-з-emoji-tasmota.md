@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатки : Простий скрипт для MQTT в OpenWRT : відсилання Telegram повідомлень з Emoji. Tasmota."
 date: 2021-01-10 01:38:00 +0000
-tags: []
+tags: ["api", "bash", "Emoji", "Mosquitto", "MQTT", "openwrt", "script", "shell", "SONOFF", "TASMOTA", "telegram"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/01/mqtt-openwrt-telegram-emoji.html
 ---
 

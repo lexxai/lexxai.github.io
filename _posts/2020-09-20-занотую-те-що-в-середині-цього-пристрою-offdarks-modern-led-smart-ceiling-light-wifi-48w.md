@@ -2,7 +2,7 @@
 layout: post
 title: "Занотую те що в середині цього пристрою: OFFDARKS Modern LED Smart Ceiling Light WiFi 48W"
 date: 2020-09-20 21:15:00 +0000
-tags: []
+tags: ["electronic", "ESP 8266", "hardware", "home", "led", "network", "python", "Wi-Fi"]
 blogger_orig_link: https://lexxai.blogspot.com/2020/09/offdarks-modern-led-smart-ceiling-light.html
 ---
 

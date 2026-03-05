@@ -2,7 +2,7 @@
 layout: post
 title: "Google Cloud Skill Badge for Create and Manage Cloud Resources"
 date: 2023-07-07 13:17:00 +0000
-tags: []
+tags: ["badge", "DevOps", "google", "Google Cloud", "skill"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/07/google-cloud-skill-badge-for-create-and.html
 ---
 

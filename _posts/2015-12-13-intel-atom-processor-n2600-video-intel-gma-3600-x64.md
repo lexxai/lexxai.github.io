@@ -2,7 +2,7 @@
 layout: post
 title: "Intel® Atom™ Processor N2600,  Video Intel GMA 3600 x64"
 date: 2015-12-13 01:31:00 +0000
-tags: []
+tags: ["hardware", "Intel", "video"]
 blogger_orig_link: https://lexxai.blogspot.com/2015/12/intel-atom-processor-n2600-video-intel.html
 ---
 

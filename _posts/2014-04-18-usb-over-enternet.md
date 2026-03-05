@@ -2,7 +2,7 @@
 layout: post
 title: "USB over Enternet"
 date: 2014-04-18 12:09:00 +0000
-tags: []
+tags: ["ethernet", "usb", "usb ethernet", "VM"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/04/usb-over-enternet.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Git : Syncing a fork"
 date: 2014-10-09 23:32:00 +0000
-tags: []
+tags: ["Git", "GitHub", "sync"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/10/git-syncing-fork.html
 ---
 

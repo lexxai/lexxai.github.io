@@ -2,7 +2,7 @@
 layout: post
 title: "FreeBSD Sensors monitoring"
 date: 2012-08-24 10:42:00 +0000
-tags: []
+tags: ["CACTI", "Fan", "FreeBSD", "mbmon", "Monitoring", "SNMP", "Temperature", "Voltage"]
 blogger_orig_link: https://lexxai.blogspot.com/2012/08/freebsd-sensors-monitoring.html
 ---
 

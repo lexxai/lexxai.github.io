@@ -2,7 +2,7 @@
 layout: post
 title: "DNS Round Robin Windows 7"
 date: 2012-08-19 22:55:00 +0000
-tags: []
+tags: ["dns", "round robin", "windows"]
 blogger_orig_link: https://lexxai.blogspot.com/2012/08/dns-round-robin-windows-7.html
 ---
 

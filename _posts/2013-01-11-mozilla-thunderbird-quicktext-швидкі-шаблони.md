@@ -2,7 +2,7 @@
 layout: post
 title: "Mozilla Thunderbird : Quicktext : швидкі шаблони"
 date: 2013-01-11 21:13:00 +0000
-tags: []
+tags: ["email", "extension", "Mozilla Thunderbird"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/01/mozilla-thunderbird-quicktext.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "5-Day Gen AI Intensive Course with Kaggle and Google. Educational - Parking AI."
 date: 2024-11-17 17:57:00 +0000
-tags: []
+tags: ["AI", "gemini", "google", "kaggle", "llm", "python"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/11/5-day-gen-ai-intensive-course-with.html
 ---
 
@@ -21,7 +21,7 @@ blogger_orig_link: https://lexxai.blogspot.com/2024/11/5-day-gen-ai-intensive-co
 З позитивних моментів те що захотілося спробувати отриману інформацію
 особисто, і спробував з моделювати найпростішого помічника до
 [нашого навчального проєкту IT академії GoIT - на тему "Автоматизована
-система паркування"](https://lexxai.blogspot.com/2024/04/m-python-data-science-it-goit.html).
+система паркування"](/2024-04-26-mодуль-python-data-science-в-it-академії-goit---проєкт-на-тему-автоматизована-система-паркування.md).
 
 Оформив простий Colab projet
 [ParkingAI.ipynb](https://colab.research.google.com/drive/1yj30lBghix7LeVH45E0pBZzxjJ6uPrsg?usp=sharing). Для його виконання необхідно отримати GOOGLE\_API\_KEY від

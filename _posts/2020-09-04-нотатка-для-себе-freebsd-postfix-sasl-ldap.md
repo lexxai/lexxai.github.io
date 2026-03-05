@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка для себе: FreeBSD, Postfix, SASL, LDAP"
 date: 2020-09-04 01:40:00 +0000
-tags: []
+tags: ["FreeBSD", "LDAP", "OpenLDAP", "posfix", "sasl", "security"]
 blogger_orig_link: https://lexxai.blogspot.com/2020/09/freebsd-postfix-sasl-ldap.html
 ---
 

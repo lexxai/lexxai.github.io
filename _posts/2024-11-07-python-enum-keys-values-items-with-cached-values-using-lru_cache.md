@@ -2,7 +2,7 @@
 layout: post
 title: "Python Enum, keys(), values(), items() with cached values using lru_cache."
 date: 2024-11-07 16:13:00 +0000
-tags: []
+tags: ["cache", "dict", "enum", "list", "lru", "mro", "python", "singleton"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/11/python-enum-keys-values-items-with.html
 ---
 

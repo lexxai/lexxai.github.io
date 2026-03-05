@@ -2,7 +2,7 @@
 layout: post
 title: "Компіляція браузера Chromium для Ubuntu (x265, HEVC)"
 date: 2016-09-26 21:05:00 +0000
-tags: []
+tags: ["build", "chromium", "HEVC", "linux", "ubuntu", "x265"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/09/chromium-ubuntu-x265-hevc.html
 ---
 

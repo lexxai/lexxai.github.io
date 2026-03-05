@@ -2,7 +2,7 @@
 layout: post
 title: "Machine Learning Operations (MLOps): Getting Started  | Google Cloud Skills Boost"
 date: 2024-04-07 00:24:00 +0000
-tags: []
+tags: ["AI", "datascience", "google", "Google Cloud", "MachineLearning", "ML"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/04/machine-learning-operations-mlops.html
 ---
 

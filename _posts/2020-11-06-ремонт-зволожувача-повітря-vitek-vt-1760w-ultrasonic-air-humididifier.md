@@ -2,7 +2,7 @@
 layout: post
 title: "Ремонт зволожувача повітря \"VITEK VT-1760W\" (Ultrasonic air humididifier)"
 date: 2020-11-06 20:56:00 +0000
-tags: []
+tags: ["Aliexpress", "hardware", "repair", "кешбек", "ремонт"]
 blogger_orig_link: https://lexxai.blogspot.com/2020/11/vitek-vt-1760w-ultrasonic-air.html
 ---
 

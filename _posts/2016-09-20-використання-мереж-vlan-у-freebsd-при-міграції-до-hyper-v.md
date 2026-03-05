@@ -2,7 +2,7 @@
 layout: post
 title: "Використання мереж VLAN у FreeBSD при міграції до Hyper-V"
 date: 2016-09-20 18:20:00 +0000
-tags: []
+tags: ["adimistration", "FreeBSD", "Hyper-V", "Virtualization", "VLAN", "адміністрування", "мережева"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/09/vlan-freebsd-hyper-v.html
 ---
 

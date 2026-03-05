@@ -2,7 +2,7 @@
 layout: post
 title: "Зміна освітлення на світлодіодне (2 x LED 1W) для швейної машини \"Brother RS 20\"."
 date: 2016-04-04 22:53:00 +0000
-tags: []
+tags: ["electronic", "handmade", "hardware", "led", "електроніка", "побутова техніка", "світлодіод", "техніка"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/04/brother-rs-20.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Ubuntu IPv6 privacy"
 date: 2016-10-25 07:44:00 +0000
-tags: []
+tags: ["administration", "ipv6", "privacy", "security", "ubuntu", "адміністрування", "безпека"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/10/ubuntu-ipv6-privacy.html
 ---
 

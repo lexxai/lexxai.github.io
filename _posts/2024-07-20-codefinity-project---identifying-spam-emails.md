@@ -2,7 +2,7 @@
 layout: post
 title: "Codefinity. Project - Identifying Spam Emails"
 date: 2024-07-20 15:04:00 +0000
-tags: []
+tags: ["Codefinity", "datascience", "lnn", "LogisticRegression", "matplotlib", "nltk", "Pandas", "python", "Regression", "sklearn"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/07/codefinity-project-identifying-spam.html
 ---
 

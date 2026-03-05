@@ -2,7 +2,7 @@
 layout: post
 title: "Ось і закінчився модуль навчання з #GoIT #Python #WEB 15. Груповий проєкт на #FastAPI."
 date: 2023-12-21 19:53:00 +0000
-tags: []
+tags: ["fastapi", "GoIT", "python"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/12/goit-python-web-15-fastapi.html
 ---
 

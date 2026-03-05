@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка для себе. UPS, NUT. Ubuntu (Proxmox VE, Proxmox Backup), FreeBSD, Windows"
 date: 2024-09-24 23:34:00 +0000
-tags: []
+tags: ["FreeBSD", "linux", "NUT", "Proxmox", "ubuntu", "usb", "windows"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/09/ups-nut-ubuntu-proxmox-ve-proxmox.html
 ---
 

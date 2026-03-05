@@ -2,7 +2,7 @@
 layout: post
 title: "Launching into Machine Learning | Google Cloud Skills Boost"
 date: 2024-02-26 19:34:00 +0000
-tags: []
+tags: ["AI", "datascience", "google", "Google Cloud", "MachineLearning", "ML"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/02/launching-into-machine-learning-google.html
 ---
 

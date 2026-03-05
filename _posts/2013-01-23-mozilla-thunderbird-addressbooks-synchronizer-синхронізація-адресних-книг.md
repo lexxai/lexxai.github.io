@@ -2,7 +2,7 @@
 layout: post
 title: "Mozilla Thunderbird : Addressbooks Synchronizer  : синхронізація адресних книг"
 date: 2013-01-23 23:18:00 +0000
-tags: []
+tags: ["address book", "LDAP", "Mozilla Thunderbird", "sync"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/01/mozilla-thunderbird-addressbooks.html
 ---
 

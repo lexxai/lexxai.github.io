@@ -2,7 +2,7 @@
 layout: post
 title: "Прослухав курс AWS Certified Solutions Architect - Associate (SAA-C03) Cert Prep: 2 Storage Design - LinkedIn Learning!"
 date: 2023-08-01 23:37:00 +0000
-tags: []
+tags: ["Amazon S3", "Amazon Web Services (AWS)", "AWS", "AWS Solutions Architect", "Elastic Block Store", "Elastic File System", "Storage Solutions"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/08/aws-certified-solutions-architect.html
 ---
 

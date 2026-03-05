@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка для себе. CARP monitoring script pfsense."
 date: 2021-05-24 12:34:00 +0000
-tags: []
+tags: ["CARP", "FreeBSD", "Monitoring", "pfsence", "script", "squid"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/05/carp-monitoring-script-pfsense.html
 ---
 

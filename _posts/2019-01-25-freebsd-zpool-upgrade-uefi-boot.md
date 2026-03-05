@@ -2,7 +2,7 @@
 layout: post
 title: "FreeBSD, zpool upgrade, UEFI boot"
 date: 2019-01-25 14:08:00 +0000
-tags: []
+tags: ["FreeBSD", "UEFI boot", "zpool upgrade"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/01/freebsd-zpool-upgrade-uefi-boot.html
 ---
 

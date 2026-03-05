@@ -2,7 +2,7 @@
 layout: post
 title: "Power Bank HKC-QB-806D"
 date: 2015-05-05 21:52:00 +0000
-tags: []
+tags: ["18650", "hardware", "електроніка"]
 blogger_orig_link: https://lexxai.blogspot.com/2015/05/power-bank-hkc-qb-806d.html
 ---
 

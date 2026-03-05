@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка. Django. E-mail. User Certificate. EmailBackend."
 date: 2024-01-12 16:04:00 +0000
-tags: []
+tags: ["certificate", "Django", "email", "openssl", "python", "self signed certificate", "SSL"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/01/django-e-mail-user-certificate.html
 ---
 

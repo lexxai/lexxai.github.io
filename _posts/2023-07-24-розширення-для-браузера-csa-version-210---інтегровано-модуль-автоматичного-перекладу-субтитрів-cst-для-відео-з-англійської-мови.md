@@ -2,7 +2,7 @@
 layout: post
 title: "Розширення для браузера CSA version 2.1.0 - інтегровано модуль автоматичного перекладу субтитрів CST для відео з англійської мови"
 date: 2023-07-24 17:12:00 +0000
-tags: []
+tags: ["browser", "chrome", "CSA", "CST", "edge", "extension", "plugin"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/07/csa-version-210-cst.html
 ---
 
@@ -20,7 +20,7 @@ blogger_orig_link: https://lexxai.blogspot.com/2023/07/csa-version-210-cst.html
 як тільки сторінка оновлюються і на ній є відео 📽️, субтитри
 перекладаються автоматично у розширенні [CSA](https://github.com/lexxai/CourseraSaveAssist) починаючи з версії v.2.1.0.  
   
-P.S. 🎓 [сертифікат "Linux, SQL"](https://lexxai.blogspot.com/2023/07/google-cybersecurity-professional_35.html) вночі (або вже під самий ранок) теж отримав :)  
+P.S. 🎓 [сертифікат "Linux, SQL"](/2023-07-24-google-cybersecurity-professional-certificate---tools-of-the-trade-linux-and-sql---completed-on-july-24-2023.md) вночі (або вже під самий ранок) теж отримав :)  
   
 з'ясував
 що *chrome.runtime* повідомлення "не прийняти" у межах одної *content*

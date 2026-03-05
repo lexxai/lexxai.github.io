@@ -2,7 +2,7 @@
 layout: post
 title: "Марафон з вивчення Python з GoIT за три дні пишемо гру з застосуванням pygame."
 date: 2023-04-13 16:41:00 +0000
-tags: []
+tags: ["GoIT", "python", "курси", "навчання"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/04/python-goit-pygame.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка для себе. Відновити GPT таблицю, випадково стерту в Proxmox з ZFS."
 date: 2021-06-08 00:58:00 +0000
-tags: []
+tags: ["fdisk", "gpt", "hdd", "Proxmox", "restore", "ZFS", "zpool"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/06/restore-gpt-faulted-deleted-in-proxmox.html
 ---
 

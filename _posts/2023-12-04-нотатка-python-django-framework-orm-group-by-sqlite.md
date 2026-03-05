@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка: Python. Django framework. ORM \"GROUP BY\". SQLite."
 date: 2023-12-04 03:49:00 +0000
-tags: []
+tags: ["Django", "python", "SQL"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/12/python-django-framework-orm-group-by.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Сертифікат : Google IT Automation with Python Specialization - Introduction to Git and GitHub - Completed on Aug 22, 2023"
 date: 2023-08-22 11:24:00 +0000
-tags: []
+tags: ["chrome", "Coursera", "DevOps", "Git", "GitHub", "google", "IT", "plugin", "Prometheus", "python", "security", "support", "навчання"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/08/google-it-automation-with-python_22.html
 ---
 

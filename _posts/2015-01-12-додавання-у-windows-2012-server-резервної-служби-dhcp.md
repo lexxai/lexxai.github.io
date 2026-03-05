@@ -2,7 +2,7 @@
 layout: post
 title: "Додавання у Windows 2012 Server  резервної служби  DHCP"
 date: 2015-01-12 22:29:00 +0000
-tags: []
+tags: ["adimistration", "windows"]
 blogger_orig_link: https://lexxai.blogspot.com/2015/01/windows-2012-server-dhcp.html
 ---
 

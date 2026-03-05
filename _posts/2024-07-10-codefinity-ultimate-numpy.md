@@ -2,7 +2,7 @@
 layout: post
 title: "Codefinity. Ultimate NumPy."
 date: 2024-07-10 19:07:00 +0000
-tags: []
+tags: ["Codefinity", "data science", "ML", "NumPy", "python"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/07/codefinity-ultimate-numpy.html
 ---
 

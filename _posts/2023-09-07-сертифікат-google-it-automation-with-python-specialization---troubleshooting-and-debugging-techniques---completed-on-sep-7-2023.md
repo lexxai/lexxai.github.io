@@ -2,7 +2,7 @@
 layout: post
 title: "Сертифікат : Google IT Automation with Python Specialization - Troubleshooting and Debugging Techniques - Completed on Sep 7, 2023"
 date: 2023-09-07 14:44:00 +0000
-tags: []
+tags: ["chrome", "Coursera", "DevOps", "Git", "google", "IT", "plugin", "Prometheus", "python", "security", "support", "навчання"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/09/google-it-automation-with-python_7.html
 ---
 

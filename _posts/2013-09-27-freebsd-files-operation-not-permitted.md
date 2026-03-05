@@ -2,7 +2,7 @@
 layout: post
 title: "FreeBSD files operation not permitted"
 date: 2013-09-27 18:07:00 +0000
-tags: []
+tags: ["file", "FreeBSD"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/09/freebsd-files-operation-not-permitted.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка для себе. Proxmox easy HA script."
 date: 2022-02-14 21:45:00 +0000
-tags: []
+tags: ["administration", "Proxmox", "script", "Virtualization", "VM"]
 blogger_orig_link: https://lexxai.blogspot.com/2022/02/proxmox-manual-easy-ha-proxmox-script.html
 ---
 

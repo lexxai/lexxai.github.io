@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка. Python, Django, get_file та кеш браузера."
 date: 2024-10-29 14:43:00 +0000
-tags: []
+tags: ["cache", "Django", "http", "nginx", "python"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/10/python-django-getfile.html
 ---
 

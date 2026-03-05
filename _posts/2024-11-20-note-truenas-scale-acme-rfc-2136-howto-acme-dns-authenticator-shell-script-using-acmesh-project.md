@@ -2,7 +2,7 @@
 layout: post
 title: "Note. TrueNAS Scale. ACME RFC 2136. Howto: ACME DNS-Authenticator shell script using acmesh project"
 date: 2024-11-20 00:10:00 +0000
-tags: []
+tags: ["acme", "letsencrypt.org", "nsupdate", "RFC 2136", "TrueNAS"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/11/note-truenas-scale-acme-rfc-2136-howto.html
 ---
 

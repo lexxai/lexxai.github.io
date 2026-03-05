@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка для себе: openwrt usbip server, ubuntu usbip client, віддалений друк та сканування з Canon MF4120"
 date: 2020-09-10 17:14:00 +0000
-tags: []
+tags: ["asus", "canon", "cups", "gimp", "Open Source", "open-wrt", "p910nd", "pixma", "print", "scan", "scanimage", "ubuntu", "usb over ip", "usbip"]
 blogger_orig_link: https://lexxai.blogspot.com/2020/09/openwrt-usbip-server-ubuntu-usbip.html
 ---
 

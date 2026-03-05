@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка для себе. Proxmox config backup script  DerDanilo"
 date: 2021-07-01 20:40:00 +0000
-tags: []
+tags: ["backup", "Proxmox", "Virtualization"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/07/proxmox-config-backup-script-derdanilo.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка: zfs replication to external usb drive"
 date: 2020-03-28 22:39:00 +0000
-tags: []
+tags: ["encript", "FreeBSD", "FreeNAS", "GELI", "gpt", "script", "ZFS", "zpool"]
 blogger_orig_link: https://lexxai.blogspot.com/2020/03/zfs-replication-to-external-usb-drive.html
 ---
 

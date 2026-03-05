@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка. Python. functools.partial."
 date: 2024-12-25 22:16:00 +0000
-tags: []
+tags: ["python"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/12/python-functoolspartial.html
 ---
 

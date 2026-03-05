@@ -2,7 +2,7 @@
 layout: post
 title: "Планування правил firewall за часом у OpenWrt"
 date: 2011-10-17 22:14:00 +0000
-tags: []
+tags: ["cron", "cutter", "firewall", "firmware", "ip_conntrack", "iptables", "kill connenction", "openwrt", "router", "rules", "shedule", "TP-Link 1043"]
 blogger_orig_link: https://lexxai.blogspot.com/2011/10/firewall-openwrt.html
 ---
 

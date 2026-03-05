@@ -2,7 +2,7 @@
 layout: post
 title: "Ви ще не користуєтеся Кешбек (Cash Back), Pay Back ?"
 date: 2018-10-25 18:49:00 +0000
-tags: []
+tags: ["cashback", "payback", "кешбек"]
 blogger_orig_link: https://lexxai.blogspot.com/2018/10/cash-back-pay-back.html
 ---
 

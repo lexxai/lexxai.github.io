@@ -2,7 +2,7 @@
 layout: post
 title: "Використання IPSEC та включений захист DoS (Blat Attack) в керованих маршрутизаторах."
 date: 2019-01-10 00:35:00 +0000
-tags: []
+tags: ["DoS", "ipsec", "router", "security", "switch", "VLAN", "vpn"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/01/ipsec-dos-blat-attack.html
 ---
 

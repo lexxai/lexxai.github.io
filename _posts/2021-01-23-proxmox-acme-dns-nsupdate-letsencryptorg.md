@@ -2,7 +2,7 @@
 layout: post
 title: "Proxmox ACME DNS NSUPDATE letsencrypt.org"
 date: 2021-01-23 02:31:00 +0000
-tags: []
+tags: ["BIND", "dns", "letsencrypt.org", "Proxmox", "tsig"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/01/proxmox-acme-dns-nsupdate-letsencryptorg.html
 ---
 

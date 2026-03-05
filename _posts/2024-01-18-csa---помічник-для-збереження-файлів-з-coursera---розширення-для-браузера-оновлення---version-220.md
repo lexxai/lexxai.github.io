@@ -2,7 +2,7 @@
 layout: post
 title: "\"CSA - Помічник для збереження файлів з Coursera\" - розширення для браузера. Оновлення - version 2.2.0"
 date: 2024-01-18 03:15:00 +0000
-tags: []
+tags: ["Coursera", "CSA", "Google Play Store", "JavaScript", "plugin"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/01/csa-coursera-version-220.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Note. FreeBSD. pkg create. Backup of erlang-21. Сталася класична ситуація з оновленнями. Postmortem Report."
 date: 2024-10-05 10:29:00 +0000
-tags: []
+tags: ["administration", "elixir", "erlang", "FreeBSD", "linux", "nfs", "pkg", "pleroma", "Postmortem Report", "Proxmox", "scp", "ssh", "Virtualization", "VM", "ZFS"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/10/note-freebsd-pkg-create-backup-of.html
 ---
 

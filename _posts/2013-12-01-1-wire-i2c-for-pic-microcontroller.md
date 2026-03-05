@@ -2,7 +2,7 @@
 layout: post
 title: "1-wire, I2C for PIC Microcontroller"
 date: 2013-12-01 23:45:00 +0000
-tags: []
+tags: ["hardware", "microchip", "pic"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/12/1-wire-for-pic-microcontroller.html
 ---
 

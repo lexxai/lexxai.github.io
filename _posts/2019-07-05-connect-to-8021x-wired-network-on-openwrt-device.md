@@ -2,7 +2,7 @@
 layout: post
 title: "Connect to 802.1X wired network on OpenWRT device"
 date: 2019-07-05 21:45:00 +0000
-tags: []
+tags: ["IEEE8021X", "openwrt", "RADIUS", "WPA-Enterprise"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/07/connect-to-8021x-wired-network-on.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Результат встановлення модуля USB Bluetooth KN330 в музичний центр  Aiwa NSX-SZ50 та ремонту регулятору гучності"
 date: 2020-05-29 18:04:00 +0000
-tags: []
+tags: ["AIWA", "Bluetooth", "KN330", "ремонт"]
 blogger_orig_link: https://lexxai.blogspot.com/2020/05/usb-bluetooth-kn330-aiwa-nsx-sz50.html
 ---
 
@@ -14,7 +14,7 @@ blogger_orig_link: https://lexxai.blogspot.com/2020/05/usb-bluetooth-kn330-aiwa-
 
 Залишився лише підсилювач для аналогового телевізора на кухні (Line) та FM радіо.
 
-Так як я застосував [Bluetooth модуль KN330](https://lexxai.blogspot.com/2020/05/bluetooth-kn330.html) у [інших аудіоколонках](https://lexxai.blogspot.com/2020/05/genius-bluetooth.html), тому вирішив інтегрувати модуль KN330 до музичного центру Aiwa NSX-SZ50.  
+Так як я застосував [Bluetooth модуль KN330](/2020-05-06-розбирання-bluetooth-модуля-kn330.md) у [інших аудіоколонках](/2020-05-07-ремонт-аудіоколонок-персонального-компютера-genius-та-підключення-через-bluetooth.md), тому вирішив інтегрувати модуль KN330 до музичного центру Aiwa NSX-SZ50.  
 
 [![](/assets/images/blog/a89d0f076566cd48-211bc8f1f5dc984a.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrQtzHoKFQu4fVDxrdGDTY6d-zNPrsI6g3upcSpGVH4snOKxsXrxuKl-IuAgpKl08Mq-4McIpCUowoUksDXzKRs-gyXXQUr7IKd0cfldN_S5by8p7UEHeN7ciUrTwDsw2GRU33XLxn6ivi/s1600/bt2.jpg)  
 *модуль KN330*

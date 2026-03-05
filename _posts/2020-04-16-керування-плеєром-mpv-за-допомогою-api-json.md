@@ -2,7 +2,7 @@
 layout: post
 title: "Керування плеєром MPV за допомогою API JSON"
 date: 2020-04-16 23:57:00 +0000
-tags: []
+tags: ["bash", "ffmpeg", "JSON", "JSON IPC", "MPV", "multimedia", "script", "socket", "video", "XMLPath"]
 blogger_orig_link: https://lexxai.blogspot.com/2020/04/mpv-api-json.html
 ---
 

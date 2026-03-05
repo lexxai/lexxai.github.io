@@ -2,7 +2,7 @@
 layout: post
 title: "DHCP Alternate Configuration PowerShell Module"
 date: 2014-02-25 21:22:00 +0000
-tags: []
+tags: ["dhcp", "ip", "windows"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/02/dhcp-alternate-configuration-powershell.html
 ---
 

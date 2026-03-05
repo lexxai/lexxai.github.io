@@ -2,7 +2,7 @@
 layout: post
 title: "freebsd ports list - показати встановленні модулі до php"
 date: 2013-01-08 19:14:00 +0000
-tags: []
+tags: ["FreeBSD", "php", "ports"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/01/freebsd-ports-list-php.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Postfix SPF policy, whitelist, rewrite of softfail rule"
 date: 2012-03-21 10:02:00 +0000
-tags: []
+tags: ["perl", "posfix", "python", "spam", "spf", "whitelist", "відсилання пошти"]
 blogger_orig_link: https://lexxai.blogspot.com/2012/03/postfix-whitelist-spf-policy.html
 ---
 

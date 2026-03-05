@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка: Proxmox заміна диску у пулі ZFS"
 date: 2019-10-30 00:34:00 +0000
-tags: []
+tags: ["gpt", "hdd", "Proxmox", "ZFS"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/10/proxmox-zfs.html
 ---
 

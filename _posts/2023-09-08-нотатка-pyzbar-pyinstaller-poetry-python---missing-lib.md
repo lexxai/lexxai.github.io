@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка: pyzbar, pyinstaller, poetry, python - missing lib"
 date: 2023-09-08 08:47:00 +0000
-tags: []
+tags: ["poetry", "pyinstaller", "python", "pyzbar", "Sandbox"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/09/pyzbar-pyinstaller-poetry-python.html
 ---
 

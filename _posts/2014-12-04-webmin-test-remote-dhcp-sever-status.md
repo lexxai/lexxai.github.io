@@ -2,7 +2,7 @@
 layout: post
 title: "Webmin test remote DHCP sever status"
 date: 2014-12-04 23:17:00 +0000
-tags: []
+tags: ["adimistration", "FreeBSD", "linux", "webmin"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/12/webmin-test-remote-dhcp-sever-status.html
 ---
 

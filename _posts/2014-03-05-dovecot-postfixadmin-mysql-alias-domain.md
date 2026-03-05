@@ -2,7 +2,7 @@
 layout: post
 title: "Dovecot, PostfixAdmin mysql alias domain"
 date: 2014-03-05 09:15:00 +0000
-tags: []
+tags: ["alias", "domain", "dovecot", "mysql", "postfix", "postfixadmin"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/03/dovecot-postfixadmin-mysql-alias-domain.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Google Cybersecurity Professional Certificate - Foundations of Cybersecurity - Completed on July 2, 2023"
 date: 2023-07-01 23:43:00 +0000
-tags: []
+tags: ["chrome", "Coursera", "google", "IT", "plugin", "Prometheus", "security", "support", "навчання"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/07/google-cybersecurity-professional.html
 ---
 

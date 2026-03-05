@@ -2,7 +2,7 @@
 layout: post
 title: "Клавіатура (i8+ 2.4GHz Mini Wireless Keyboard) її начинка з середини"
 date: 2016-01-20 19:16:00 +0000
-tags: []
+tags: ["hardware", "HID", "keyboard", "Wireless"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/01/i8-24ghz-mini-wireless-keyboard.html
 ---
 

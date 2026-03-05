@@ -2,7 +2,7 @@
 layout: post
 title: "TP-Link WR1043N OpenWrt Attitude Adjustment"
 date: 2012-08-19 23:00:00 +0000
-tags: []
+tags: ["3G", "ar71xx", "DLNA", "ext4", "ip_conntrack", "iptv", "ipv6", "open-wrt", "openwrt", "TP-Link 1043", "usb audio", "usb ethernet", "usb storage", "VLAN", "web cam", "Wi-Fi", "Wireless", "xupnpd"]
 blogger_orig_link: https://lexxai.blogspot.com/2012/08/tp-link-wr1043n-openwrt-attitude.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Оновлення IPTV playlist у OpenWrt для xupnpd"
 date: 2013-12-22 01:28:00 +0000
-tags: []
+tags: ["DLNA", "internet", "iptv", "multimedia", "open-wrt", "openwrt", "player", "script", "tv"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/12/iptv-playlist-openwrt-xupnpd.html
 ---
 

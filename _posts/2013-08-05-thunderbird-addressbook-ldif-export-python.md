@@ -2,7 +2,7 @@
 layout: post
 title: "Thunderbird addressbook LDIF export (Python)"
 date: 2013-08-05 20:56:00 +0000
-tags: []
+tags: ["address book", "mail"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/08/thunderbird-addressbook-ldif-export.html
 ---
 

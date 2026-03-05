@@ -2,7 +2,7 @@
 layout: post
 title: "Gateway Ping, простий моніторінг \"шлюзу\" якщо у Вас два провайдера"
 date: 2014-10-09 15:53:00 +0000
-tags: []
+tags: ["FreeBSD", "interfaces", "kernel", "net", "route", "router", "script", "WAN"]
 blogger_orig_link: https://lexxai.blogspot.com/2012/07/gateway-ping.html
 ---
 

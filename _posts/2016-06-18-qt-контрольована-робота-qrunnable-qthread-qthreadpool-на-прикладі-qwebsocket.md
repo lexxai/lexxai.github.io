@@ -2,7 +2,7 @@
 layout: post
 title: "Qt контрольована робота QRunnable, QThread, QThreadPool, на прикладі QWebSocket"
 date: 2016-06-18 01:11:00 +0000
-tags: []
+tags: ["programming", "Qt", "програмування"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/06/qt-qrunnable-qthread-qthreadpool.html
 ---
 

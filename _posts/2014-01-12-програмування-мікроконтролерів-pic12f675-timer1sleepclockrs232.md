@@ -2,7 +2,7 @@
 layout: post
 title: "Програмування мікроконтролерів. PIC12F675. Timer1,Sleep,Clock,RS232"
 date: 2014-01-12 23:41:00 +0000
-tags: []
+tags: ["cpu", "hardware", "microchip", "pic", "RS232", "електроніка", "техніка"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/01/pic12f675-timer1-sleep.html
 ---
 

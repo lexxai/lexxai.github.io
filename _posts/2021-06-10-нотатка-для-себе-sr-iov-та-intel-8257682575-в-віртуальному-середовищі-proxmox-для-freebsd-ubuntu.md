@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка для себе. SR-IOV та Intel 82576/82575 в віртуальному середовищі Proxmox для FreeBSD, Ubuntu."
 date: 2021-06-10 20:43:00 +0000
-tags: []
+tags: ["FreeBSD", "Intel", "Proxmox", "SR-IOV", "ubuntu", "Virtualization"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/06/sr-iov-intel-8257682575-proxmox-freebsd.html
 ---
 
@@ -67,7 +67,7 @@ FreeBSD не може проініціювати 82576 Virtual Adapter:
 ### 10GB FreeBSD VM
 
 Тестування
-[10Gb адаптера Intel X710](https://lexxai.blogspot.com/2021/05/sr-iov-vlan-linux-proxmox.html), у VM FreeBSD13 успішно ввімкнулася без маніпуляцій з mac:
+[10Gb адаптера Intel X710](/2021-05-25-нотатка-для-себе-sr-iov-vlan-linux-proxmox.md), у VM FreeBSD13 успішно ввімкнулася без маніпуляцій з mac:
 
 ### 
 

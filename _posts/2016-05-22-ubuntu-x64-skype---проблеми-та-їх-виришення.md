@@ -2,7 +2,7 @@
 layout: post
 title: "Ubuntu x64, skype - проблеми та їх виришення"
 date: 2016-05-22 23:19:00 +0000
-tags: []
+tags: ["administration", "linux", "skype", "ubuntu", "адміністрування"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/05/ubuntu-x64-skype.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка з керування PF firewall через pfctrl"
 date: 2017-11-20 19:39:00 +0000
-tags: []
+tags: ["firewall", "FreeBSD", "pf", "pfctl", "security"]
 blogger_orig_link: https://lexxai.blogspot.com/2017/11/pf-firewall-pfctrl.html
 ---
 

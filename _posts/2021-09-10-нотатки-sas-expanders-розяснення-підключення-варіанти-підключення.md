@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатки: SAS expanders. Роз'яснення підключення. Варіанти підключення."
 date: 2021-09-10 19:29:00 +0000
-tags: []
+tags: ["expanders", "hardware", "hdd", "SAS", "server"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/09/sas-expanders.html
 ---
 

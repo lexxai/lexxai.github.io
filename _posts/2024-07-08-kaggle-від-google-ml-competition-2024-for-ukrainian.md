@@ -2,7 +2,7 @@
 layout: post
 title: "\"Kaggle\" від Google \"ml-competition-2024-for-ukrainian\""
 date: 2024-07-08 22:28:00 +0000
-tags: []
+tags: ["data science", "google", "kaggle"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/07/kaggle-google-ml-competition-2024-for.html
 ---
 

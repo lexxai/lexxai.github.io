@@ -2,7 +2,7 @@
 layout: post
 title: "Компіляція у середовищі Qt 5 з pkg-confg на прикладі проекту MPV"
 date: 2015-11-18 17:33:00 +0000
-tags: []
+tags: ["C++", "MPV", "pkg-confg", "programming", "Qt 5", "windows", "програмування"]
 blogger_orig_link: https://lexxai.blogspot.com/2015/11/qt-5-pkg-confg-mpv.html
 ---
 

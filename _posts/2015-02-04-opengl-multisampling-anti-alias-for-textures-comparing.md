@@ -2,7 +2,7 @@
 layout: post
 title: "OpenGL multisampling anti-alias for textures, comparing"
 date: 2015-02-04 23:06:00 +0000
-tags: []
+tags: ["C++", "OpenGL", "programming", "Qt", "програмування"]
 blogger_orig_link: https://lexxai.blogspot.com/2015/02/opengl-multisampling-anti-alias-for.html
 ---
 

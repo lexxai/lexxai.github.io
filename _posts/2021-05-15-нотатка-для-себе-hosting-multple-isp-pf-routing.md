@@ -2,7 +2,8 @@
 layout: post
 title: "Нотатка для себе. Hosting, Multple ISP, pf routing"
 date: 2021-05-15 21:50:00 +0000
-tags: []
+tags: ["FreeBSD", "ip", "ipv4", "ipv6
+multiple", "pf", "route"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/05/hosting-multple-isp-pf-routing.html
 ---
 

@@ -2,7 +2,8 @@
 layout: post
 title: "Нотатка. sociallogin of nextcloud use authentication via oauth2 from mastodon"
 date: 2021-03-03 01:20:00 +0000
-tags: []
+tags: ["mastodon", "nextcloud", "oauth2
+sociallogin"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/03/sociallogin-of-nextcloud-use.html
 ---
 

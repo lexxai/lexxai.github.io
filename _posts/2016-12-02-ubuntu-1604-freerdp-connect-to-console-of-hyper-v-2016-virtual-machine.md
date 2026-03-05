@@ -2,7 +2,7 @@
 layout: post
 title: "Ubuntu 16.04. FreeRDP connect to console of Hyper-V 2016 virtual machine."
 date: 2016-12-02 03:15:00 +0000
-tags: []
+tags: ["Hyper-V", "RDP", "ubuntu", "Virtualization"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/12/ubuntu-1604-freerdp-connect-to-console.html
 ---
 

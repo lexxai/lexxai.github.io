@@ -2,7 +2,7 @@
 layout: post
 title: "Використання pGina як засіб аутентифікації користувачів у MS Windows"
 date: 2012-12-21 11:58:00 +0000
-tags: []
+tags: ["Acive Directory", "authentication", "authoziration", "LDAP", "Open Source", "pGina", "windows"]
 blogger_orig_link: https://lexxai.blogspot.com/2012/12/pgina-ms-windows.html
 ---
 

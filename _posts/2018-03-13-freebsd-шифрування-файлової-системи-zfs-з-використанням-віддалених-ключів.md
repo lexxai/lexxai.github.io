@@ -2,7 +2,7 @@
 layout: post
 title: "FreeBSD шифрування файлової системи ZFS з використанням віддалених ключів"
 date: 2018-03-13 00:56:00 +0000
-tags: []
+tags: ["boot", "encript", "FreeBSD", "GELI", "rsync", "snapshot", "ZFS", "zfsroot"]
 blogger_orig_link: https://lexxai.blogspot.com/2018/03/freebsd-zfs-root-with-encripted-disk-by.html
 ---
 

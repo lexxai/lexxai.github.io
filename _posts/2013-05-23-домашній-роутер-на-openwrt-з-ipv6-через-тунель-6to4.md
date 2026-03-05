@@ -2,7 +2,7 @@
 layout: post
 title: "Домашній роутер на OpenWRT, з IPv6 через тунель 6to4"
 date: 2013-05-23 20:51:00 +0000
-tags: []
+tags: ["6to4", "he.net", "ipv4", "ipv6", "openwrt", "router"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/05/openwrt-ipv6-6to4.html
 ---
 

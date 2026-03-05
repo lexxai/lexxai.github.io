@@ -2,7 +2,7 @@
 layout: post
 title: "pfSence з зовнішнім ДБЖ APC, APCUPSD, SNMP, PowerChute Business Edition"
 date: 2017-09-13 22:15:00 +0000
-tags: []
+tags: ["apc", "Hyper-V", "pfsence", "SNMP", "ups"]
 blogger_orig_link: https://lexxai.blogspot.com/2017/09/pfsence-apc-apcupsd-snmp-powerchute.html
 ---
 

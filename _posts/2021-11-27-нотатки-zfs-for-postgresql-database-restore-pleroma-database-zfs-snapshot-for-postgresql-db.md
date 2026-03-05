@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатки: ZFS for postgresql database, Restore pleroma database, ZFS Snapshot for postgresql db"
 date: 2021-11-27 00:47:00 +0000
-tags: []
+tags: ["administration", "FreeBSD", "pleroma", "postgresql", "script"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/11/zfs-for-postgresql-database-restore.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "HOWTO: PHP IMAP"
 date: 2011-07-18 08:59:00 +0000
-tags: []
+tags: ["FreeBSD php imap libc-client"]
 blogger_orig_link: https://lexxai.blogspot.com/2011/07/php-imap.html
 ---
 

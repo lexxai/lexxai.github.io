@@ -2,7 +2,7 @@
 layout: post
 title: "Codefinity. Course Ensemble Learning"
 date: 2024-07-23 17:29:00 +0000
-tags: []
+tags: ["Bagging", "boosting", "Codefinity", "datascience", "python", "stacking"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/07/codefinity-course-ensemble-learning.html
 ---
 

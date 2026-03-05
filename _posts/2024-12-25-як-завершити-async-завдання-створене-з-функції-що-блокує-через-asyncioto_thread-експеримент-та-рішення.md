@@ -2,7 +2,7 @@
 layout: post
 title: "Як завершити async-завдання, створене з функції що блокує через asyncio.to_thread(): експеримент та рішення."
 date: 2024-12-25 02:03:00 +0000
-tags: []
+tags: ["async", "asyncio", "multithread", "python"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/12/async-asynciotothread.html
 ---
 

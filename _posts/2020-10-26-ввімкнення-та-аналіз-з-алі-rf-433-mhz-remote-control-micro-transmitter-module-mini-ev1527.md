@@ -2,7 +2,7 @@
 layout: post
 title: "Ввімкнення та аналіз з Алі: RF 433 MHz Remote Control Micro transmitter Module Mini (EV1527)"
 date: 2020-10-26 20:00:00 +0000
-tags: []
+tags: ["433MHz", "433МГц", "EV1527", "RTL"]
 blogger_orig_link: https://lexxai.blogspot.com/2020/10/rf-433-mhz-remote-control-micro.html
 ---
 

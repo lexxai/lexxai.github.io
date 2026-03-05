@@ -2,7 +2,7 @@
 layout: post
 title: "Скрипт автоматизації перейменування віртуальних машин у Proxomos VE для приєднання до кластеру"
 date: 2023-01-03 23:08:00 +0000
-tags: []
+tags: ["bash", "cluster", "Proxmox", "script", "Virtualization"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/01/proxomos-ve.html
 ---
 

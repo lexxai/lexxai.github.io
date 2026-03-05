@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка. pfsense, перевірка таблиці pf коли пакунок pfBlockerNG не оновився"
 date: 2017-11-25 21:45:00 +0000
-tags: []
+tags: ["firewall", "pf", "pfBlockerNG", "pfsence", "security"]
 blogger_orig_link: https://lexxai.blogspot.com/2017/11/pfsense-pf-pfblockerng.html
 ---
 

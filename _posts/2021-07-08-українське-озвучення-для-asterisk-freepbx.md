@@ -2,7 +2,7 @@
 layout: post
 title: "Українське озвучення для Asterisk (FreePBX)"
 date: 2021-07-08 02:45:00 +0000
-tags: []
+tags: ["asterisk", "freepbx", "sound", "ukrainian"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/07/asterisk-feepbx.html
 ---
 

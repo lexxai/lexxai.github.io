@@ -2,7 +2,7 @@
 layout: post
 title: "Codefinity. Course Classification with Python."
 date: 2024-07-19 22:26:00 +0000
-tags: []
+tags: ["Codefinity", "Decision Tree", "knn", "matplotlib", "NumPy", "python", "Random Forest", "Regression", "sklearn"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/07/codefinity-course-classification-with.html
 ---
 

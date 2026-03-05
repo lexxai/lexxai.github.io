@@ -2,7 +2,7 @@
 layout: post
 title: "FreeBSD qemu-guest-agent 8.0.2 freeze before shapshot. Proxmox snaphsot of pgsql database instance VM."
 date: 2023-08-02 00:57:00 +0000
-tags: []
+tags: ["FreeBSD", "freeze-hook", "postgresql", "Proxmox", "qemu-guest-agent"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/08/freebsd-qemu-guest-agent-802-freeze.html
 ---
 

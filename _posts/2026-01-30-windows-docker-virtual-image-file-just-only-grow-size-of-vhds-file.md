@@ -2,7 +2,7 @@
 layout: post
 title: "Windows Docker. Virtual image file just only grow size of .vhds file."
 date: 2026-01-30 15:17:00 +0000
-tags: []
+tags: ["docker", "Virtualization", "windows"]
 blogger_orig_link: https://lexxai.blogspot.com/2026/01/windows-docker-virtual-image-file-just.html
 ---
 

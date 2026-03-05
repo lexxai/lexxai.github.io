@@ -2,7 +2,7 @@
 layout: post
 title: "FreeNAS SAMBA auto create home directory with AD users"
 date: 2016-11-29 01:38:00 +0000
-tags: []
+tags: ["FreeNAS", "samba"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/11/freenas-samba-auto-create-home.html
 ---
 

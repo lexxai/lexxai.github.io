@@ -2,7 +2,7 @@
 layout: post
 title: "Samsung TV series B"
 date: 2014-11-14 17:43:00 +0000
-tags: []
+tags: ["Samsung", "tv", "wifi"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/11/samsung-tv-series-b.html
 ---
 

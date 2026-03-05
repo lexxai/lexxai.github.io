@@ -2,7 +2,7 @@
 layout: post
 title: "FreeBSD 14. Mail server POSTFIX and mariadb-client instead of mysql-client"
 date: 2024-09-09 14:22:00 +0000
-tags: []
+tags: ["administration", "cli", "FreeBSD", "linux", "mariadb", "mysql", "ports", "postfix", "Proxmox", "Virtualization"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/09/freebsd-14-mail-server-postfix-and.html
 ---
 

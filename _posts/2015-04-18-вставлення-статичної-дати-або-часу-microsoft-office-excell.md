@@ -2,7 +2,7 @@
 layout: post
 title: "Вставлення статичної дати або часу Microsoft Office Excell"
 date: 2015-04-18 19:59:00 +0000
-tags: []
+tags: ["Microsoft office"]
 blogger_orig_link: https://lexxai.blogspot.com/2015/04/microsoft-office-excell.html
 ---
 

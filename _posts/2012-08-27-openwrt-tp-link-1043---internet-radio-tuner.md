@@ -2,7 +2,7 @@
 layout: post
 title: "OpenWRT, TP-Link 1043 - INTERNET RADIO tuner"
 date: 2012-08-27 10:55:00 +0000
-tags: []
+tags: ["multimedia", "openwrt", "radio tuner", "TP-Link 1043", "usb audio"]
 blogger_orig_link: https://lexxai.blogspot.com/2012/08/openwrt-tp-link-1043-internet-radio.html
 ---
 

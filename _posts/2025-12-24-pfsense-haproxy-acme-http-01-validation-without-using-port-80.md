@@ -2,7 +2,7 @@
 layout: post
 title: "pfSense + HAProxy + ACME: HTTP-01 validation without using port 80"
 date: 2025-12-24 11:09:00 +0000
-tags: []
+tags: ["acme", "certbot", "certificate", "haproxy", "pfsence"]
 blogger_orig_link: https://lexxai.blogspot.com/2025/12/pfsense-haproxy-acme-http-01-validation.html
 ---
 

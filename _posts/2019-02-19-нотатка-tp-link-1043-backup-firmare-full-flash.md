@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка. TP-LINK 1043 backup firmare / full flash"
 date: 2019-02-19 23:10:00 +0000
-tags: []
+tags: ["firmware", "open-wrt", "tp-link", "TP-Link 1043"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/02/tp-link-1043-backup-firmare.html
 ---
 

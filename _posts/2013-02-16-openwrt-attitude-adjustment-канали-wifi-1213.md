@@ -2,7 +2,7 @@
 layout: post
 title: "OpenWrt Attitude Adjustment канали WiFi 12,13"
 date: 2013-02-16 19:27:00 +0000
-tags: []
+tags: ["ar71xx", "firmware", "openwrt", "Wi-Fi", "Wireless"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/02/openwrt-attitude-adjustment-wifi-1213.html
 ---
 

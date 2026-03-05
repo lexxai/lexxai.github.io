@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка. Shell, PHP script. GeoIP detect TimeZone."
 date: 2020-05-02 00:27:00 +0000
-tags: []
+tags: ["api", "bash", "date", "GeoIP", "MaxMind", "php", "script", "timezone", "unix"]
 blogger_orig_link: https://lexxai.blogspot.com/2020/05/shell-script-geoip-detect-timezone.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "🚀 Docker-Compose Generator for ElasticSearch Cluster"
 date: 2025-03-23 03:22:00 +0000
-tags: []
+tags: ["Automation", "DevOps", "docker", "elasticsearch", "python", "TechInnovation", "TrueNAS", "ZFS"]
 blogger_orig_link: https://lexxai.blogspot.com/2025/03/docker-compose-generator-for.html
 ---
 

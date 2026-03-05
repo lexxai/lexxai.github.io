@@ -2,7 +2,7 @@
 layout: post
 title: "WI-FI радіоприймач власноруч з роутера TP-LINK TL-MR 3020"
 date: 2014-09-29 19:20:00 +0000
-tags: []
+tags: ["open-wrt", "radio tuner", "Wi-Fi", "Wireless"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/09/wi-fi-tp-link-tl-mr-3020.html
 ---
 

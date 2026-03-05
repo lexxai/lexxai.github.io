@@ -2,7 +2,7 @@
 layout: post
 title: "Mодуль \"Python Data Science\"  в IT академії GoIT - проєкт на тему \"Автоматизована система паркування\"."
 date: 2024-04-26 16:35:00 +0000
-tags: []
+tags: ["database", "datascience", "Django", "education", "fastapi", "Git", "GitHub", "GoIT", "keras", "postgress", "python", "TensorFlow"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/04/m-python-data-science-it-goit.html
 ---
 

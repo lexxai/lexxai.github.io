@@ -2,7 +2,7 @@
 layout: post
 title: "Зберігання зображення з dvr до хмари з nextcloud через webdav"
 date: 2019-09-20 00:55:00 +0000
-tags: []
+tags: ["davfs", "nextcloud", "openwrt", "security", "unix"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/09/dvr-nextcloud-webdav.html
 ---
 
@@ -195,7 +195,7 @@ touch  /mnt/dav/.notmounted
 
 #### Отримання зображень з реєстратора
 
-У кожного [він може бути свій](https://lexxai.blogspot.com/2018/12/avtech-dvr-hiden-commands.html) URL для завантаження. Так для отримання JPEG зображень з реєстратора я використовую протокол http.  
+У кожного [він може бути свій](/2018-12-29-avtech-dvr-hidden-commands.md) URL для завантаження. Так для отримання JPEG зображень з реєстратора я використовую протокол http.  
 
 ```
 http://security.url/cgi-bin/guest/Video.cgi?media=JPEG&resolution=4CIF
@@ -386,7 +386,7 @@ crontab -e
   
 
 * [Монтування хмарного диска по WebDav | Erinome Lane](http://tt.erinome.net/2012/11/360)
-* [AVTECH DVR HIDDEN COMMANDS](https://lexxai.blogspot.com/2018/12/avtech-dvr-hiden-commands.html)
+* [AVTECH DVR HIDDEN COMMANDS](/2018-12-29-avtech-dvr-hidden-commands.md)
 
   
 [Scripts on github.com](https://github.com/lexxai/storing-DVR-images-to-remote-storage)

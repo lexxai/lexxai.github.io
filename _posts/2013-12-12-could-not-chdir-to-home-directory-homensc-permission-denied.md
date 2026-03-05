@@ -2,7 +2,7 @@
 layout: post
 title: "Could not chdir to home directory /home/nsc: Permission denied"
 date: 2013-12-12 22:19:00 +0000
-tags: []
+tags: ["adimistration", "unix"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/12/could-not-chdir-to-home-directory.html
 ---
 

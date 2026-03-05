@@ -2,7 +2,7 @@
 layout: post
 title: "Створення міток для томів у FreeBSD при використанні зовнішніх USB накопичувачів"
 date: 2013-06-11 18:08:00 +0000
-tags: []
+tags: ["backup", "FreeBSD", "label", "mount"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/06/freebsd-usb.html
 ---
 

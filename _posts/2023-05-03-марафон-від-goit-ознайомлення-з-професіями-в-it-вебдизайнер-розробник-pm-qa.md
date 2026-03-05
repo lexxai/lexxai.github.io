@@ -2,7 +2,7 @@
 layout: post
 title: "Марафон від #GoIT ознайомлення з професіями в IT. Вебдизайнер, Розробник, PM, QA"
 date: 2023-05-03 22:23:00 +0000
-tags: []
+tags: ["figma", "GoIT", "html", "IT", "QA"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/05/goit-it-pm-qa.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Глюк з FreeBSD 12, та мережевих карт Intel (em)."
 date: 2019-02-26 19:50:00 +0000
-tags: []
+tags: ["bug", "ethernet", "FreeBSD", "Intel", "network"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/02/freebsd-12-intel-em.html
 ---
 

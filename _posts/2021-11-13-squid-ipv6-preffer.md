@@ -2,7 +2,7 @@
 layout: post
 title: "Squid ipv6 preffer"
 date: 2021-11-13 01:38:00 +0000
-tags: []
+tags: ["adimistration", "internet", "ipv4", "ipv6", "proxy", "squid"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/11/squid-ipv6-preffer.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Настирливих спамерів в black list IP і блокуємо їх в IPFW"
 date: 2012-02-03 11:34:00 +0000
-tags: []
+tags: ["black list", "crone", "FreeBSD", "ip", "ipfw", "iptables", "linux", "mysql", "posfix", "script", "spam"]
 blogger_orig_link: https://lexxai.blogspot.com/2012/02/black-list-ip-ipfw.html
 ---
 

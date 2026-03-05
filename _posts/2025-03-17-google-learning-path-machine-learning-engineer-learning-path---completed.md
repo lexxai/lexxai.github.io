@@ -2,7 +2,7 @@
 layout: post
 title: "Google Learning path: \"Machine Learning Engineer Learning Path\" - Completed"
 date: 2025-03-17 01:05:00 +0000
-tags: []
+tags: ["google", "Google Cloud", "Machine Learning", "MachineLearning", "ML"]
 blogger_orig_link: https://lexxai.blogspot.com/2025/03/google-learning-path-machine-learning.html
 ---
 

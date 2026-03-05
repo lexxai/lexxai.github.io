@@ -2,7 +2,7 @@
 layout: post
 title: "redirect для playlist .m3u8 у nginx для анти кешу браузера у HLS player"
 date: 2023-03-19 16:46:00 +0000
-tags: []
+tags: ["hls", "JavaScript", "multimedia", "nginx", "video"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/03/redirect-playlist-m3u8-nginx-hls-player.html
 ---
 

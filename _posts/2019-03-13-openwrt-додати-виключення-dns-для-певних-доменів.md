@@ -2,7 +2,7 @@
 layout: post
 title: "OpenWRT додати виключення DNS для певних доменів"
 date: 2019-03-13 01:20:00 +0000
-tags: []
+tags: ["dns", "linux", "openwrt", "router"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/03/openwrt-dns.html
 ---
 

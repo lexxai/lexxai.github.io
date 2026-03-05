@@ -2,7 +2,7 @@
 layout: post
 title: "Hardware switch with stateless firewall rules. Seastone DX010. SONiC OS."
 date: 2024-06-16 15:26:00 +0000
-tags: []
+tags: ["asic", "firewall", "hardware", "sonic", "stateless", "switch"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/06/hardware-switch-with-stateless-firewall.html
 ---
 
@@ -196,5 +196,5 @@ DENY_ALL           VLAN100_ACL        2  N/A              N/A
 За матеріалами:
 
 * sonic-notebook:
-  <https://lexxai.blogspot.com/2024/04/sonic-notebook.html>
+  [https://lexxai.blogspot.com/2024/04/sonic-notebook.html](/2024-04-25-sonic-notebook.md)
 * [Understanding Stateful vs Stateless Firewalls](https://www.whizlabs.com/labs/understanding-stateful-vs-stateless-firewalls/)

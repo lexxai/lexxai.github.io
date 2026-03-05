@@ -2,7 +2,7 @@
 layout: post
 title: "Перегляд Torrent-tv за допомогою Home Media Server та підкастів"
 date: 2013-03-09 17:31:00 +0000
-tags: []
+tags: ["DLNA", "Home Media Server", "multimedia", "Samsung", "torrent", "tv"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/03/torrent-tv-home-media-server.html
 ---
 

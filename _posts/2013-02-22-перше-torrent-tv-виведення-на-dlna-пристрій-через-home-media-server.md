@@ -2,7 +2,7 @@
 layout: post
 title: "Перше torrent-tv, виведення на DLNA пристрій через Home Media Server"
 date: 2013-02-22 20:57:00 +0000
-tags: []
+tags: ["DLNA", "Home Media Server", "multimedia", "online", "Samsung", "torrent", "transcode", "tv", "VLC", "наживо", "телебачення", "трансляція"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/02/torrent-tv-dlna-homemediaserver.html
 ---
 

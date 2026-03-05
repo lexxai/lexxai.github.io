@@ -2,7 +2,7 @@
 layout: post
 title: "Тестування детектора чадного газу. Carbon monoxide detector test."
 date: 2020-03-21 14:51:00 +0000
-tags: []
+tags: ["Carbon monoxide"]
 blogger_orig_link: https://lexxai.blogspot.com/2020/03/carbon-monoxide-detector-test.html
 ---
 

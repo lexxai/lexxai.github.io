@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка для себе: JavaScript - скільки років пройшло."
 date: 2016-11-01 18:04:00 +0000
-tags: []
+tags: ["JavaScript", "programming", "програмування"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/11/js-years-ago.html
 ---
 

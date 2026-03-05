@@ -2,7 +2,7 @@
 layout: post
 title: "Оновлення прошивки для плотера HP DesignJet 500 firmware A.05.01"
 date: 2018-10-11 21:59:00 +0000
-tags: []
+tags: ["firmware", "HPDesignJet500", "printhead"]
 blogger_orig_link: https://lexxai.blogspot.com/2018/10/hp-designjet-500-firmware-a0501.html
 ---
 

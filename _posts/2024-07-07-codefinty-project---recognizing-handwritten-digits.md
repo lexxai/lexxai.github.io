@@ -2,11 +2,11 @@
 layout: post
 title: "Codefinty. Project - Recognizing Handwritten Digits."
 date: 2024-07-07 15:14:00 +0000
-tags: []
+tags: ["classification_report", "Codefinity", "confusion_matrix", "data science", "knn", "model", "prediction", "python"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/07/codefinty-recognizing-handwritten-digits.html
 ---
 
-#### Postgraduate of [completed track - Python. Preparation for Data Science. Consists of 9 courses.](https://lexxai.blogspot.com/2024/06/codefinity-successfully-completed-track.html)
+#### Postgraduate of [completed track - Python. Preparation for Data Science. Consists of 9 courses.](/2024-06-23-codefinity-successfully-completed-track---python-preparation-for-data-science-consists-of-9-courses.md)
 
 * [Recognizing Handwritten Digits](https://codefinity.com/ua/courses/projects/442f33bc-9116-4f2a-a04a-c9c5a6e6dc03).   
   In

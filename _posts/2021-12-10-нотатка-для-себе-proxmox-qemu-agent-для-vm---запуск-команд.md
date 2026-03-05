@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка для себе,  Proxmox QEMU agent для VM - запуск команд"
 date: 2021-12-10 22:29:00 +0000
-tags: []
+tags: ["administration", "Proxmox", "root", "script", "security"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/12/proxmox-qemu-agent-vm.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Ext4 та Windows"
 date: 2012-08-30 20:47:00 +0000
-tags: []
+tags: ["ext4", "linux", "openwrt", "TP-Link 1043", "windows"]
 blogger_orig_link: https://lexxai.blogspot.com/2012/08/ext4-windows.html
 ---
 

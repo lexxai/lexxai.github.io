@@ -2,7 +2,7 @@
 layout: post
 title: "Google Cybersecurity Professional Certificate - Automate Cybersecurity Tasks with Python - Completed on July 31, 2023"
 date: 2023-07-31 17:17:00 +0000
-tags: []
+tags: ["chrome", "cli", "Coursera", "google", "IT", "network", "plugin", "Prometheus", "python", "security", "SQL", "навчання"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/07/google-cybersecurity-professional_31.html
 ---
 

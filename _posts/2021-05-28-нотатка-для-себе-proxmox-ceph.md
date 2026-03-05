@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка для себе.  Proxmox Ceph"
 date: 2021-05-28 22:39:00 +0000
-tags: []
+tags: ["ceph", "linux", "lvm", "Proxmox", "Virtualization"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/05/proxmox-ceph.html
 ---
 

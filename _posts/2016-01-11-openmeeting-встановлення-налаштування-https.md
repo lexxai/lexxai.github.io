@@ -2,7 +2,7 @@
 layout: post
 title: "Openmeeting, встановлення, налаштування HTTPS"
 date: 2016-01-11 18:57:00 +0000
-tags: []
+tags: ["internet", "multimedia", "net", "Openmmeting", "SSL"]
 blogger_orig_link: https://lexxai.blogspot.com/2016/01/openmeeting-https.html
 ---
 

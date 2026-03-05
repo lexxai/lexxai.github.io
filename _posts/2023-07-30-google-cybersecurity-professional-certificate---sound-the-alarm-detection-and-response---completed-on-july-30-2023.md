@@ -2,7 +2,7 @@
 layout: post
 title: "Google Cybersecurity Professional Certificate - Sound the Alarm: Detection and Response - Completed on July 30, 2023"
 date: 2023-07-30 16:23:00 +0000
-tags: []
+tags: ["bash", "chrome", "cli", "Coursera", "firewall", "google", "IDS", "IT", "linux", "network", "plugin", "Prometheus", "security", "SIEM", "SQL", "support", "навчання"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/07/google-cybersecurity-professional_30.html
 ---
 

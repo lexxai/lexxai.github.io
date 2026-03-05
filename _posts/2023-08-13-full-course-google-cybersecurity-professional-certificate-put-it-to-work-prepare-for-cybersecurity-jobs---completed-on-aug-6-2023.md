@@ -2,7 +2,7 @@
 layout: post
 title: "Full course : Google Cybersecurity Professional Certificate. Put It to Work: Prepare for Cybersecurity Jobs - Completed on Aug 6, 2023"
 date: 2023-08-13 21:00:00 +0000
-tags: []
+tags: ["chrome", "cli", "Coursera", "google", "IT", "network", "plugin", "Prometheus", "python", "security", "SQL", "навчання"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/08/full-course-google-cybersecurity.html
 ---
 

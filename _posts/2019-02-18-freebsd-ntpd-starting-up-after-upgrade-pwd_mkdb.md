@@ -2,7 +2,7 @@
 layout: post
 title: "FreeBSD  ntpd starting up after upgrade. pwd_mkdb"
 date: 2019-02-18 23:57:00 +0000
-tags: []
+tags: ["FreeBSD", "ntp", "password"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/02/freebsd-ntpd-starting-up-after-upgrade.html
 ---
 

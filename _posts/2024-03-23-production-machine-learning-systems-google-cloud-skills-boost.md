@@ -2,7 +2,7 @@
 layout: post
 title: "Production Machine Learning Systems  | Google Cloud Skills Boost"
 date: 2024-03-23 22:05:00 +0000
-tags: []
+tags: ["AI", "datascience", "google", "Google Cloud", "MachineLearning", "ML"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/03/production-machine-learning-systems.html
 ---
 

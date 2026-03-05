@@ -2,7 +2,7 @@
 layout: post
 title: "AVTECH DVR HIDDEN COMMANDS"
 date: 2018-12-29 00:24:00 +0000
-tags: []
+tags: ["avtech", "DVR", "security", "video"]
 blogger_orig_link: https://lexxai.blogspot.com/2018/12/avtech-dvr-hiden-commands.html
 ---
 

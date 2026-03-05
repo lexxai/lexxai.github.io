@@ -2,7 +2,7 @@
 layout: post
 title: "Windows backup server crashed"
 date: 2019-01-02 23:08:00 +0000
-tags: []
+tags: ["backup", "windows server"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/01/windows-backup-server-crashed.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "renew SSL certificate Let'Script by ACME script (DNS) for Tomcat web server"
 date: 2020-08-21 19:38:00 +0000
-tags: []
+tags: ["java", "linux", "script", "security", "software", "ubuntu"]
 blogger_orig_link: https://lexxai.blogspot.com/2020/08/renew-ssl-certificate-letscript-by-acme.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Засіб перегляду Torrent-TV - з використанням адаптованої версії плеєра \"Simple TV\" від Maxwell"
 date: 2013-02-24 14:09:00 +0000
-tags: []
+tags: ["iptv", "online", "torrent", "tv", "наживо", "просмотр", "телебачення", "трансляція"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/02/torrent-tv-simple-tv-maxwell.html
 ---
 

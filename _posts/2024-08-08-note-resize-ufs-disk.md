@@ -2,7 +2,7 @@
 layout: post
 title: "Note. Resize UFS Disk"
 date: 2024-08-08 19:29:00 +0000
-tags: []
+tags: ["disk", "FreeBSD", "gpart", "gpt", "Proxmox"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/08/note-resize-ufs-disk.html
 ---
 

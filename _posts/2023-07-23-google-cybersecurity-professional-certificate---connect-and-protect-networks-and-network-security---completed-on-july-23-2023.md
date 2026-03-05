@@ -2,7 +2,7 @@
 layout: post
 title: "Google Cybersecurity Professional Certificate - Connect and Protect: Networks and Network Security - Completed on July 23, 2023"
 date: 2023-07-23 22:33:00 +0000
-tags: []
+tags: ["chrome", "Coursera", "firewall", "google", "IT", "network", "plugin", "Prometheus", "security", "support", "навчання"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/07/google-cybersecurity-professional_24.html
 ---
 

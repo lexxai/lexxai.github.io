@@ -2,7 +2,7 @@
 layout: post
 title: "Recommendation Systems on Google Cloud | Google Cloud Skills Boost"
 date: 2024-04-04 14:19:00 +0000
-tags: []
+tags: ["AI", "datascience", "google", "Google Cloud", "MachineLearning", "ML"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/04/recommendation-systems-on-google-cloud.html
 ---
 

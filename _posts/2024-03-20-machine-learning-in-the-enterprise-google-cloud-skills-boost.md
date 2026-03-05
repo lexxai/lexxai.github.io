@@ -2,7 +2,7 @@
 layout: post
 title: "Machine Learning in the Enterprise | Google Cloud Skills Boost"
 date: 2024-03-20 13:47:00 +0000
-tags: []
+tags: ["AI", "datascience", "google", "Google Cloud", "MachineLearning", "ML"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/03/machine-learning-in-enterprise-google.html
 ---
 

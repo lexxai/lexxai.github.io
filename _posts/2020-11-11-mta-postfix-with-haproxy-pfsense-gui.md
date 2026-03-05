@@ -2,7 +2,7 @@
 layout: post
 title: "MTA Postfix with HAProxy + pfSense GUI"
 date: 2020-11-11 00:55:00 +0000
-tags: []
+tags: ["administration", "email", "haproxy", "pfSense", "posfix", "security", "server"]
 blogger_orig_link: https://lexxai.blogspot.com/2020/11/mta-postfix-with-haproxy-pfsense-gui.html
 ---
 

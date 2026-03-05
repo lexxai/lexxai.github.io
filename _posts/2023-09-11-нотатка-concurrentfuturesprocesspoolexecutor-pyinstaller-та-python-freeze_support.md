@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка: concurrent.futures.ProcessPoolExecutor  pyinstaller та python.  freeze_support()"
 date: 2023-09-11 20:41:00 +0000
-tags: []
+tags: ["concurrent.futures", "ProcessPoolExecutor", "pyinstaller", "python"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/09/concurrentfuturesprocesspoolexecutor.html
 ---
 

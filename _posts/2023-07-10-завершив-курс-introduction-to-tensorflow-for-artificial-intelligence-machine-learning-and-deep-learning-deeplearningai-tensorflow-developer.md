@@ -2,7 +2,7 @@
 layout: post
 title: "Завершив курс Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (DeepLearning.AI TensorFlow Developer)"
 date: 2023-07-10 14:01:00 +0000
-tags: []
+tags: ["Artificial Intelligence", "certificate", "Computer Vision", "Coursera", "Deep Learning", "DeepLearning.AI", "google", "Machine Learning", "ML", "TensorFlow"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/07/introduction-to-tensorflow-for.html
 ---
 

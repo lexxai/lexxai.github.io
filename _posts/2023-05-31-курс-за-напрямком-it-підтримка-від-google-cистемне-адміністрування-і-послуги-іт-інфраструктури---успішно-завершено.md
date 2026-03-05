@@ -2,7 +2,7 @@
 layout: post
 title: "Курс за напрямком IT-підтримка від Google: \"Cистемне адміністрування і послуги ІТ інфраструктури\" - успішно завершено."
 date: 2023-05-31 06:57:00 +0000
-tags: []
+tags: ["chrome", "Coursera", "google", "IT", "plugin", "Prometheus", "support", "навчання"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/05/it-google-c.html
 ---
 

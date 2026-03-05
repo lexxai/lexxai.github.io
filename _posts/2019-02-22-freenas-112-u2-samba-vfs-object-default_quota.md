@@ -2,12 +2,12 @@
 layout: post
 title: "FreeNAS-11.2-U2, Samba, VFS Object: default_quota."
 date: 2019-02-22 19:26:00 +0000
-tags: []
+tags: ["FreeBSD", "FreeNAS", "quota", "samba", "windows", "ZFS"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/02/freenas-112-u2-samba-vfs-object.html
 ---
 
 Попередньо я вивчав як зробити реальні квоти для користувачів у [FreeNAS](https://freenas.org/):   
-[Маємо те, що маємо. Усе що відбувається - на краще: FreeNAS, ZFS, User Quota, Samba.](https://lexxai.blogspot.com/2018/04/freenas-zfs-user-quota-samba.html)  
+[Маємо те, що маємо. Усе що відбувається - на краще: FreeNAS, ZFS, User Quota, Samba.](/2018-04-19-freenas-zfs-user-quota-samba.md)  
   
 Тепер задачу з реальним визначення квоти для користувача ZFS можемо зробити додавши [VFS Object: default\_quota](https://www.samba.org/samba/docs/current/man-html/vfs_default_quota.8.html) до необхідної спільної теки у налаштуваннях Sharing / SMB .  
 [З документації FreeNAS](https://www.ixsystems.com/documentation/freenas/11.2/sharing.html#configuring-authenticated-access-with-local-users): default\_quota - Stores the default quotas that are reported to a windows client in the quota record of a user.   

@@ -2,7 +2,7 @@
 layout: post
 title: "pfsense синхронізація pf таблиці snort2c на інший firewall"
 date: 2019-11-08 02:27:00 +0000
-tags: []
+tags: ["firewall", "FreeBSD", "pf", "pfSense", "Proxmox", "script", "security", "SNMP", "sync"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/11/pfsense-pf-snort2c-firewall.html
 ---
 

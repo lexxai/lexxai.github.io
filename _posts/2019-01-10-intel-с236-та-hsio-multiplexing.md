@@ -2,7 +2,7 @@
 layout: post
 title: "Intel С236 та HSIO Multiplexing"
 date: 2019-01-10 21:51:00 +0000
-tags: []
+tags: ["c236", "hardware", "sata"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/01/intel-236-hsio-multiplexing.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Мережева ізоляція jails через vnet та private bridge members"
 date: 2018-09-11 23:54:00 +0000
-tags: []
+tags: ["bridge", "FreeBSD", "FreeNAS", "iocage", "isolation", "jail", "security"]
 blogger_orig_link: https://lexxai.blogspot.com/2018/09/jails-vnet-private-bridge-members.html
 ---
 

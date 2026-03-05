@@ -2,7 +2,7 @@
 layout: post
 title: "Google Cybersecurity Professional Certificate - Play It Safe: Manage Security Risks - Completed on July 17, 2023"
 date: 2023-07-17 02:29:00 +0000
-tags: []
+tags: ["chrome", "Coursera", "google", "IT", "plugin", "Prometheus", "security", "support", "навчання"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/07/google-cybersecurity-professional_17.html
 ---
 

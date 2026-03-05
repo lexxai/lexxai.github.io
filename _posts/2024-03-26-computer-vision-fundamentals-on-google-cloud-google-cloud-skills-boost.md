@@ -2,7 +2,7 @@
 layout: post
 title: "Computer Vision Fundamentals on Google Cloud | Google Cloud Skills Boost"
 date: 2024-03-26 00:53:00 +0000
-tags: []
+tags: ["AI", "datascience", "google", "Google Cloud", "MachineLearning", "ML"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/03/computer-vision-fundamentals-on-google.html
 ---
 

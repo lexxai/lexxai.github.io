@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка. pfsense. DNS views для різних локальних мереж"
 date: 2017-11-21 23:31:00 +0000
-tags: []
+tags: ["dns", "network", "pfsence", "security", "view"]
 blogger_orig_link: https://lexxai.blogspot.com/2017/11/pfsense-dns-views.html
 ---
 

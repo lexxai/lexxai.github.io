@@ -2,7 +2,7 @@
 layout: post
 title: "pfSense overwrite DNS records on BIND DNS server."
 date: 2019-01-21 20:15:00 +0000
-tags: []
+tags: ["BIND", "dns", "FreeBSD", "pfSense"]
 blogger_orig_link: https://lexxai.blogspot.com/2019/01/pfsense-owerwrite-dns-records-on-bind.html
 ---
 

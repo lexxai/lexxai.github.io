@@ -2,7 +2,7 @@
 layout: post
 title: "Nginx, блокуємо доступ по user agents"
 date: 2013-06-10 10:29:00 +0000
-tags: []
+tags: ["access", "http", "nginx", "www"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/06/nginx-user-agents.html
 ---
 

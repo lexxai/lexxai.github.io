@@ -2,7 +2,7 @@
 layout: post
 title: "Overclocking Intel Core i7 LGA1366 processors"
 date: 2013-02-12 21:53:00 +0000
-tags: []
+tags: ["cpu", "hardware", "overclock"]
 blogger_orig_link: https://lexxai.blogspot.com/2013/02/overclocking-intel-core-i7-lga1366.html
 ---
 

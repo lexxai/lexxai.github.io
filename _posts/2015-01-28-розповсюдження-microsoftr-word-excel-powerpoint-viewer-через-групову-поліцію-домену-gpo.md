@@ -2,7 +2,7 @@
 layout: post
 title: "Розповсюдження Microsoftr Word, Excel, PowerPoint Viewer через групову поліцію домену GPO"
 date: 2015-01-28 13:29:00 +0000
-tags: []
+tags: ["adimistration", "deploy GPO", "LibreOffice", "Microsoft office", "MSI", "Viewer"]
 blogger_orig_link: https://lexxai.blogspot.com/2015/01/microsoftr-word-excel-powerpoint-viewer.html
 ---
 

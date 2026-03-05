@@ -2,7 +2,7 @@
 layout: post
 title: "Restore a VM from a backup file on a ZFS snapshot over NFS in Proxmox VE by use GUI."
 date: 2024-10-12 14:19:00 +0000
-tags: []
+tags: ["backup", "cli", "FreeBSD", "linux", "NAS", "nfs", "Proxmox", "restore", "snapshot", "TrueNAS", "ZFS", "zfspool"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/10/restore-vm-from-backup-file-on-zfs.html
 ---
 

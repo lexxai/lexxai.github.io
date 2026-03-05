@@ -2,7 +2,7 @@
 layout: post
 title: "pfSense install FreeBSD packages"
 date: 2018-01-18 20:06:00 +0000
-tags: []
+tags: ["FreeBSD", "package", "pfSense"]
 blogger_orig_link: https://lexxai.blogspot.com/2018/01/pfsense-install-freebsd-packages.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "OpenWrt, один порт wan дві ip адреси"
 date: 2014-02-16 19:32:00 +0000
-tags: []
+tags: ["ip", "open-wrt", "openwrt"]
 blogger_orig_link: https://lexxai.blogspot.com/2014/02/openwrt-2-wan-ip.html
 ---
 

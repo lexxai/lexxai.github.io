@@ -2,7 +2,7 @@
 layout: post
 title: "GitHub Actions. Multiple Services."
 date: 2024-05-30 15:15:00 +0000
-tags: []
+tags: ["Depoy", "DevOps", "GitHub", "GitHub Actons", "python"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/05/github-actions-multiple-services.html
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Pleroma - change to new domain directly on database postgress"
 date: 2021-09-10 19:53:00 +0000
-tags: []
+tags: ["database", "pleroma", "postgress", "social"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/09/pleroma-change-to-new-domain-directly.html
 ---
 
