@@ -80,7 +80,8 @@ ssh remote@server -L 11434:localhost:11434
 [![](/assets/images/blog/536964798ab06d95-2ee020613f9dad9c.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLdl8Lte8XIQTdbwtduu5FhWhFSdmzPtperOquDj3qAwtrDhjW10MKFQavHvk_hA6tfNBIXYfJPi57Hmd_8t_CaQpV-JPNF7s39J2lB5WF9NeszZUsYfyV8KMV-fvP5WHZ4mYGN-nUc4rcPGfX25gIhlzgbcWU9AGLl57ubFKDJqcmkQHGHZAzd1yN2kJN/s1915/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-02-28%20140322.png)  
 *VS Code + Copilot GitHub (0.37.9) + Ollama DeProxy (CORRECT\_NUMBERED\_MODEL\_NAMES=True)*
 
-  
+[![](/assets/images/blog/3f799e76847ecd64-f83d3dce2a710871.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-wY4774AFVNWzLH_MkVK_Y6FI0y08_HRSoCI9g-rn8vWnrVrpCxmO1v4UH2jGzjcgcuyAt3oai9IiiWmCh2ffehlweWRD3HluuPrjBqFHFqyBsp6V84L9DM9lKl300k3WLyJwHq_7aBPPjJm80TYWVT9Ra1TNcVBRBH9hSD7_0HKn0K21YmiRz7VBQiOi/s1900/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-05%20171748.png)  
+*PyCharm  AI Assistant + Ollama + Ollama DeProxy*
 
 ### За матеріалами:
 
