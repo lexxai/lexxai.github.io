@@ -8,9 +8,11 @@ blogger_orig_link: https://lexxai.blogspot.com/2026/03/blogger-to-github-pages-s
 
 #### Навіщо?
 
-Я вирішив отримати практичний досвід роботи з GitHub Actions та GitHub Pages.
+Я вирішив отримати практичний досвід роботи з GitHub Actions та GitHub
+Pages.
 
-Мій блог має RSS-стрічку, і це дало ідею: якщо автоматично обробляти RSS-сторінки, можна отримати повну резервну копію блогу у форматі Markdown.
+Мій блог має RSS-стрічку, і це дало ідею: якщо автоматично обробляти
+RSS-сторінки, можна отримати повну резервну копію блогу у форматі Markdown.
 
 А вже цей Markdown легко опублікувати в репозиторії GitHub Pages / Jekyll.
 
@@ -35,7 +37,10 @@ blogger_orig_link: https://lexxai.blogspot.com/2026/03/blogger-to-github-pages-s
 
 #### Опис продукту
 
-Це [Python-утиліта,](https://github.com/lexxai/BLOG2GHP) яка синхронізує пости з RSS-стрічки Blogger у репозиторій GitHub Pages / Jekyll.
+Це
+[Python-утиліта,](https://github.com/lexxai/BLOG2GHP)
+яка синхронізує пости з RSS-стрічки Blogger у репозиторій GitHub Pages /
+Jekyll.
 
 Вона автоматично:
 
@@ -46,16 +51,21 @@ blogger_orig_link: https://lexxai.blogspot.com/2026/03/blogger-to-github-pages-s
 ### Можливості
 
 * **Automated Sync**  
-  Отримує пости з RSS-стрічки Blogger та синхронізує їх із репозиторієм.
+  Отримує пости з RSS-стрічки Blogger та
+  синхронізує їх із репозиторієм.
 * **Image Handling**  
-  Завантажує зображення блогу та зберігає їх локально в:  
+  Завантажує зображення блогу та зберігає їх
+  локально в:  
   assets/images/blog/
 * **Link Rewriting**  
-  Оновлює старі доменні посилання, замінюючи їх на нову адресу GitHub Pages.
+  Оновлює старі доменні посилання, замінюючи їх
+  на нову адресу GitHub Pages.
 * **Jekyll-compatible Outpu**t  
-  Генерує Markdown-файли з правильно оформленим YAML frontmatter, сумісним із Jekyll.
+  Генерує Markdown-файли з правильно
+  оформленим YAML frontmatter, сумісним із Jekyll.
 * **Dry Run Mode**  
-  Дозволяє попередньо переглянути зміни без фактичного створення або перезапису файлів.
+  Дозволяє попередньо переглянути зміни без
+  фактичного створення або перезапису файлів.
 * **Configurable**  
   Гнучка конфігурація через змінні середовища.
 
@@ -92,7 +102,8 @@ blogger_orig_link: https://lexxai.blogspot.com/2026/03/blogger-to-github-pages-s
 * зберігаються у assets/images/blog/
 * перейменовуються за безпечним шаблоном
 * їхні шляхи автоматично оновлюються в Markdown-файлі
-* Таким чином блог стає повністю автономним і не залежить від зовнішнього CDN Blogger.
+* Таким чином блог стає повністю автономним і не залежить від
+  зовнішнього CDN Blogger.
 
 ### Генерація Markdown-файлу
 
@@ -130,18 +141,16 @@ blogger_orig_link: https://lexxai.blogspot.com/2026/03/blogger-to-github-pages-s
 * Зміни комітяться у репозиторій
 * GitHub Pages автоматично перебудовує сайт
 
-У результаті отримуємо повністю автоматизований процес резервного копіювання та публікації.
-
-### 
-
-#### 
+У результаті отримуємо повністю автоматизований процес резервного
+копіювання та публікації.
 
 [![](/assets/images/blog/70eebaceef240f01-30a8870e9f3badaf.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMbdjFyri5Wvn8WIpyuiJoLhyphenhyphenUVxBxtl_r6e-m_D7UFgjeRHfvMSuVd80Ii-82T5XeDKIIr9NXQf9l1yitvAhAGtrxLnxRAeQ9oMTvLxXEZ7Qi29paUyiGNpcJdnO_wmeAkfSjAo6GtuHQ260DbJWLV76Li_ao8xfIB32oqsQ8goZi97C1CQZhD6uvS1Fc/s1883/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-04%20202020.png)  
 *GitHub Actions*
 
 ### Підсумок процесу
 
-RSS → HTML → Markdown → Download Images → Rewrite Links → Commit → GitHub Pages Build
+RSS → HTML → Markdown → Download Images → Rewrite Links → Commit → GitHub
+Pages Build
 
 #### Посилання
 
