@@ -2,7 +2,7 @@
 layout: post
 title: "Codefinity. Successfully completed track - Python. Preparation for Data Science. Consists of 9 courses."
 date: 2024-06-23 15:18:00 +0000
-tags: []
+tags: ["certificate", "Codefinity", "data analysis", "data science", "framework", "NumPy", "Pandas", "Probability", "python", "statistics"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/06/codefinity-successfully-completed-track.html
 ---
 
@@ -85,7 +85,7 @@ Courses of track:
 
 ### Postgraduate
 
-* [Recognizing Handwritten Digits](/2024/07/codefinty-recognizing-handwritten-digits.html).
+* [Recognizing Handwritten Digits](/2024-07-07-codefinty-project---recognizing-handwritten-digits.md).
 
 |  |
 | --- |

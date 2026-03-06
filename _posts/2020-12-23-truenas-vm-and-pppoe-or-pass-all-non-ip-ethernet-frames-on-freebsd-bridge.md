@@ -2,13 +2,13 @@
 layout: post
 title: "TrueNAS VM and PPPoE or pass all non-IP Ethernet frames on FreeBSD bridge"
 date: 2020-12-23 19:45:00 +0000
-tags: []
+tags: ["bridge", "firewall", "FreeBSD", "FreeNAS", "ip", "pppoe", "TrueNAS", "Virtualization", "VM"]
 blogger_orig_link: https://lexxai.blogspot.com/2020/12/truenas-vm-and-pppoe-or-pass-all-non-ip.html
 ---
 
 Базово, якщо створити віртуальну машину у [TrueNAS/FreeNAS](https://www.truenas.com/) то дещо обмежено у користуванні: мережа підключається через bridge а він не пропускає не IP пакети.
 
-Це тому-що  [bridge](https://www.freebsd.org/cgi/man.cgi?bridge(4)) в <TrueNAS/FreeNAS> має  ввімкнуте налаштування:  [net.link.bridge.pfill\_onlyip](https://www.freebsd.org/cgi/man.cgi?bridge(4))=1, що обмежує проходження пакетів тільки [протоколу IP](https://uk.wikipedia.org/wiki/Internet_Protocol#%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0_IP-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D1%83), (set to 0 to unconditionally pass all non-IP Ethernet frames).
+Це тому-що  [bridge](https://www.freebsd.org/cgi/man.cgi?bridge(4)) в  [TrueNAS/FreeNAS](https://lexxai.blogspot.com/TrueNAS/FreeNAS) має  ввімкнуте налаштування:  [net.link.bridge.pfill\_onlyip](https://www.freebsd.org/cgi/man.cgi?bridge(4))=1, що обмежує проходження пакетів тільки [протоколу IP](https://uk.wikipedia.org/wiki/Internet_Protocol#%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0_IP-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D1%83), (set to 0 to unconditionally pass all non-IP Ethernet frames).
 
 Тому встановимо net.link.bridge.pfill\_onlyip=0 в системних налаштуваннях [TrueNAS/FreeNAS](https://www.truenas.com/):
 

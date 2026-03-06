@@ -2,11 +2,11 @@
 layout: post
 title: "Нотатки: Hardware modding TP-Link TL-MR3420 v2 встановлення пам'яті на 8МБ. OpenWrt 19.07.6."
 date: 2021-02-01 20:19:00 +0000
-tags: []
+tags: ["firmware", "internet", "linux", "luci", "open-wrt", "openwrt", "router", "tp-link", "u-boot", "usb", "Wi-Fi", "wifi"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/02/hardware-modding-tp-link-tl-mr3420-v2-8.html
 ---
 
-[![](/assets/images/blog/e5e1c4f6686f11ed-d683ada29323ec50.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-BvJl9d5kPwE9RfkVSVPQBI0hVKYHIBYd-Esj6opwb2MWoCQvKe7OQCPQoQYPlf1gLxDYeE9YbsWhowDrVT6JvsORkxcAkMoDBKjiqvUXyRcsyZwqGiqkRDcemoHwN1-XDsrdzceSl0TR/s4129/IMG_20210131_220807.jpg)У продовженні [попередньої реанімації роутера](/2021/01/tp-link-mp-3420-openwrt.html) TP-Link TL-MR3420 встановлюю flash пам'ять на 8МБ. І нотую для себе крок за кроком.
+[![](/assets/images/blog/e5e1c4f6686f11ed-d683ada29323ec50.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-BvJl9d5kPwE9RfkVSVPQBI0hVKYHIBYd-Esj6opwb2MWoCQvKe7OQCPQoQYPlf1gLxDYeE9YbsWhowDrVT6JvsORkxcAkMoDBKjiqvUXyRcsyZwqGiqkRDcemoHwN1-XDsrdzceSl0TR/s4129/IMG_20210131_220807.jpg)У продовженні [попередньої реанімації роутера](/2021-01-17-нотатки-tp-link-mp-3420-відновлення-openwrt-19075.md) TP-Link TL-MR3420 встановлюю flash пам'ять на 8МБ. І нотую для себе крок за кроком.
 
  1. Зберігаю розділ ART, з інтерфейсу OpenWRT, або [іншим методом з mtd](https://openwrt.org/docs/guide-user/installation/restore_art_partition).  
 
@@ -221,7 +221,7 @@ zlib - 1.2.11-3
 [![](/assets/images/blog/f69c8d0a3617db30-174dc196ffe6fdef.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPi78YkP3Js79Ep_EMWW0Lj8g3F0ow3KkAXgCqFtKDe-PPNHUMm2OewACdDFyThNc3onOWKZe_Y0HaTtFUVBTX4nMjGZ63otz3uRCa9hUYeFRLkKjdwPYcqCmgPCF2LoRd8om2O-Q71Ej7/s862/flash-3420-B05.PNG)  
 *Про розробника*
 
-11. Власний образ для 8МБ створюється на основі : "[Маємо те, що маємо. Усе що відбувається - на краще: Hardware modding TP-Link TL-WR841N v9 4M to 8M Flash and compile custom OpenWrt](https://lexxai.blogspot.com/2019/07/hardware-modding-tp-link-tl-wr841n-v9.html)"
+11. Власний образ для 8МБ створюється на основі : "[Маємо те, що маємо. Усе що відбувається - на краще: Hardware modding TP-Link TL-WR841N v9 4M to 8M Flash and compile custom OpenWrt](/2019-07-15-hardware-modding-tp-link-tl-wr841n-v9-4m-to-8m-flash-and-compile-custom-openwrt.md)"
 
 ```
 git clone https://git.openwrt.org/openwrt/openwrt.git/

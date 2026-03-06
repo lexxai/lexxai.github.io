@@ -2,11 +2,11 @@
 layout: post
 title: "Перший код в LUA. Скрипт для роутера з OpenWRT. MQTT та Telegram статус підключених WiFi clients."
 date: 2021-12-17 00:03:00 +0000
-tags: []
+tags: ["adimistration", "LUA", "Mosquitto", "MQTT", "Open Source", "open-wrt", "openwrt", "router", "script", "telegram", "Wi-Fi", "wifi"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/12/lua-openwrt-mqtt-telegram-wifi-clients.html
 ---
 
-З метою оптимізації [мого попереднього коду (Нотатки : Простий скрипт для wifi device tracker в OpenWRT : відсилання повідомлень до MQTT ) в SHELL script](/2021/01/wifi-device-tracker-openwrt-mqtt.html) так як його можливості дещо обмежені. Перевів код на [LUA -  швидка і компактна скриптова мова програмування](https://uk.wikipedia.org/wiki/Lua).
+З метою оптимізації [мого попереднього коду (Нотатки : Простий скрипт для wifi device tracker в OpenWRT : відсилання повідомлень до MQTT ) в SHELL script](/2021-01-31-нотатки-простий-скрипт-для-wifi-device-tracker-в-openwrt-відсилання-повідомлень-до-mqtt.md) так як його можливості дещо обмежені. Перевів код на [LUA -  швидка і компактна скриптова мова програмування](https://uk.wikipedia.org/wiki/Lua).
 
 Мета коду - зробити автоматизацію вдома на основі присутності людей. Один з варіантів визначення присутності це за тим чи підключений мобільний телефон особи до домашньої [Wi-Fi](https://uk.wikipedia.org/wiki/Wi-Fi) мережі.
 
@@ -189,7 +189,7 @@ end
 Результат роботи  є запуск команди: [mosquitto\_pub](https://mosquitto.org/man/mosquitto_pub-1.html), яка публікує повідомлення до [MQTT](https://uk.wikipedia.org/wiki/MQTT) брокера.  
 В даному випадку [mqtt](https://mqtt.org/) брокер [mosquitto](https://mosquitto.org/) встановлений в цьому роутері.
 
-Скрипт який відсилає повідомлення то Telegam було описано мною раніше: "[Нотатки : Простий скрипт для MQTT в OpenWRT : відсилання Telegram повідомлень з Emoji. Tasmota.](/2021/01/mqtt-openwrt-telegram-emoji.html) "
+Скрипт який відсилає повідомлення то Telegam було описано мною раніше: "[Нотатки : Простий скрипт для MQTT в OpenWRT : відсилання Telegram повідомлень з Emoji. Tasmota.](/2021-01-10-нотатки-простий-скрипт-для-mqtt-в-openwrt-відсилання-telegram-повідомлень-з-emoji-tasmota.md) "
 
 #### lua-mosquitto
 

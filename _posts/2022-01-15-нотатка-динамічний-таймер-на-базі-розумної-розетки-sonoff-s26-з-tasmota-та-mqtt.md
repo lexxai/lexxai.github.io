@@ -2,7 +2,7 @@
 layout: post
 title: "Нотатка:  Динамічний таймер на базі \"розумної\" розетки SONOFF S26 з Tasmota та MQTT"
 date: 2022-01-15 02:20:00 +0000
-tags: []
+tags: ["electronic", "hardware", "Mosquitto", "MQTT", "open-wrt", "script", "SONOFF", "TASMOTA", "telegram", "розумний дім"]
 blogger_orig_link: https://lexxai.blogspot.com/2022/01/sonoff-s26-tasmota-mqtt.html
 ---
 
@@ -104,7 +104,7 @@ ON event#long  DO backlog0 PulseTime1 1900;power 1 BREAK
 
 #### Віддалене керування через MQTT
 
-За попередніми публікаціями ([Перший код в LUA. Скрипт для роутера з OpenWRT. MQTT та Telegram статус підключених WiFi clients](/2021/12/lua-openwrt-mqtt-telegram-wifi-clients.html), [Нотатки : Простий скрипт для MQTT в OpenWRT : відсилання Telegram повідомлень з Emoji. Tasmota.](/2021/01/mqtt-openwrt-telegram-emoji.html)  ) я описував як створив дуже простий контролер для обробки невеликої кількості команд MQTT, на базі скрипту у домашньому роутері на базі OpenWRT.
+За попередніми публікаціями ([Перший код в LUA. Скрипт для роутера з OpenWRT. MQTT та Telegram статус підключених WiFi clients](/2021-12-17-перший-код-в-lua-скрипт-для-роутера-з-openwrt-mqtt-та-telegram-статус-підключених-wifi-clients.md), [Нотатки : Простий скрипт для MQTT в OpenWRT : відсилання Telegram повідомлень з Emoji. Tasmota.](/2021-01-10-нотатки-простий-скрипт-для-mqtt-в-openwrt-відсилання-telegram-повідомлень-з-emoji-tasmota.md)  ) я описував як створив дуже простий контролер для обробки невеликої кількості команд MQTT, на базі скрипту у домашньому роутері на базі OpenWRT.
 
 Таким чином я відсилаю команди брокеру MQTT для пристрою S26-01, для різних станів:
 

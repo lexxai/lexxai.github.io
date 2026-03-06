@@ -2,7 +2,7 @@
 layout: post
 title: "Run APIs Easily. Anywhere. traefik.io. Q & A."
 date: 2024-10-22 14:32:00 +0000
-tags: []
+tags: ["balancing", "development", "DevOps", "network", "nginx", "proxy", "Traefik"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/10/run-apis-easily-anywhere-traefikio-q-a.html
 ---
 
@@ -11,10 +11,10 @@ blogger_orig_link: https://lexxai.blogspot.com/2024/10/run-apis-easily-anywhere-
 
 #### Agenda of Questions:
 
-1. [Traefik vs. Nginx](#q1)
-2. [Can Traefik serve static files?](#q2)
-3. [Can Traefik route traffic when I deploy a new version of my app on a different port while the old version continues to run on its previous port?](#q3)
-4. [How can Traefik help with routing to the new version?](#q31)
+1. [Traefik vs. Nginx](https://lexxai.blogspot.com/)
+2. [Can Traefik serve static files?](https://lexxai.blogspot.com/)
+3. [Can Traefik route traffic when I deploy a new version of my app on a different port while the old version continues to run on its previous port?](https://lexxai.blogspot.com/)
+4. [How can Traefik help with routing to the new version?](https://lexxai.blogspot.com/)
 
 #### Traefik vs. Nginx
 

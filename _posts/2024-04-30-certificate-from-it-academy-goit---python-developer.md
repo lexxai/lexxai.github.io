@@ -2,7 +2,7 @@
 layout: post
 title: "Certificate from IT academy GoIT - Python developer"
 date: 2024-04-30 21:32:00 +0000
-tags: []
+tags: ["certificate", "cv", "database", "datascience", "Django", "docker", "fastapi", "Git", "GitHub", "GoIT", "keras", "MachineLearning", "python", "softskills", "TensorFlow"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/05/certificate-from-it-academy-goit-python.html
 ---
 
@@ -31,7 +31,7 @@ blogger_orig_link: https://lexxai.blogspot.com/2024/05/certificate-from-it-acade
 
 ### 
 
-### [Всі мої домашні завдання з курсу Python Core](https://github.com/lexxai/goit_python_core_homework/) Курсовий проєкт ["Персональний помічник" – Assistant bot](/2023/08/goit-python-developer-python-core-15.html).
+### [Всі мої домашні завдання з курсу Python Core](https://github.com/lexxai/goit_python_core_homework/) Курсовий проєкт ["Персональний помічник" – Assistant bot](/2023-08-11-ось-і-закінчилася-наша-перша-частина-навчання-в-goit-з-курсу-python-developer---python-core-15.md).
 
 [![](/assets/images/blog/ff42b5f2e79b1557-2d917008698479a3.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVJ9yYhJpOruD_omV4yse4GTBfHnBeKytb4iS8CH_P96ljyHEIkDTn1-8dcrA_ZOgKNYexKp07-ugTudHmCLX8AeteKabF4FxUQO-rLFy3mKQ9EfPqvhTCcN6yCmAYV00dh_5NBrNtVaMvxPX4-nqSKjTqtUUjo9GaPDUO9pUSJiWvk2JhUWg7yIcmDBQB/s1460/core-01.png)  
 *Assistant bot - help page*
@@ -56,7 +56,7 @@ blogger_orig_link: https://lexxai.blogspot.com/2024/05/certificate-from-it-acade
 
 ### [Всі мої 14 домашніх завдань з курсу Python Web](https://github.com/lexxai/goit_python_web_homework)
 
-### Курсовий проєкт "[FastAPI Project Pixels. GoIT](/2023/12/goit-python-web-15-fastapi.html)"
+### Курсовий проєкт "[FastAPI Project Pixels. GoIT](/2023-12-21-ось-і-закінчився-модуль-навчання-з-goit-python-web-15-груповий-проєкт-на-fastapi.md)"
 
 [![](/assets/images/blog/de4acbfa2dfcc485-a71aa6c121555b1e.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibG9x0iwASjJWOJ8I9lubzYK0Bba29trLWx1nfyOqwNw_JTfHsiOhZsJnE900t__Yfw2KF8jYRQ8e9c7jtOMqfozqFbEcIFWTOM5VpzrTxM8r1Wz-zz12FowUTLyN8M7S8RiymLiubi0NsS5ZbnY-VRftqO-ZDdiVa_Wkp92UGI-n6orbOdu-dDzWa1oHN/s640/web-index-01.png)  
 *Курсовий проєкт "FastAPI Project Pixels"*
@@ -80,7 +80,7 @@ blogger_orig_link: https://lexxai.blogspot.com/2024/05/certificate-from-it-acade
 
 #### 
 
-### Курсовий проєкт на тему "[Автоматизована система паркування](/2024/04/m-python-data-science-it-goit.html)".
+### Курсовий проєкт на тему "[Автоматизована система паркування](/2024-04-26-mодуль-python-data-science-в-it-академії-goit---проєкт-на-тему-автоматизована-система-паркування.md)".
 
 ### *Проєкт на тему "Автоматизована система паркування".*
 

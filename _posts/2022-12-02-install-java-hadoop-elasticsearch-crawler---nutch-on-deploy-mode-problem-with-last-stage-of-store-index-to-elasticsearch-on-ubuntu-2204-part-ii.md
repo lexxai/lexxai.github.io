@@ -2,7 +2,7 @@
 layout: post
 title: "Install JAVA HADOOP, ELASTICSEARCH, CRAWLER - NUTCH on DEPLOY MODE , problem with last stage of store INDEX to ELASTICSEARCH on UBUNTU 22.04 (PART II)"
 date: 2022-12-02 01:22:00 +0000
-tags: []
+tags: ["apache", "elasticsearch", "hadoop", "hutch", "java", "script", "ubuntu"]
 blogger_orig_link: https://lexxai.blogspot.com/2022/12/install-java-hadoop-elasticsearch-part2.html
 ---
 
@@ -2334,4 +2334,4 @@ broken symlinks(find -L . -maxdepth 5 -type l -ls):
 
   
 
-[PART I](/2022/12/install-java-hadoop-elasticsearch-part1.html)
+[PART I](/2022-12-02-install-java-hadoop-elasticsearch-crawler---nutch-on-deploy-mode-problem-store-index-to-elasticsearch-part-i.md)

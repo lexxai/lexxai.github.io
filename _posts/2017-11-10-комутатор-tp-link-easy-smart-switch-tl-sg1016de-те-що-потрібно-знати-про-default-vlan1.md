@@ -2,7 +2,7 @@
 layout: post
 title: "Комутатор TP-Link Easy Smart Switch TL-SG1016DE те що потрібно знати про (default) VLAN1"
 date: 2017-11-10 19:52:00 +0000
-tags: []
+tags: ["ethernet", "hardware", "network", "security", "switch", "tp-link", "VLAN"]
 blogger_orig_link: https://lexxai.blogspot.com/2017/11/tl-sg108e-default-vlan1.html
 ---
 
@@ -52,7 +52,7 @@ st314&tag\_1=1&tag\_2=2&tag\_3=2&tag\_4=2&tag\_5=2&tag\_
 
 #### PVID
 
-Як одне з простих рішень це прописати  [PVID на інше значення ніж 1 на потрібному порту, наприклад де WAN, це вирішить питання з UNTAGED пакетами і відправить відповідь до іншого VLAN](javascript:void(0)).  Але це рішення для UNTAGED підключень, а якщо форсувати  на мережевій карті потрібний VLAN ID=1, то це рішення буде не ефективне.  
+Як одне з простих рішень це прописати  [PVID на інше значення ніж 1 на потрібному порту, наприклад де WAN, це вирішить питання з UNTAGED пакетами і відправить відповідь до іншого VLAN](https://lexxai.blogspot.com/void(0)).  Але це рішення для UNTAGED підключень, а якщо форсувати  на мережевій карті потрібний VLAN ID=1, то це рішення буде не ефективне.  
 
 [![](/assets/images/blog/7c1f637b06951c54-4ec04c00d86ffc42.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwzPynZYj-cCKXEFeNPxIf-hDqnQ5OH0bb3IluYwCoXVNYFGfNGBdEXOU-X4Dads1iRgQw5ogcPM7cDogf-w0ehIPNxyCISrCnvc1y5n7wGXTfM8OpS10cFfmw5biE3WpD2tdoj7mtMx8c/s1600/tp_vlan1_pvid.png)  
 *PVID початкові значення*

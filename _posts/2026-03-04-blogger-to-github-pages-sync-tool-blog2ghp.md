@@ -155,5 +155,5 @@ Pages Build
 #### Посилання
 
 * [GitHub repository - BLOG2GHP](https://github.com/lexxai/BLOG2GHP)
-* [Маємо те, що маємо. Усе що відбувається - на краще](/)
+* [Маємо те, що маємо. Усе що відбувається - на краще](https://lexxai.blogspot.com/)
 * <https://lexxai.github.io/>

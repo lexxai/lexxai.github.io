@@ -2,12 +2,12 @@
 layout: post
 title: "Simple basic setup of SONiC OS for swicth Celestica Seastone DX010, 32-port 100G in L2 mode, and simple ACL restriction for SSH managemnt."
 date: 2024-06-20 01:16:00 +0000
-tags: []
+tags: ["hardware", "network", "Open Source", "sonic", "switch"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/06/simple-basic-setup-of-sonic-os-for.html
 ---
 
 In continuing to
-[Hardware switch with stateless firewall rules. Seastone DX010. SONiC OS](/2024/06/hardware-switch-with-stateless-firewall.html), [SONiC Notebook](/2024/04/sonic-notebook.html).
+[Hardware switch with stateless firewall rules. Seastone DX010. SONiC OS](/2024-06-16-hardware-switch-with-stateless-firewall-rules-seastone-dx010-sonic-os.md), [SONiC Notebook](/2024-04-25-sonic-notebook.md).
 
 Conditions. Two Celestica DX010 switches (Celestica1, Celestica2) are
 connected via a 100G (4x25G) uplink connection located in different data

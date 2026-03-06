@@ -2,7 +2,7 @@
 layout: post
 title: "Сертифікат : Google IT Google IT Automationwith Python - Full Course Completed"
 date: 2023-09-22 08:02:00 +0000
-tags: []
+tags: ["chrome", "Coursera", "DevOps", "Git", "google", "IT", "plugin", "Prometheus", "python", "security", "support", "навчання"]
 blogger_orig_link: https://lexxai.blogspot.com/2023/12/google-it-google-it-automationwith.html
 ---
 
@@ -32,7 +32,7 @@ Specialist or Junior Systems Administrator positions. 
 
 1. [Crash Course on Python](https://www.coursera.org/learn/python-crash-course?specialization=google-it-automation). Курс 1, 32 hours
 2. [Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system?specialization=google-it-automation). Курс 2, 41 hours
-3. <Introduction to Git and GitHub>. Курс 3, 27 hours
+3. [Introduction to Git and GitHub](https://lexxai.blogspot.com/Introduction to Git and GitHub). Курс 3, 27 hours
 4. [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation). Курс 4, 24 hours
 5. [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud?specialization=google-it-automation). Курс 5, 33 hours
 6. [Automating Real-World Tasks with Python](https://www.coursera.org/learn/configuration-management-cloud?specialization=google-it-automation). Курс 6, 21 hours

@@ -2,13 +2,13 @@
 layout: post
 title: "Optimizing Performance: Python Speed Test for Digit Search in Strings. Shot, Middle, Long ..."
 date: 2024-11-24 23:07:00 +0000
-tags: []
+tags: ["optimize", "python", "speed", "string", "test"]
 blogger_orig_link: https://lexxai.blogspot.com/2024/11/optimizing-performance-python-speed_25.html
 ---
 
 ### Оптимізація продуктивності: Тест швидкості Python для пошуку цифр у рядках
 
-⛓️ У відповідь на оригінальний пост: [читайте обговорення тут](https://lnkd.in/e56KKsMp) я раніше [провів заміри тільки для однієї категорії - короткий текст](/2024/11/optimizing-performance-python-speed.html), тепер продовження ...
+⛓️ У відповідь на оригінальний пост: [читайте обговорення тут](https://lnkd.in/e56KKsMp) я раніше [провів заміри тільки для однієї категорії - короткий текст](/2024-11-23-optimizing-performance-python-speed-test-for-digit-search-in-strings.md), тепер продовження ...
 
 🪜 Я провів експеримент для оцінки ефективності різних методів Python для пошуку цифр у рядках, з урахуванням різних довжин рядків від коротких до довгих. Нижче я порівнюю шість різних технік і їхні переваги при витягуванні цифр.
 

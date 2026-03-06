@@ -82,7 +82,7 @@ key string*" - бажаний ключ, якщо його не вказуват�
 
 ### Застосування
 
-Таким чином знаючи секретний ключ ініціалізації можна використовувати Aladdin eToken NG-OTP у своїх реалізаціях, використовуючи, наприклад як [PHP модуль](http://habrahabr.ru/post/105268/) , або у [RADIUS](http://en.wikipedia.org/wiki/Radius_server) сервері, або модуль сервера [Apache - mod\_authn\_otp](http://lexxai.blogspot.com/2012/12/otp-apache-modauthnotp.html), чи для [Модулів аутентифікації - PAM.](http://en.wikipedia.org/wiki/Pluggable_Authentication_Modules)  
+Таким чином знаючи секретний ключ ініціалізації можна використовувати Aladdin eToken NG-OTP у своїх реалізаціях, використовуючи, наприклад як [PHP модуль](http://habrahabr.ru/post/105268/) , або у [RADIUS](http://en.wikipedia.org/wiki/Radius_server) сервері, або модуль сервера [Apache - mod\_authn\_otp](/2012-12-19-одноразові-паролі-otp-та-сервер-apache-mod_authn_otp.md), чи для [Модулів аутентифікації - PAM.](http://en.wikipedia.org/wiki/Pluggable_Authentication_Modules)  
   
 
 * #### Застосування з використанням PHP
@@ -101,7 +101,7 @@ key string*" - бажаний ключ, якщо його не вказуват�
 
 * #### Застосування з використанням mod\_authn\_otp
 
-> [Одноразові паролі (OTP) та сервер Apache (mod\_authn\_otp)](http://lexxai.blogspot.com/2012/12/otp-apache-modauthnotp.html)
+> [Одноразові паролі (OTP) та сервер Apache (mod\_authn\_otp)](/2012-12-19-одноразові-паролі-otp-та-сервер-apache-mod_authn_otp.md)
 
 ### Додаток
 

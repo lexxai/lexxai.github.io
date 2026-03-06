@@ -2,7 +2,7 @@
 layout: post
 title: "Ollama DeProxy або як отримати локальний доступ до віддаленої Ollama"
 date: 2026-02-25 15:43:00 +0000
-tags: []
+tags: ["AI", "aiagent", "Copilot", "DeProxy", "fastapi", "http", "ollama", "ollama-api", "openwebui", "proxy", "proxy-server", "pycharm", "python", "rest-api", "vscode"]
 blogger_orig_link: https://lexxai.blogspot.com/2026/02/ollama-deproxy-ollama.html
 ---
 
@@ -41,7 +41,7 @@ ssh remote@server -L 11434:localhost:11434
 ### Рішення — Ollama DeProxy
 
 Щоб спростити інтеграцію, я написав невеликий застосунок -
-**[Ollama DeProxy](ollama-deproxy)**.
+**[Ollama DeProxy](https://lexxai.blogspot.com/ollama-deproxy)**.
 
 Його ідея проста:
 

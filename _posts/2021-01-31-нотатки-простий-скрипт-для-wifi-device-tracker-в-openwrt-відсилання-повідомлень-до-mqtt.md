@@ -2,12 +2,12 @@
 layout: post
 title: "Нотатки : Простий скрипт для wifi device tracker в OpenWRT : відсилання повідомлень до MQTT"
 date: 2021-01-31 01:56:00 +0000
-tags: []
+tags: ["api", "bash", "Emoji", "Mosquitto", "MQTT", "openwrt", "script", "shell", "SONOFF", "telegram"]
 blogger_orig_link: https://lexxai.blogspot.com/2021/01/wifi-device-tracker-openwrt-mqtt.html
 ---
 
 Скрипт для ash сценарію в OpenWRT.  
-Пошук активних WiFi пристроїв за їх MAC адресою, і якщо такий є то надсилання повідомлення до MQTT брокера зі станом пристрою при зміні стану. А [інший скрипт](/2021/01/mqtt-openwrt-telegram-emoji.html) надсилає стан вже до Телеграм каналу..
+Пошук активних WiFi пристроїв за їх MAC адресою, і якщо такий є то надсилання повідомлення до MQTT брокера зі станом пристрою при зміні стану. А [інший скрипт](/2021-01-10-нотатки-простий-скрипт-для-mqtt-в-openwrt-відсилання-telegram-повідомлень-з-emoji-tasmota.md) надсилає стан вже до Телеграм каналу..
 
 [![](/assets/images/blog/4cc7aa71cbc5fc84-bd8198f39e977451.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCa8T0AQjYQlA7yXyQyfaoq5AqzLFSDQgXZUodt-ilZVHpQNeCABJqSnm8yUVzXB-aePKqHLNTy2IDNN4FvisDmR-sJMJIrA8PSoea6315KKuFCUpxaXvc85uYQCZuDG0XesCGgElQPYQY/s430/mqttw.jpeg)
 
@@ -53,4 +53,4 @@ done
 
 Так як масивів в ash не має, то приходиться використовувати eval для  симуляції віртуального масиву.
 
-Створив версію для LUA: [Перший код в LUA. Скрипт для роутера з OpenWRT. MQTT та Telegram статус підключених WiFi clients.](/2021/12/lua-openwrt-mqtt-telegram-wifi-clients.html)
+Створив версію для LUA: [Перший код в LUA. Скрипт для роутера з OpenWRT. MQTT та Telegram статус підключених WiFi clients.](/2021-12-17-перший-код-в-lua-скрипт-для-роутера-з-openwrt-mqtt-та-telegram-статус-підключених-wifi-clients.md)
