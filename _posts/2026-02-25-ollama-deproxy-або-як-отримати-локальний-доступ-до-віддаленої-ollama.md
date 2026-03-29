@@ -83,8 +83,17 @@ ssh remote@server -L 11434:localhost:11434
 [![](/assets/images/blog/3f799e76847ecd64-f83d3dce2a710871.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-wY4774AFVNWzLH_MkVK_Y6FI0y08_HRSoCI9g-rn8vWnrVrpCxmO1v4UH2jGzjcgcuyAt3oai9IiiWmCh2ffehlweWRD3HluuPrjBqFHFqyBsp6V84L9DM9lKl300k3WLyJwHq_7aBPPjJm80TYWVT9Ra1TNcVBRBH9hSD7_0HKn0K21YmiRz7VBQiOi/s1900/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-05%20171748.png)  
 *PyCharm  AI Assistant + Ollama + Ollama DeProxy*
 
+### pypi:
+
+Додано проєкт до репозиторію [pypi](https://pypi.org/project/ollama-deproxy/):
+
+```
+pip install ollama-deproxy
+```
+
 ### За матеріалами:
 
 * [Оllama](https://github.com/ollama/ollama)
 * [openwebui.com - api proxy](https://docs.openwebui.com/reference/api-endpoints#-ollama-api-proxy-support)
 * [ollama-deproxy](https://github.com/lexxai/ollama-deproxy)
+* [pip install ollama-deproxy](https://pypi.org/project/ollama-deproxy/)
