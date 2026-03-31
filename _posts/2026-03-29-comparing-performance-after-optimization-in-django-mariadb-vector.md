@@ -11,7 +11,7 @@ Since version v0.2.0, the '[django-mariadb-vector](https://github.com/lexxai/dja
 [![](/assets/images/blog/ba2a47ea6962ae43-65e1f6352affc05e.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-rmEfoDsCN-hz_Dnqy3oOhZf-ZWtnr4LLMXwi4tiW4e2qIJsu9cKMDrR99GPgoPQ4xmgTyFLHzJZftZW0EEgJRYttBhCnZhC7S0dVecu7M1qWaXSRrPNEfLl5YOw7qCrkpbF-TiEX34oGMBYERQeUJk-vFy1TE_1g3woGrfO9vr4QiNN2tirD_4wTQBE1/s1690/.perf_v0.2.0.png)  
 *Performance results*
 
-***Note**: Performance was measured using 20,000 iterations (3 runs) in `tests/test\_performance.py`, with randomly generated vectors of dimension 3072.*
+***Note**: Performance was measured using 20,000 iterations (3 runs) in `tests/measure\_performance.py`, with randomly generated vectors of dimension 3072.*
 
 ### Benefits 'orlson' vs 'json'
 
