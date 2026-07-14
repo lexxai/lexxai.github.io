@@ -10,6 +10,8 @@ blogger_orig_link: https://lexxai.blogspot.com/2026/07/the-csa-browser-add-on-ha
 
 🔗 [CSA - Помічник для збереж. файлів з Coursera - Веб-магазин Chrome](https://chromewebstore.google.com/detail/csa-asst-for-saving-files/dmoebncbmkgfpjhjikkjljmbaacncohl)
 
+🔗 [CSA - Помічник для збереж. файлів з Coursera - Веб-магазин Mozilla Firefox](https://addons.mozilla.org/firefox/addon/csa-coursera-save-assist/)
+
 🔗 [Repository](https://github.com/lexsysko/CourseraSaveAssist)
 
 🏛️ Помічник для збереження медіа файлів з сайту www.coursera.org, таких як відео, субтитри та описи до відео. Помічник готує імена файлів для збереження, а користувач зберігає файли з новими іменами до власної теки.
