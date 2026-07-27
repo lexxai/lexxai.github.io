@@ -1,0 +1,56 @@
+---
+layout: post
+title: "Add Boot Driver for DualBoot Ubuntu and MacOS with OpenCore"
+date: 2026-07-27 12:49:51 +0000
+tags: ["broadcom", "dualboot", "MacBook Air", "macOS", "OCLP.", "Sonoma", "ubuntu", "UEFI boot", "wifi"]
+blogger_orig_link: https://lexxai.blogspot.com/2026/07/add-boot-driver-for-dualboot-ubuntu-and.html
+---
+
+Передісторія: у доньки є старенький MacBook Air моделі 7.2 2017 року, який
+вона використовує для простих завдань.   
+З часом я вже ремонтував його,
+замінивши SSD на Samsung M.2 EVO 512 ГБ через перехідну плату. Тож тепер місця
+стало значно більше, ніж на рідному диску обсягом 120 ГБ.  
+Модель MacBook
+Air 7.2 2017 року це:
+
+* процесор: Intel i5
+* оперативної пам'яті: 8 ГБ
+* відеоадаптер: Intel HD 6000
+* Wi-Fi адаптер:  Broadcom BCM4360 802.11ac Dual Band Wireless
+  [14e4:43a0] (rev 03)
+
+Під час заміни диска я також встановив за допомогою OpenCore Legacy Patcher
+версію macOS "Sonoma". Але забула вона, що оновлювати її більше не можна, і
+нове оновлення macOS стерло драйвери Wi-Fi адаптера, тож система залишилася
+без Wi-Fi, адже він не підтримується у macOS "Sonoma". І вона відновила стару
+версію macOS що була при виробництві.  
+  
+У мене знову та сама задача з OpenCore Legacy Patcher та macOS "Sonoma", але цього разу я вирішив додати альтернативу - Ubuntu 26.04 LTS.
+
+Встановив macOS "Sonoma" з нуля через USB-інсталяцію, створену за допомогою [OpenCore Legacy Patcher GUI tools](https://dortania.github.io/OpenCore-Legacy-Patcher).
+
+Потім розділив диск 512 ГБ на 60 ГБ у форматі FAT для Ext4 та 8 ГБ FAT для Swap. На 60 ГБ розділ встановив Ubuntu 26.04 LTS як "/", а на 8 ГБ розділ - "Swap".
+
+Проте Wi-Fi (BCM4360) не запрацював, тож я роздав інтернет через Bluetooth зі свого мобільного телефону, щоб оновити систему та встановити потрібне.
+
+[![](/assets/images/blog/ada394fe61778e09-714187b445a1f555.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0uKemO4IgiRnoWbMxugKRifLnn8OyUiRhB75mWZJWhtmX8Mv3KrDky9FYXA01q2-HA5LcgDyEGs6J5nkxrSZFUhrmar1-O8RP_RccxvvQ6JttrhNZBz2lRKXcj3ZRo1Fu1kY-Xyhyxn281K54e-IgHuSysy6AYpwf8KTaccOqVviQc3I_W3_eTHe-iERH/s4000/20260725_214243.jpg)  
+*Bluetooth з мобільного телефону в Ubuntu*
+
+  
+
+Для відновлення роботи Wi-Fi встановлюю *broadcom-sta-dkms*:
+
+```
+sudo apt install broadcom-sta-dkms
+```
+
+Все запрацювало після перезавантаження.
+
+### Подвійне завантаження систем macOS та Ubuntu.
+
+EFI boot розділ один і основний для OCLP. Тому для того щоб не затиралася інформація про Ubuntu Grub EFI loader я змінив файл "*config.plist*" з завантажувача OCLP додавши драйвер файлової системи Ext4 - "[OpenCore-1.0.7-RELEASE/X64/EFI/OC/Drivers/Ext4Dxe.efi](https://github.com/acidanthera/OpenCorePkg/releases)".   
+  
+Я створив простий BASH-скрипт для macOS під назвою: [mount\_and\_fix\_oc.sh](https://gist.github.com/lexsysko/acc2e1d891e5869c485fae82a51fa4f9) , який монтує EFI Volume, копіює файл "*Ext4Dxe.efi*" у теку "*/EFI/EFI/OC/Drivers*" та за допомогою "*/usr/libexec/PlistBuddy*" додає його в розділ "*:UEFI:Drivers:0*" файлу "*config.plist*".  
+  
+Результат завантаження системи Ubuntu and MacOS:
