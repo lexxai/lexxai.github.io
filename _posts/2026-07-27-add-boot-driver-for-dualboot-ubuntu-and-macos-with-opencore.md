@@ -6,11 +6,19 @@ tags: ["broadcom", "dualboot", "MacBook Air", "macOS", "OCLP.", "Sonoma", "ubunt
 blogger_orig_link: https://lexxai.blogspot.com/2026/07/add-boot-driver-for-dualboot-ubuntu-and.html
 ---
 
-Передісторія: у доньки є старенький MacBook Air моделі 7.2 2017 року, який
+### Передісторія
+
+У доньки є старенький MacBook Air моделі 7.2 2017 року, який
 вона використовує для простих завдань.   
 З часом я вже ремонтував його,
-замінивши SSD на Samsung M.2 EVO 512 ГБ через перехідну плату. Тож тепер місця
+замінивши SSD на Samsung M.2 EVO 970Plus 500 ГБ через   
+перехідну плату. Це остання модель MacBook Air котра дозволяла це робити.   
+Тож тепер місця
 стало значно більше, ніж на рідному диску обсягом 120 ГБ.  
+
+[![](/assets/images/blog/f83ca6f4751b0bd0-dac241530bd3e4f4.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnS3ReOVMtwoccb2wJGJG_RYIiDh9lHOlopP6Y1DhB5GjhS0tpxxhgN1ociRu3QzpTakB1C5Mm8OCfHPBIDq4CR0ON76RKR9tiftfWtHa5fu34On9JNckIgStxC_9GCed-ghG9iwhD56ZIBzgyQySeeio8fJjFpFmPXEo9KS6F1A1UjR3mEq41wwW9kvk/s4000/20231016_173056.jpg)  
+*SSD Samsung M.2 черезперехідну плату*
+
 Модель MacBook
 Air 7.2 2017 року це:
 
@@ -20,13 +28,15 @@ Air 7.2 2017 року це:
 * Wi-Fi адаптер:  Broadcom BCM4360 802.11ac Dual Band Wireless
   [14e4:43a0] (rev 03)
 
-Під час заміни диска я також встановив за допомогою OpenCore Legacy Patcher
-версію macOS "Sonoma". Але забула вона, що оновлювати її більше не можна, і
+Під час заміни диска я також встановив за допомогою "OpenCore Legacy Patcher" версію macOS "Sonoma" з доданими усіма відсутніми драйверами. Але забула вона, що оновлювати її більше не можна, і
 нове оновлення macOS стерло драйвери Wi-Fi адаптера, тож система залишилася
-без Wi-Fi, адже він не підтримується у macOS "Sonoma". І вона відновила стару
-версію macOS що була при виробництві.  
-  
-У мене знову та сама задача з OpenCore Legacy Patcher та macOS "Sonoma", але цього разу я вирішив додати альтернативу - Ubuntu 26.04 LTS.
+без Wi-Fi, адже він, Broadcom BCM4360, не підтримується у macOS "Sonoma".   
+І вона вимушена була відновила стару
+версію macOS "Mojave" що була при виробництві через Recovery tools.
+
+І ось, коли донька приїхала в гості, мені знову довелося вирішувати ту ж задачу з "OpenCore Legacy Patcher" та macOS "Sonoma", але цього разу я вирішив встановити ще й альтернативну операційну систему - Ubuntu 26.04 LTS.
+
+### Встановлення операційних систем
 
 Встановив macOS "Sonoma" з нуля через USB-інсталяцію, створену за допомогою [OpenCore Legacy Patcher GUI tools](https://dortania.github.io/OpenCore-Legacy-Patcher).
 
@@ -34,7 +44,7 @@ Air 7.2 2017 року це:
 
 Проте Wi-Fi (BCM4360) не запрацював, тож я роздав інтернет через Bluetooth зі свого мобільного телефону, щоб оновити систему та встановити потрібне.
 
-[![](/assets/images/blog/ada394fe61778e09-714187b445a1f555.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0uKemO4IgiRnoWbMxugKRifLnn8OyUiRhB75mWZJWhtmX8Mv3KrDky9FYXA01q2-HA5LcgDyEGs6J5nkxrSZFUhrmar1-O8RP_RccxvvQ6JttrhNZBz2lRKXcj3ZRo1Fu1kY-Xyhyxn281K54e-IgHuSysy6AYpwf8KTaccOqVviQc3I_W3_eTHe-iERH/s4000/20260725_214243.jpg)  
+[![](/assets/images/blog/abb9dd2c747843d3-714187b445a1f555.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Ya3WWWEXAWBq3b2ZdjwXAK3DNWpDT1Z0jnROxpZDL1XWKM_9XCrJhNiAv4byn9SwFDTmdDfFaO28cN4_iRyWNDdWKk1iEk8EqBut4C-PfKcXgHPV0Dmm4GFyRT0-TSd2hdx-NvpL5ggHEd7WuTUsG1aHYBJ2Y6IZfAZm4jSb5CVBHmvKNPqV4AKbVzo/s4000/20260725_214243.jpg)  
 *Bluetooth з мобільного телефону в Ubuntu*
 
   
