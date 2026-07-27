@@ -64,3 +64,5 @@ EFI boot розділ один і основний для OCLP. Тому для 
 Я створив простий BASH-скрипт для macOS під назвою: [mount\_and\_fix\_oc.sh](https://gist.github.com/lexsysko/acc2e1d891e5869c485fae82a51fa4f9) , який монтує EFI Volume, копіює файл "*Ext4Dxe.efi*" у теку "*/EFI/EFI/OC/Drivers*" та за допомогою "*/usr/libexec/PlistBuddy*" додає його в розділ "*:UEFI:Drivers:0*" файлу "*config.plist*".  
   
 Результат завантаження системи Ubuntu and MacOS:
+
+* [Video: Dual boot MacBook Air 7.2 (2017) Core Legacy (Sonoma) and Ubuntu 26.04 LTS](https://youtu.be/jOcvtdfqfYw)
