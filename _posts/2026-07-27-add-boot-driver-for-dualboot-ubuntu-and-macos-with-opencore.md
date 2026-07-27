@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Add Boot Driver for DualBoot Ubuntu and MacOS with OpenCore"
-date: 2026-07-27 12:49:51 +0000
+date: 2026-07-27 15:02:54 +0000
 tags: ["broadcom", "dualboot", "MacBook Air", "macOS", "OCLP.", "Sonoma", "ubuntu", "UEFI boot", "wifi"]
 blogger_orig_link: https://lexxai.blogspot.com/2026/07/add-boot-driver-for-dualboot-ubuntu-and.html
 ---
